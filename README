@@ -1,0 +1,18 @@
+Source code acquisition
+=======================
+
+This repository controls the source code acquisition service known as Lorry.
+
+When it was created, there were two stanzas in the controller configuration
+file.  One which retrieved open source Baserock into your Trove and one which
+allows you to create individual Lorry configurations for other open source
+code.
+
+Please refer to the Trove Reference Manual chapters on the source code
+acquisition service (Lorry) and the Developing With Baserock document's
+scenarios regarding adding external software to your Trove before attempting to
+add any additional configuration to this repository.
+
+Remember, the Lorry tool is not permitted to manage repositories inside your
+prefix which is baserock.
+
