@@ -1,0 +1,7 @@
+{
+ "pyyaml": {
+ "type": "svn",
+ "url": "http://svn.pyyaml.org/pyyaml",
+ "layout": "standard"
+ }
+}
