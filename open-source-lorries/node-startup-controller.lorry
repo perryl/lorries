@@ -1,0 +1,6 @@
+{
+ "node-startup-controller": {
+ "type": "git",
+ "url": "git://git.projects.genivi.org/lifecycle/node-startup-controller.git",
+ }
+}
