@@ -1,0 +1,7 @@
+{
+    "connman": {
+        "type": "git",
+        "url": "git://git.kernel.org/pub/scm/network/connman/connman.git"
+    }
+}
+
