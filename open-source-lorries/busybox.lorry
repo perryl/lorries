@@ -1,0 +1,6 @@
+{
+    "busybox": {
+        "type": "git",
+        "url": "git://busybox.net/busybox.git"
+    }
+}

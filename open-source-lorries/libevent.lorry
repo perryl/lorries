@@ -1,0 +1,7 @@
+{
+    "libevent": {
+        "type": "git",
+        "url": "git://levent.git.sourceforge.net/gitroot/levent/libevent"
+    }
+}
+

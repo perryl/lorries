@@ -1,0 +1,6 @@
+{
+   "gnulib": {
+        "type": "git",
+        "url": "git://git.savannah.gnu.org/gnulib.git"
+   }
+} 

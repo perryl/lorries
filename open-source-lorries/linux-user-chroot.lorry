@@ -1,0 +1,6 @@
+{
+    "linux-user-chroot": {
+        "type": "git",
+        "url": "git://git.gnome.org/linux-user-chroot"
+    }
+}

@@ -1,0 +1,6 @@
+{
+    "hg-fast-export": {
+        "type": "git",
+        "url": "git://github.com/barak/hg-fast-export.git"
+    }
+}

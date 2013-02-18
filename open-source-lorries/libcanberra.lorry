@@ -1,0 +1,6 @@
+{
+    "libcanberra": {
+        "type": "git",
+        "url": "git://git.0pointer.de/libcanberra"
+    }
+}

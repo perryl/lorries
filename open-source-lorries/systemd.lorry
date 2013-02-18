@@ -1,0 +1,6 @@
+{
+    "systemd": {
+        "type": "git",
+        "url": "git://anongit.freedesktop.org/systemd/systemd"
+    }
+}

@@ -1,0 +1,6 @@
+{
+    "libxml2": {
+        "type": "git",
+        "url": "git://git.gnome.org/libxml2"
+    }
+}

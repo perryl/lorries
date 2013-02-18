@@ -1,0 +1,6 @@
+{
+    "gnome-common": {
+        "type": "git",
+        "url": "git://git.gnome.org/gnome-common"
+    }
+}

@@ -1,0 +1,6 @@
+{
+    "cmdtest": {
+        "type": "git",
+        "url": "git://gitorious.org/cmdtest/cmdtest.git"
+    }
+}

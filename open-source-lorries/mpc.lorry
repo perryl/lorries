@@ -1,0 +1,7 @@
+{
+    "mpc": {
+        "type": "svn",
+        "url": "svn://scm.gforge.inria.fr/svn/mpc",
+        "layout": "standard"
+    }
+}

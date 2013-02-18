@@ -1,0 +1,6 @@
+{
+    "pango": {
+        "type": "git",
+        "url": "git://git.gnome.org/pango"
+    }
+}

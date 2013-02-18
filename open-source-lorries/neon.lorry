@@ -1,0 +1,7 @@
+{
+    "neon": {
+        "type": "svn",
+        "url": "http://svn.webdav.org/repos/projects/neon/",
+        "layout": "standard"
+    }
+}

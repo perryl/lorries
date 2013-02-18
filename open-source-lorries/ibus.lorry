@@ -1,0 +1,6 @@
+{
+    "ibus": {
+        "type": "git",
+        "url": "git://github.com/ibus/ibus.git"
+    }
+}

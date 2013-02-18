@@ -1,0 +1,7 @@
+{
+    "mpfr": {
+        "type": "svn",
+        "url": "svn://scm.gforge.inria.fr/svn/mpfr/",
+        "layout": "standard"
+    }
+}

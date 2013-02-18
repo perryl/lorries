@@ -1,0 +1,6 @@
+{
+    "classpath": {
+        "type": "git",
+        "url": "git://git.savannah.gnu.org/classpath.git"
+    }
+}

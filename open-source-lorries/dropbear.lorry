@@ -1,0 +1,6 @@
+{
+    "dropbear": {
+        "type": "hg",
+        "url": "https://secure.ucc.asn.au/hg/dropbear/"
+    }
+}

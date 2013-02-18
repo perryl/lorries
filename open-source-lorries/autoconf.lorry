@@ -1,0 +1,6 @@
+{
+    "autoconf": {
+        "type": "git",
+        "url": "git://git.sv.gnu.org/autoconf"
+    }
+}

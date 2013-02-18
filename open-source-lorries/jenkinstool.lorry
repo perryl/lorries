@@ -1,0 +1,6 @@
+{
+    "jenkinstool": {
+        "type": "git",
+        "url": "git://git.gitano.org.uk/personal/liw/jenkinstool"
+    }
+}

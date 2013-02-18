@@ -1,0 +1,6 @@
+{
+    "rsync": {
+        "type": "git",
+        "url": "git://git.samba.org/rsync.git"
+    }
+}

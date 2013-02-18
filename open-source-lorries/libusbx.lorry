@@ -1,0 +1,6 @@
+{
+    "libusbx": {
+        "type": "git",
+        "url": "git://libusbx.git.sourceforge.net/gitroot/libusbx/libusbx"
+    }
+}

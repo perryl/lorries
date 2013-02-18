@@ -1,0 +1,6 @@
+{
+    "gdb": {
+        "type": "git",
+        "url": "git://sourceware.org/git/gdb.git"
+    }
+}

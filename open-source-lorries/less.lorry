@@ -1,0 +1,8 @@
+{
+    "less": {
+        "type": "tarball",
+        "compression": "gzip",
+        "strip": 1,
+        "url": "http://www.greenwoodsoftware.com/less/less-451.tar.gz"
+    }
+}

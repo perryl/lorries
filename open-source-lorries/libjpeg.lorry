@@ -1,0 +1,7 @@
+{
+    "libjpeg": {
+        "type": "cvs",
+        "url": ":pserver:anonymous@libjpeg.cvs.sourceforge.net:/cvsroot/libjpeg",
+        "module": "libjpeg"
+    }
+}

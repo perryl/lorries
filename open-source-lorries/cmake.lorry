@@ -1,0 +1,6 @@
+{
+    "cmake": {
+        "type": "git",
+        "url": "git://cmake.org/cmake.git"
+    }
+}

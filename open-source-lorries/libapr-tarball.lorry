@@ -1,0 +1,8 @@
+{
+    "libapr-tarball": {
+        "type": "tarball",
+        "compression": "bzip2",
+        "strip": 1,
+        "url": "http://apache.mirror.anlx.net//apr/apr-1.4.6.tar.bz2"
+    }
+}

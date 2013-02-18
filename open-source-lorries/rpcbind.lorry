@@ -1,0 +1,6 @@
+{
+    "rpcbind": {
+        "type": "git",
+        "url": "git://git.infradead.org/users/steved/rpcbind.git"
+    }
+}

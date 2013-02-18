@@ -1,0 +1,6 @@
+{
+    "python-coverage-test-runner": {
+        "type": "bzr",
+        "url": "http://code.liw.fi/coverage-test-runner/bzr/trunk/"
+    }
+}

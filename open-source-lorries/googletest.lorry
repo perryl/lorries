@@ -1,0 +1,7 @@
+{
+    "googletest": {
+        "type": "svn",
+        "url": "http://googletest.googlecode.com/svn",
+        "layout": "standard"
+    }
+}

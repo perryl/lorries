@@ -1,0 +1,6 @@
+{
+    "cpython": {
+        "type": "hg",
+        "url": "http://hg.python.org/cpython"
+    }
+}

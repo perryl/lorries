@@ -1,0 +1,6 @@
+{
+    "make": {
+        "type": "bzr",
+        "url": "lp:make"
+    }
+}

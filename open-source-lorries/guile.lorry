@@ -1,0 +1,6 @@
+{
+    "guile": {
+        "type": "git",
+        "url": "git://git.sv.gnu.org/guile.git"
+    }
+}

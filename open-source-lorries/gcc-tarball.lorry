@@ -1,0 +1,8 @@
+{
+    "gcc-tarball": {
+        "type": "tarball",
+        "compression": "bzip2",
+        "strip": 1,
+        "url": "http://ftp.gnu.org/gnu/gcc/gcc-4.6.2/gcc-4.6.2.tar.bz2"
+    }
+}

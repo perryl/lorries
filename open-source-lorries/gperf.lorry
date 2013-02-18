@@ -1,0 +1,6 @@
+{
+    "gperf": {
+        "type": "git",
+        "url": "git://git.savannah.gnu.org/gperf.git"
+    }
+}

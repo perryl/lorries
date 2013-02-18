@@ -1,0 +1,11 @@
+{
+    "e2fsprogs": {
+        "type": "git",
+        "url": "git://git.kernel.org/pub/scm/fs/ext2/e2fsprogs.git",
+        "refspecs": [
+            "master",
+            "maint",
+            "refs/tags/*"
+        ]
+    }
+}

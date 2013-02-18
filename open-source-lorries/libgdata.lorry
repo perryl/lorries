@@ -1,0 +1,6 @@
+{
+    "libgdata": {
+        "type": "git",
+        "url": "git://git.gnome.org/libgdata"
+    }
+}

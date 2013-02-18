@@ -1,0 +1,6 @@
+{
+    "bgproc": {
+        "type": "bzr",
+        "url": "http://code.liw.fi/bgproc/bzr/trunk/"
+    }
+}

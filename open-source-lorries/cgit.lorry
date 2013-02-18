@@ -1,0 +1,6 @@
+{
+    "cgit": {
+        "type": "git",
+        "url": "git://hjemli.net/pub/git/cgit"
+    }
+}

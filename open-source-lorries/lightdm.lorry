@@ -1,0 +1,6 @@
+{
+    "lightdm": {
+        "type": "bzr",
+        "url": "lp:lightdm"
+    }
+}

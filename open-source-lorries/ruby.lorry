@@ -1,0 +1,6 @@
+{
+    "ruby": {
+        "type": "git",
+        "url": "git://github.com/ruby/ruby.git"
+    }
+}

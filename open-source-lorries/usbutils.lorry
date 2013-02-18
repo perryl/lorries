@@ -1,0 +1,6 @@
+{
+    "usbutils": {
+        "type": "git",
+        "url": "git://github.com/gregkh/usbutils.git"
+    }
+}

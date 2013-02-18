@@ -1,0 +1,6 @@
+{
+    "libffi": {
+        "type": "git",
+        "url": "git://github.com/atgreen/libffi.git"
+    }
+}

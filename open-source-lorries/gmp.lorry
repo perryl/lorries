@@ -1,0 +1,6 @@
+{
+    "gmp": {
+        "type": "hg",
+        "url": "http://gmplib.org:8000/gmp"
+    }
+}

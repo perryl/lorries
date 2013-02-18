@@ -1,0 +1,6 @@
+{
+    "libunistring": {
+        "type": "git",
+        "url": "git://git.savannah.gnu.org/libunistring.git"
+    }
+}

@@ -1,0 +1,6 @@
+{
+    "py2cairo": {
+        "type": "git",
+        "url": "git://anongit.freedesktop.org/git/py2cairo"
+    }
+}

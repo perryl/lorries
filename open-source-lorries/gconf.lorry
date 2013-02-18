@@ -1,0 +1,6 @@
+{
+    "gconf": {
+        "type": "git",
+        "url": "git://git.gnome.org/gconf"
+    }
+}

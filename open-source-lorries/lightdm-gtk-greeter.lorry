@@ -1,0 +1,6 @@
+{
+    "lightdm-gtk-greeter": {
+        "type": "bzr",
+        "url": "lp:lightdm-gtk-greeter"
+    }
+}

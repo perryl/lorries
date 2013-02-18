@@ -1,0 +1,6 @@
+{
+    "iso-codes": {
+        "type": "git",
+        "url": "git://git.debian.org/git/iso-codes/iso-codes"
+    }
+}

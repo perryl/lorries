@@ -1,0 +1,6 @@
+{
+    "libxslt": {
+        "type": "git",
+        "url": "git://git.gnome.org/libxslt"
+    }
+}

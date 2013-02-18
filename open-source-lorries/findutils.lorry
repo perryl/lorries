@@ -1,0 +1,6 @@
+{
+    "findutils": {
+        "type": "git",
+        "url": "git://git.savannah.gnu.org/findutils.git"
+    }
+}

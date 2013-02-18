@@ -1,0 +1,23 @@
+{
+    "binutils-redhat": {
+        "type": "git",
+        "url": "git://sources.redhat.com/git/binutils.git",
+        "refspecs": [
+            "master",
+            "binutils-2_10-branch",
+            "binutils-2_11-branch",
+            "binutils-2_12-branch",
+            "binutils-2_13-branch",
+            "binutils-2_14-branch",
+            "binutils-2_15-branch",
+            "binutils-2_16-branch",
+            "binutils-2_17-branch",
+            "binutils-2_18-branch",
+            "binutils-2_19-branch",
+            "binutils-2_20-branch",
+            "binutils-2_21-branch",
+            "binutils-2_22-branch",
+            "refs/tags/*"
+        ]
+    }
+}

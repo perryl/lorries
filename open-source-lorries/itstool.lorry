@@ -1,0 +1,6 @@
+{
+    "itstool": {
+        "type": "git",
+        "url": "git://gitorious.org/itstool/itstool"
+    }
+}

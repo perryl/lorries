@@ -1,0 +1,8 @@
+{
+    "nss": {
+        "type": "tarball",
+        "compression": "gzip",
+        "strip": 1,
+        "url": "http://ftp.mozilla.org/pub/mozilla.org/security/nss/releases/NSS_3_12_11_RTM/src/nss-3.12.11.tar.gz"
+    }
+}

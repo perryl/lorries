@@ -1,0 +1,6 @@
+{
+    "evolution-data-server": {
+        "type": "git",
+        "url": "git://git.gnome.org/evolution-data-server"
+    }
+}

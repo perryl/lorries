@@ -1,0 +1,6 @@
+{
+    "xserver": {
+        "type": "git",
+        "url": "git://anongit.freedesktop.org/xorg/xserver.git"
+    }
+}

@@ -1,0 +1,6 @@
+{
+    "nfs-utils": {
+        "type": "git",
+        "url": "git://git.linux-nfs.org/projects/steved/nfs-utils.git"
+    }
+}

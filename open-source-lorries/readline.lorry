@@ -1,0 +1,6 @@
+{
+    "readline": {
+        "type": "git",
+        "url": "git://git.savannah.gnu.org/readline.git"
+    }
+}

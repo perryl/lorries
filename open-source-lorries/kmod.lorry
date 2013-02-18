@@ -1,0 +1,6 @@
+{
+    "kmod": {
+        "type": "git",
+        "url": "git://git.profusion.mobi/kmod.git"
+    }
+}

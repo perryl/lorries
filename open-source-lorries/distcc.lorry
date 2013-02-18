@@ -1,0 +1,7 @@
+{
+    "distcc": {
+        "type": "svn",
+        "url": "http://distcc.googlecode.com/svn",
+        "layout": "standard"
+    }
+}

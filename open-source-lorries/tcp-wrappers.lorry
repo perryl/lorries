@@ -1,0 +1,9 @@
+{
+    "tcp-wrappers": {
+        "type": "tarball",
+        "compression": "gzip",
+        "strip": "1",
+        "url": "ftp://ftp.porcupine.org/pub/security/tcp_wrappers_7.6.tar.gz"
+    }
+}
+

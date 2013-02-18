@@ -1,0 +1,6 @@
+{
+    "perl-dbi-tarball": {
+        "type": "tarball",
+        "url": "http://search.cpan.org/CPAN/authors/id/T/TI/TIMB/DBI-1.622.tar.gz"
+    }
+}

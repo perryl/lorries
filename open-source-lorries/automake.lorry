@@ -1,0 +1,6 @@
+{
+    "automake": {
+        "type": "git",
+        "url": "git://git.savannah.gnu.org/automake.git"
+    }
+}

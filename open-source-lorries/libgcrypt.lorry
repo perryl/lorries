@@ -1,0 +1,6 @@
+{
+    "libgcrypt": {
+        "type": "git",
+        "url": "git://git.gnupg.org/libgcrypt"
+    }
+}

@@ -1,0 +1,6 @@
+{
+    "strace": {
+        "type": "git",
+        "url": "git://strace.git.sourceforge.net/gitroot/strace/strace"
+    }
+}

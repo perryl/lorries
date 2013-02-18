@@ -1,0 +1,6 @@
+{
+    "perl-dbd-sqlite-tarball": {
+        "type": "tarball",
+        "url": "http://search.cpan.org/CPAN/authors/id/A/AD/ADAMK/DBD-SQLite-1.38_01.tar.gz"
+    }
+}

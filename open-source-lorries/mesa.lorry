@@ -1,0 +1,6 @@
+{
+    "mesa": {
+        "type": "git",
+        "url": "git://anongit.freedesktop.org/mesa/mesa"
+    }
+}

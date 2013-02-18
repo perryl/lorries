@@ -1,0 +1,6 @@
+{
+    "yelp-tools": {
+        "type": "git",
+        "url": "git://git.gnome.org/yelp-tools"
+    }
+}

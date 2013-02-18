@@ -1,0 +1,7 @@
+{
+    "flex": {
+        "type": "cvs",
+        "url": ":pserver:anonymous@flex.cvs.sourceforge.net:/cvsroot/flex",
+        "module": "flex"
+    }
+}

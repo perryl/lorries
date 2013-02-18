@@ -1,0 +1,6 @@
+{
+    "syslinux": {
+        "type": "git",
+        "url": "git://git.kernel.org/pub/scm/boot/syslinux/syslinux.git"
+    }
+}

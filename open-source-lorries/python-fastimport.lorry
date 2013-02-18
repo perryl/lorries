@@ -1,0 +1,6 @@
+{
+    "python-fastimport": {
+        "type": "bzr",
+        "url": "lp:python-fastimport"
+    }
+}

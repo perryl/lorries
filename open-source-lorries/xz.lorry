@@ -1,0 +1,6 @@
+{
+    "xz": {
+        "type": "git",
+        "url": "http://git.tukaani.org/xz.git"
+    }
+}

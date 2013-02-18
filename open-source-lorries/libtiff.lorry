@@ -1,0 +1,7 @@
+{
+    "libtiff": {
+        "type": "cvs",
+        "url": ":pserver:cvsanon@cvs.maptools.org:/cvs/maptools/cvsroot",
+        "module": "libtiff"
+    }
+}

@@ -1,0 +1,6 @@
+{
+    "lcms2": {
+        "type": "git",
+        "url": "git://github.com/mm2/Little-CMS"
+    }
+}

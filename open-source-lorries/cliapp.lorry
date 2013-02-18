@@ -1,0 +1,6 @@
+{
+    "cliapp": {
+        "type": "bzr",
+        "url": "http://code.liw.fi/cliapp/bzr/trunk/"
+    }
+}

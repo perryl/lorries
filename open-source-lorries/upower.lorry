@@ -1,0 +1,6 @@
+{
+    "upower": {
+        "type": "git",
+        "url": "git://anongit.freedesktop.org/upower"
+    }
+}

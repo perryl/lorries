@@ -1,0 +1,8 @@
+{
+    "js185": {
+        "type": "tarball",
+        "compression": "gzip",
+        "strip": 1,
+        "url": "http://ftp.mozilla.org/pub/mozilla.org/js/js185-1.0.0.tar.gz"
+    }
+}

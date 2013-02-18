@@ -1,0 +1,6 @@
+{
+    "gdbm": {
+        "type": "git",
+        "url": "git://git.gnu.org.ua/gdbm.git"
+    }
+}

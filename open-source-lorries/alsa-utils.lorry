@@ -1,0 +1,9 @@
+{
+    "alsa-utils": {
+        "type": "git",
+        "url": "git://git.alsa-project.org/alsa-utils.git",
+        "refspecs": [
+            "amixer", "master", "ucm", "refs/tags/*"
+        ]
+    }
+}

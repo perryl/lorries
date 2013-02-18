@@ -1,0 +1,6 @@
+{
+    "libtasn1": {
+        "type": "git",
+        "url": "git://git.savannah.gnu.org/libtasn1"
+    }
+}

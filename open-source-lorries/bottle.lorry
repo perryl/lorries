@@ -1,0 +1,6 @@
+{
+    "bottle": {
+        "type": "git",
+        "url": "git://github.com/defnull/bottle.git"
+    }
+}

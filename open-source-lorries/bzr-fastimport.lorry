@@ -1,0 +1,6 @@
+{
+    "bzr-fastimport": {
+        "type": "bzr",
+        "url": "lp:bzr-fastimport"
+    }
+}

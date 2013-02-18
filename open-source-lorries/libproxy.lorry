@@ -1,0 +1,7 @@
+{
+    "libproxy": {
+        "type": "svn",
+        "url": "http://libproxy.googlecode.com/svn",
+        "layout": "standard"
+    }
+}

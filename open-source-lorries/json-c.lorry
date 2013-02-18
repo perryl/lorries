@@ -1,0 +1,6 @@
+{
+    "json-c": {
+        "type": "git",
+        "url": "git://github.com/json-c/json-c.git"
+    }
+}

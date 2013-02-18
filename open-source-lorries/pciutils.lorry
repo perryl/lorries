@@ -1,0 +1,6 @@
+{
+    "pciutils": {
+        "type": "git",
+        "url": "git://git.kernel.org/pub/scm/utils/pciutils/pciutils.git"
+    }
+}

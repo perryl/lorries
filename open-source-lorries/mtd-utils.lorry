@@ -1,0 +1,6 @@
+{
+    "mtd-utils": {
+        "type": "git",
+        "url": "git://git.infradead.org/mtd-utils.git"
+    }
+}

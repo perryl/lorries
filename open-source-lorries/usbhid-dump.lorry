@@ -1,0 +1,6 @@
+{
+    "usbhid-dump": {
+        "type": "git",
+        "url": "git://digimend.git.sourceforge.net/gitroot/digimend/usbhid-dump.git"
+    }
+}

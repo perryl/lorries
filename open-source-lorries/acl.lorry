@@ -1,0 +1,6 @@
+{
+    "acl": {
+        "type": "git",
+        "url": "git://git.savannah.nongnu.org/acl.git"
+    }
+}

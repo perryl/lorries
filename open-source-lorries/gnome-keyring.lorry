@@ -1,0 +1,6 @@
+{
+    "gnome-keyring": {
+        "type": "git",
+        "url": "git://git.gnome.org/gnome-keyring"
+    }
+}

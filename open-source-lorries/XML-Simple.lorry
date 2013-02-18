@@ -1,0 +1,9 @@
+{
+    "XML-Simple": {
+        "type": "tarball",
+        "compression": "gzip",
+        "strip": 1,
+        "url": "http://search.cpan.org/CPAN/authors/id/G/GR/GRANTM/XML-Simple-2.20.tar.gz"
+
+    }
+}

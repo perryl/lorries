@@ -1,0 +1,6 @@
+{
+    "gobject-introspection": {
+        "type": "git",
+        "url": "git://git.gnome.org/gobject-introspection"
+    }
+}

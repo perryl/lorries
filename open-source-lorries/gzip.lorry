@@ -1,0 +1,6 @@
+{
+    "gzip": {
+        "type": "git",
+        "url": "git://git.savannah.gnu.org/gzip.git"
+    }
+}

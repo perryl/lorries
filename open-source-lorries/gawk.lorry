@@ -1,0 +1,6 @@
+{
+    "gawk": {
+        "type": "git",
+        "url": "git://git.savannah.gnu.org/gawk.git"
+    }
+}

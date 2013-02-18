@@ -1,0 +1,6 @@
+{
+    "ti-rpc": {
+        "type": "git",
+        "url": "git://git.infradead.org/users/steved/libtirpc.git"
+    }
+}

@@ -1,0 +1,6 @@
+{
+    "python-ttystatus": {
+        "type": "bzr",
+        "url": "http://code.liw.fi/ttystatus/bzr/trunk/"
+    }
+}

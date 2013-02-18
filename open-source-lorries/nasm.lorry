@@ -1,0 +1,6 @@
+{
+    "nasm": {
+        "type": "git",
+        "url": "git://repo.or.cz/nasm.git"
+    }
+}

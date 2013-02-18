@@ -1,0 +1,8 @@
+{
+    "intltool": {
+        "type": "bzr",
+        "branches": {
+            "trunk": "https://code.launchpad.net/~intltool/intltool/trunk"
+        }
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "hicolor-icon-theme": {
+        "type": "tarball",
+        "compression": "gzip",
+        "strip": 1,
+        "url": "http://icon-theme.freedesktop.org/releases/hicolor-icon-theme-0.12.tar.gz"
+    }
+}

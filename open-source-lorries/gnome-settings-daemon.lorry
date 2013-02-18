@@ -1,0 +1,6 @@
+{
+    "gnome-settings-daemon": {
+        "type": "git",
+        "url": "git://git.gnome.org/gnome-settings-daemon"
+    }
+}

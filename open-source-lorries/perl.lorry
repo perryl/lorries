@@ -1,0 +1,11 @@
+{
+    "perl": {
+        "type": "git",
+        "url": "git://perl5.git.perl.org/perl.git",
+        "refspecs": [
+            "blead", "compile", "maint-1.0", "maint-5.004",
+            "maint-5.005", "maint-5.6", "maint-5.10", "maint-5.12",
+            "maint-5.14", "refs/tags/*"
+        ]
+    }
+}

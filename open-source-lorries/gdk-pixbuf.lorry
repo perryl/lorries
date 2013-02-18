@@ -1,0 +1,6 @@
+{
+    "gdk-pixbuf": {
+        "type": "git",
+        "url": "git://git.gnome.org/gdk-pixbuf"
+    }
+}

@@ -1,0 +1,8 @@
+{
+  "lzo": {
+    "type": "tarball",
+    "compression": "gzip",
+    "strip": 1,
+    "url": "http://www.oberhumer.com/opensource/lzo/download/lzo-2.06.tar.gz"
+  }
+}

@@ -1,0 +1,7 @@
+{
+    "googlemock": {
+        "type": "svn",
+        "url": "http://googlemock.googlecode.com/svn",
+        "layout": "standard"
+    }
+}

@@ -1,0 +1,6 @@
+{
+    "grep": {
+        "type": "git",
+        "url": "git://git.savannah.gnu.org/grep.git"
+    }
+}

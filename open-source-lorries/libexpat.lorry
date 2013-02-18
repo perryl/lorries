@@ -1,0 +1,7 @@
+{
+    "libexpat": {
+        "type": "cvs",
+        "url": ":pserver:anonymous@expat.cvs.sourceforge.net:/cvsroot/expat",
+        "module": "expat"
+    }
+}

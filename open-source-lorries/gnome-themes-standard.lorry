@@ -1,0 +1,6 @@
+{
+    "gnome-themes-standard": {
+        "type": "git",
+        "url": "git://git.gnome.org/gnome-themes-standard"
+    }
+}

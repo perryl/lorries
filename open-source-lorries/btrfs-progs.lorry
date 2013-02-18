@@ -1,0 +1,6 @@
+{
+    "btrfs-progs": {
+        "type": "git",
+        "url": "git://git.kernel.org/pub/scm/linux/kernel/git/mason/btrfs-progs.git"
+    }
+}

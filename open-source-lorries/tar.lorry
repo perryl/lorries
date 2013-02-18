@@ -1,0 +1,6 @@
+{
+    "tar": {
+        "type": "git",
+        "url": "git://git.savannah.gnu.org/tar.git"
+    }
+}

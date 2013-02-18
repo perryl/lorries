@@ -1,0 +1,6 @@
+{
+    "caribou": {
+        "type": "git",
+        "url": "git://git.gnome.org/caribou"
+    }
+}

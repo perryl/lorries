@@ -1,0 +1,6 @@
+{
+    "u-boot": {
+        "type": "git",
+        "url": "git://git.denx.de/u-boot.git"
+    }
+}

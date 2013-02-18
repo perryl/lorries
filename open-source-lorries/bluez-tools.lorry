@@ -1,0 +1,6 @@
+{
+    "bluez-tools": {
+        "type": "git",
+        "url": "git://gitorious.org/bluez-tools/bluez-tools.git"
+    }
+}

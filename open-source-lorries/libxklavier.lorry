@@ -1,0 +1,6 @@
+{
+    "libxklavier": {
+        "type": "git",
+        "url": "git://anongit.freedesktop.org/libxklavier"
+    }
+}

@@ -1,0 +1,6 @@
+{
+    "vim": {
+        "type": "hg",
+        "url": "https://vim.googlecode.com/hg/"
+    }
+}

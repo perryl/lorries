@@ -1,0 +1,6 @@
+{
+    "metacity": {
+        "type": "git",
+        "url": "git://git.gnome.org/metacity"
+    }
+}

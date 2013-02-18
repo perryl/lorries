@@ -1,0 +1,6 @@
+{
+    "pulseaudio": {
+        "type": "git",
+        "url": "git://anongit.freedesktop.org/pulseaudio/pulseaudio"
+    }
+}

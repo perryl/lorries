@@ -1,0 +1,6 @@
+{
+    "gvfs": {
+        "type": "git",
+        "url": "git://git.gnome.org/gvfs"
+    }
+}

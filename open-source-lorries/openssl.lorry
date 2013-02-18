@@ -1,0 +1,7 @@
+{
+    "openssl": {
+        "type": "cvs",
+        "url": "anonymous@cvs.openssl.org:/openssl-cvs",
+        "module": "openssl"
+    }
+}

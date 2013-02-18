@@ -1,0 +1,6 @@
+{
+    "dbus": {
+        "type": "git",
+        "url": "git://anongit.freedesktop.org/git/dbus/dbus"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "docbook-xsl": {
+        "type": "tarball",
+        "compression": "bzip2",
+        "strip": 1,
+        "url": "http://downloads.sourceforge.net/docbook/docbook-xsl-1.77.1.tar.bz2"
+    }
+}

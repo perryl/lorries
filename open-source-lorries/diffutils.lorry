@@ -1,0 +1,6 @@
+{
+	"diffutils": {
+		"type": "git",
+		"url": "git://git.savannah.gnu.org/diffutils.git"
+	}
+}

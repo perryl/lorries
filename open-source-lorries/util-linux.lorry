@@ -1,0 +1,6 @@
+{
+    "util-linux": {
+        "type": "git",
+        "url": "git://git.kernel.org/pub/scm/utils/util-linux/util-linux.git"
+    }
+}

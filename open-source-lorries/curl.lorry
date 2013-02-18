@@ -1,0 +1,6 @@
+{
+    "curl": {
+        "type": "git",
+        "url": "git://github.com/bagder/curl.git"
+    }
+}

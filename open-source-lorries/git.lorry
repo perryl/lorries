@@ -1,0 +1,11 @@
+{
+    "git": {
+        "type": "git",
+        "url": "git://github.com/gitster/git.git",
+        "refspecs": [
+            "snap", "master", "+next", "naster", "initial",
+            "maint", "maint-1.7.6", "maint-1.7.7",
+            "refs/tags/*"
+        ]
+    }
+}

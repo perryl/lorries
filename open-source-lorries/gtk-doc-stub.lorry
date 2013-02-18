@@ -1,0 +1,6 @@
+{
+    "gtk-doc-stub": {
+        "type": "git",
+        "url": "git://git.gnome.org/gtk-doc-stub"
+    }
+}

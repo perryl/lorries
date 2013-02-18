@@ -1,0 +1,6 @@
+{
+    "patch": {
+        "type": "git",
+        "url": "git://git.savannah.gnu.org/patch.git"
+    }
+}

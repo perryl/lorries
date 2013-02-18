@@ -1,0 +1,6 @@
+{
+    "liboil": {
+        "type": "git",
+        "url": "git://anongit.freedesktop.org/liboil"
+    }
+}

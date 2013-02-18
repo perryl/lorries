@@ -1,0 +1,6 @@
+{
+    "nettle": {
+        "type": "git",
+        "url": "git://git.lysator.liu.se/nettle/nettle.git"
+    }
+}

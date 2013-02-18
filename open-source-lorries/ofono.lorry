@@ -1,0 +1,6 @@
+{
+    "ofono": {
+        "type": "git",
+        "url": "git://git.kernel.org/pub/scm/network/ofono/ofono.git"
+    }
+}

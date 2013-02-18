@@ -1,0 +1,10 @@
+{
+    "alsa-lib": {
+        "type": "git",
+        "url": "git://git.alsa-project.org/alsa-lib.git",
+        "refspecs": [
+            "ascenario", "amixer", "master", "ucm",
+            "refs/tags/*"
+        ]
+    }
+}

@@ -1,0 +1,6 @@
+{
+    "nautilus-sendto": {
+        "type": "git",
+        "url": "git://git.gnome.org/nautilus-sendto"
+    }
+}

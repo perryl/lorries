@@ -1,0 +1,11 @@
+{
+    "python-setuptools": {
+        "type": "svn",
+        "url": "http://svn.python.org/projects/sandbox/",
+        "layout": {
+            "trunk": "trunk/setuptools",
+            "branches": "branches/setuptools/*",
+            "tags": "tags/setuptools/*"
+        }
+    }
+}

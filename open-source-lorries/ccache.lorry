@@ -1,0 +1,10 @@
+{
+    "ccache": {
+        "type": "git",
+        "url": "git://git.samba.org/ccache.git",
+        "refspecs": [
+            "master", "maint",
+            "refs/tags/*"
+        ]
+    }
+}

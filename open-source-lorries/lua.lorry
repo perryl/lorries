@@ -1,0 +1,6 @@
+{
+    "lua": {
+        "type": "git",
+        "url": "git://github.com/LuaDist/lua.git"
+    }
+}

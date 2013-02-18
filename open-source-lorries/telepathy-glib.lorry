@@ -1,0 +1,6 @@
+{
+    "telepathy-glib": {
+        "type": "git",
+        "url": "git://anongit.freedesktop.org/telepathy/telepathy-glib.git"
+    }
+}

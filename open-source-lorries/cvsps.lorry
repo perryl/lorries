@@ -1,0 +1,6 @@
+{
+    "cvsps": {
+        "type": "git",
+        "url": "git://repo.or.cz/cvsps-yd.git"
+    }
+}

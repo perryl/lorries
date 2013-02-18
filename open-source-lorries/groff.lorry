@@ -1,0 +1,7 @@
+{
+    "groff": {
+        "type": "cvs",
+        "url": ":pserver:anonymous@cvs.savannah.gnu.org:/sources/groff",
+        "module": "groff"
+    }
+}
