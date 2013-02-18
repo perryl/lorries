@@ -1,0 +1,34 @@
+{
+    "gitano/luacov": {
+        "type": "git",
+        "url": "git://git.gitano.org.uk/luacov.git"
+    },
+    "gitano/libgit2": {
+        "type": "git",
+        "url": "git://git.gitano.org.uk/libgit2.git"
+    },
+    "gitano/luagit2": {
+        "type": "git",
+        "url": "git://git.gitano.org.uk/luagit2.git"
+    },
+    "gitano/lace": {
+        "type": "git",
+        "url": "git://git.gitano.org.uk/lace.git"
+    },
+    "gitano/clod": {
+        "type": "git",
+        "url": "git://git.gitano.org.uk/clod.git"
+    },
+    "gitano/supple": {
+        "type": "git",
+        "url": "git://git.gitano.org.uk/supple.git"
+    },
+    "gitano/gall": {
+        "type": "git",
+        "url": "git://git.gitano.org.uk/gall.git"
+    },
+    "gitano/gitano": {
+        "type": "git",
+        "url": "git://git.gitano.org.uk/gitano.git"
+    }
+}
