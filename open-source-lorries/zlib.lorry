@@ -1,0 +1,6 @@
+{
+    "zlib": {
+        "type": "git",
+        "url": "git://github.com/madler/zlib.git"
+    }
+}
