@@ -1,0 +1,6 @@
+{
+    "screen": {
+        "type": "git",
+        "url": "git://git.savannah.gnu.org/screen.git"
+    }
+}
