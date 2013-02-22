@@ -1,6 +1,10 @@
 {
     "guile": {
         "type": "git",
-        "url": "git://git.sv.gnu.org/guile.git"
+        "url": "git://git.sv.gnu.org/guile.git",
+        "refspecs": [
+            "+refs/heads/*",
+            "+refs/tags/*"
+        ]
     }
 }
