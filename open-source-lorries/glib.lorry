@@ -1,6 +1,11 @@
 {
     "glib": {
         "type": "git",
-        "url": "git://git.gnome.org/glib"
+        "url": "git://git.gnome.org/glib",
+        "refspecs": [
+            "refs/tags/*",
+            "+refs/heads/wip/*",
+            "refs/heads/*"
+        ]
     }
 }
