@@ -1,6 +1,15 @@
 {
     "gtk+": {
         "type": "git",
-        "url": "git://git.gnome.org/gtk+"
+        "url": "git://git.gnome.org/gtk+",
+        "refspecs": [
+            "refs/tags/*",
+            "+refs/heads/wip/*",
+            "+refs/heads/composite-templates",
+            "+refs/heads/gestures",
+            "+refs/heads/places-sidebar",
+            "+refs/heads/touch-text-selection",
+            "refs/heads/*"
+        ]
     }
 }
