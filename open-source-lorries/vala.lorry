@@ -1,6 +1,11 @@
 {
     "vala": {
         "type": "git",
-        "url": "git://git.gnome.org/vala"
+        "url": "git://git.gnome.org/vala",
+        "refspecs": [
+            "+refs/heads/*",
+            "+refs/tags/*"
+        ]
+
     }
 }
