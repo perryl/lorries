@@ -1,6 +1,10 @@
 {
     "coreutils": {
         "type": "git",
-        "url": "git://git.savannah.gnu.org/coreutils.git"
+        "url": "git://git.savannah.gnu.org/coreutils.git",
+        "refspecs": [
+            "+refs/heads/*",
+            "+refs/tags/*"
+        ]
     }
 }
