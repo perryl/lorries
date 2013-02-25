@@ -1,6 +1,10 @@
 {
     "automake": {
         "type": "git",
-        "url": "git://git.savannah.gnu.org/automake.git"
+        "url": "git://git.savannah.gnu.org/automake.git",
+        "refspecs": [
+            "+refs/heads/*",
+            "+refs/tags/*"
+        ]
     }
 }
