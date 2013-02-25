@@ -1,6 +1,10 @@
 {
     "u-boot": {
         "type": "git",
-        "url": "git://git.denx.de/u-boot.git"
+        "url": "git://git.denx.de/u-boot.git",
+        "refspecs": [
+            "+refs/heads/*",
+            "+refs/tags/*"
+        ]
     }
 }
