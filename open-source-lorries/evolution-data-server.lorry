@@ -1,6 +1,10 @@
 {
     "evolution-data-server": {
         "type": "git",
-        "url": "git://git.gnome.org/evolution-data-server"
+        "url": "git://git.gnome.org/evolution-data-server",
+        "refspecs": [
+            "+refs/heads/*",
+            "+refs/tags/*"
+        ]
     }
 }
