@@ -1,6 +1,10 @@
 {
     "gvfs": {
         "type": "git",
-        "url": "git://git.gnome.org/gvfs"
+        "url": "git://git.gnome.org/gvfs",
+        "refspecs": [
+            "+refs/heads/*",
+            "+refs/tags/*"
+        ]
     }
 }
