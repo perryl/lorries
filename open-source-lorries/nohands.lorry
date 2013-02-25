@@ -1,7 +1,7 @@
 {
     "nohands": {
         "type": "svn",
-        "url": "https://nohands.svn.sourceforge.net/svnroot/nohands",
+        "url": "http://nohands.svn.sourceforge.net/svnroot/nohands",
         "layout": "standard"
     }
 }
