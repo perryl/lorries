@@ -1,0 +1,6 @@
+{
+    "openssl-new": {
+        "type": "git",
+        "url": "git://github.com/openssl/openssl"
+    }
+}
