@@ -1,0 +1,9 @@
+{
+    "file": {
+        "type": "tarball",
+        "compression": "gzip",
+        "strip": 1,
+        "url": "ftp://ftp.astron.com/pub/file/file-5.13.tar.gz"
+    }
+}
+
