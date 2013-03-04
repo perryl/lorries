@@ -1,7 +1,7 @@
 {
     "binutils-redhat": {
         "type": "git",
-        "url": "git://sources.redhat.com/git/binutils.git",
+        "url": "git://sourceware.org/git/binutils.git",
         "refspecs": [
             "master",
             "binutils-2_10-branch",
