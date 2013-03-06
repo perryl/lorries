@@ -1,0 +1,6 @@
+{
+ "node-state-manager": {
+ "type": "git",
+ "url": "git://git.projects.genivi.org/lifecycle/node-state-manager.git"
+ }
+}
