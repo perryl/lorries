@@ -1,0 +1,6 @@
+{
+    "postgresql": {
+        "type": "git",
+        "url": "git://git.postgresql.org/git/postgresql.git"
+    }
+}
