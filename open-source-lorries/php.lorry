@@ -1,5 +1,5 @@
 {
-    "less": {
+    "php": {
         "type": "tarball",
         "compression": "bz2",
         "strip": 1,
