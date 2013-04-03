@@ -1,0 +1,54 @@
+{
+    "netsurf/buildsystem": {
+        "type": "git",
+        "url": "git://git.netsurf-browser.org/buildsystem.git"
+    },
+    "netsurf/libparserutils": {
+        "type": "git",
+        "url": "git://git.netsurf-browser.org/libparserutils.git"
+    },
+    "netsurf/libwapcaplet": {
+        "type": "git",
+        "url": "git://git.netsurf-browser.org/libwapcaplet.git"
+    },
+    "netsurf/libcss": {
+        "type": "git",
+        "url": "git://git.netsurf-browser.org/libcss.git"
+    },
+    "netsurf/libhubbub": {
+        "type": "git",
+        "url": "git://git.netsurf-browser.org/libhubbub.git"
+    },
+    "netsurf/libdom": {
+        "type": "git",
+        "url": "git://git.netsurf-browser.org/libdom.git"
+    },
+    "netsurf/libnsgif": {
+        "type": "git",
+        "url": "git://git.netsurf-browser.org/libnsgif.git"
+    },
+    "netsurf/libnsbmp": {
+        "type": "git",
+        "url": "git://git.netsurf-browser.org/libnsbmp.git"
+    },
+    "netsurf/libsvgtiny": {
+        "type": "git",
+        "url": "git://git.netsurf-browser.org/libsvgtiny.git"
+    },
+    "netsurf/librosprite": {
+        "type": "git",
+        "url": "git://git.netsurf-browser.org/librosprite.git"
+    },
+    "netsurf/libnsfb": {
+        "type": "git",
+        "url": "git://git.netsurf-browser.org/libnsfb.git"
+    },
+    "netsurf/nsgenjsbind": {
+        "type": "git",
+        "url": "git://git.netsurf-browser.org/nsgenjsbind.git"
+    },
+    "netsurf/netsurf": {
+        "type": "git",
+        "url": "git://git.netsurf-browser.org/netsurf.git"
+    }
+}
