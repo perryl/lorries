@@ -3,6 +3,6 @@
         "type": "tarball",
         "compression": "bz2",
         "strip": 1,
-        "url": "www.php.net/get/php-5.4.13.tar.bz2/from/uk1.php.net/mirror"
+        "url": "http://uk1.php.net/distributions/php-5.4.13.tar.bz2"
     }
 }
