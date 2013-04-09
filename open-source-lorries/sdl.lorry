@@ -1,0 +1,6 @@
+{
+    "sdl": {
+        "type": "hg",
+        "url": "http://hg.libsdl.org/SDL"
+    }
+}
