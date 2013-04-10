@@ -1,6 +1,10 @@
 {
     "strace": {
         "type": "git",
-        "url": "git://strace.git.sourceforge.net/gitroot/strace/strace"
+        "url": "git://strace.git.sourceforge.net/gitroot/strace/strace",
+        "refspecs": [
+            "+refs/tags/*",
+	    "+refs/heads/*"
+	]
     }
 }

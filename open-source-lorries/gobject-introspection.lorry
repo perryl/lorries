@@ -1,6 +1,10 @@
 {
     "gobject-introspection": {
         "type": "git",
-        "url": "git://git.gnome.org/gobject-introspection"
+        "url": "git://git.gnome.org/gobject-introspection",
+        "refspecs": [
+            "+refs/tags/*",
+	    "+refs/heads/*"
+	]
     }
 }

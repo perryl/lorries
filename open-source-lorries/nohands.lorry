@@ -2,6 +2,10 @@
     "nohands": {
         "type": "svn",
         "url": "http://nohands.svn.sourceforge.net/svnroot/nohands",
-        "layout": "standard"
+        "layout": "standard",
+        "refspecs": [
+            "+refs/tags/*",
+	    "+refs/heads/*"
+	]
     }
 }

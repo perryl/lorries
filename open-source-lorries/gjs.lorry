@@ -1,6 +1,10 @@
 {
     "gjs": {
         "type": "git",
-        "url": "git://git.gnome.org/gjs"
+        "url": "git://git.gnome.org/gjs",
+        "refspecs": [
+            "+refs/tags/*",
+	    "+refs/heads/*"
+	]
     }
 }
