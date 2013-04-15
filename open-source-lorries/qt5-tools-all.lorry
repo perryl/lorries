@@ -1,0 +1,78 @@
+{
+    "qtimageformats": {
+        "type": "git",
+        "url": "git://gitorious.org/qt/qtimageformats.git"
+    }
+    "qtwebkit": {
+        "type": "git",
+        "url": "git://gitorious.org/qt/qtwebkit.git"
+    }
+    "qtquick1": {
+        "type": "git",
+        "url": "git://gitorious.org/qt/qtquick1.git"
+    }
+    "qtjsbackend": {
+        "type": "git",
+        "url": "git://gitorious.org/qt/qtjsbackend.git"
+    }
+    "qtxmlpatterns": {
+        "type": "git",
+        "url": "git://gitorious.org/qt/qtxmlpatterns.git"
+    }
+    "qtscript": {
+        "type": "git",
+        "url": "git://gitorious.org/qt/qtscript.git"
+    }
+    "qtsvg": {
+        "type": "git",
+        "url": "git://gitorious.org/qt/qtsvg.git"
+    }
+    "qtactiveqt": {
+        "type": "git",
+        "url": "git://gitorious.org/qt/qtactiveqt.git"
+    }
+    "qttools": {
+        "type": "git",
+        "url": "git://gitorious.org/qt/qttools.git"
+    }
+    "qt5": {
+        "type": "git",
+        "url": "git://gitorious.org/qt/qt5.git"
+    }
+    "qtgraphicaleffects": {
+        "type": "git",
+        "url": "git://gitorious.org/qt/qtgraphicaleffects.git"
+    }
+    "qtdoc": {
+        "type": "git",
+        "url": "git://gitorious.org/qt/qtdoc.git"
+    }
+    "qtmultimedia": {
+        "type": "git",
+        "url": "git://gitorious.org/qt/qtmultimedia.git"
+    }
+    "qtdeclarative": {
+        "type": "git",
+        "url": "git://gitorious.org/qt/qtdeclarative.git"
+    }
+    "qttranslations": {
+        "type": "git",
+        "url": "git://gitorious.org/qt/qttranslations.git"
+    }
+    "qtqa": {
+        "type": "git",
+        "url": "git://gitorious.org/qt/qtqa.git"
+    }
+    "qtwebkit-examples-and-demos": {
+        "type": "git",
+        "url": "git://gitorious.org/qt/qtwebkit-examples-and-demos.git"
+    }
+    "qtbase": {
+        "type": "git",
+        "url": "git://gitorious.org/qt/qtbase.git"
+    }
+    "qtrepotools": {
+        "type": "git",
+        "url": "git://gitorious.org/qt/qtrepotools.git"
+    }
+}
