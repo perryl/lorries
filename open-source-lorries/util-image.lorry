@@ -1,0 +1,6 @@
+{
+    "util-image": {
+        "type": "git",
+        "url": "git://anongit.freedesktop.org/xcb/util-image"
+    }
+}

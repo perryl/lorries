@@ -1,0 +1,11 @@
+{
+    "util-keysyms": {
+        "type": "git",
+        "url": "git://anongit.freedesktop.org/xcb/util-keysyms"
+    }
+    "util-common-m4": {
+        "type": "git",
+        "url": "git://anongit.freedesktop.org/xcb/util-common-m4.git"
+    }
+}
+}

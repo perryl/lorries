@@ -1,0 +1,6 @@
+{
+    "util-wm": {
+        "type": "git",
+        "url": "git://anongit.freedesktop.org/xcb/util-wm"
+    }
+}
