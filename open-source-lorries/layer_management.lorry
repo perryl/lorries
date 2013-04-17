@@ -1,0 +1,6 @@
+{
+    "layer_management": {
+        "type": "git",
+        "url": "git://git.projects.genivi.org/layer_management.git"
+    }
+}
