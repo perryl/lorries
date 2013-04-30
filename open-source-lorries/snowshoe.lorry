@@ -1,0 +1,6 @@
+{
+    "snowshoe": {
+        "type": "git",
+        "url": "git://gitorious.org/qt-apps/snowshoe.git"
+    }
+}
