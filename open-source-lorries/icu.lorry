@@ -1,0 +1,8 @@
+{
+    "icu": {
+        "type": "tarball",
+        "compression": "gzip",
+        "strip": 1,
+        "url": "http://download.icu-project.org/files/icu4c/51.1/icu4c-51_1-src.tgz"
+    }
+}
