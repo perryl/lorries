@@ -1,0 +1,6 @@
+{
+    "qt-creator": {
+        "type": "git",
+        "url": "git://gitorious.org/qt-creator/qt-creator.git"
+    }
+}
