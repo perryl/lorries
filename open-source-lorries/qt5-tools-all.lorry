@@ -63,9 +63,9 @@
         "type": "git",
         "url": "git://gitorious.org/qt/qtqa.git"
     },
-    "qt5/qtwebkit-examples-and-demos": {
+    "qt5/qtwebkit-examples": {
         "type": "git",
-        "url": "git://gitorious.org/qt/qtwebkit-examples-and-demos.git"
+        "url": "git://gitorious.org/qt/qtwebkit-examples.git"
     },
     "qt5/qtbase": {
         "type": "git",
