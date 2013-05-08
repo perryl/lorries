@@ -11,6 +11,10 @@
         "type": "git",
         "url": "git://gitorious.org/qt/qtquick1.git"
     },
+    "qt5/qtquickcontrols": {
+        "type": "git",
+        "url": "git://gitorious.org/qt/qtquickcontrols.git"
+    },
     "qt5/qtjsbackend": {
         "type": "git",
         "url": "git://gitorious.org/qt/qtjsbackend.git"
@@ -22,6 +26,14 @@
     "qt5/qtscript": {
         "type": "git",
         "url": "git://gitorious.org/qt/qtscript.git"
+    },
+    "qt5/qtsensors": {
+        "type": "git",
+        "url": "git://gitorious.org/qt/qtsensors.git"
+    },
+    "qt5/qtserialport": {
+        "type": "git",
+        "url": "git://gitorious.org/qt/qtserialport.git"
     },
     "qt5/qtsvg": {
         "type": "git",
@@ -74,5 +86,9 @@
     "qt5/qtrepotools": {
         "type": "git",
         "url": "git://gitorious.org/qt/qtrepotools.git"
+    },
+    "qt5/qtx11extras": {
+        "type": "git",
+        "url": "git://gitorious.org/qt/qtx11extras.git"
     }
 }
