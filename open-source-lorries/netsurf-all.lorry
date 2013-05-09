@@ -45,7 +45,7 @@
     },
     "netsurf/nsgenjsbind": {
         "type": "git",
-        "url": "git://git.netsurf-browser.org/nsgenjsbind.git"
+        "url": "git://git.netsurf-browser.org/nsgenbind.git"
     },
     "netsurf/netsurf": {
         "type": "git",
