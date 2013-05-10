@@ -1,6 +1,8 @@
 {
     "freefont-otf": {
-        "type": "gzip",
+        "type": "tarball",
+        "compression": "gzip",
+        "strip": "1",
         "url": "http://ftp.gnu.org/gnu/freefont/freefont-otf-20120503.tar.gz"
     }
 }
