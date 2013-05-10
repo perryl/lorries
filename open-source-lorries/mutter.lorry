@@ -1,6 +1,10 @@
 {
     "mutter": {
         "type": "git",
-        "url": "git://git.gnome.org/mutter"
+        "url": "git://git.gnome.org/mutter",
+        "refspecs": [
+            "+refs/heads/*:refs/heads/*",
+            "+refs/tags/*:refs/tags/*"
+        ]
     }
 }
