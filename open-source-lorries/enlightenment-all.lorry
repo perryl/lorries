@@ -1,0 +1,26 @@
+{
+    "enlightenment/efl": {
+        "type": "git",
+        "url": "git://git.enlightenment.org/core/efl.git"
+    },    
+    "enlightenment/elementary": {
+        "type": "git",
+        "url": "git://git.enlightenment.org/core/elementary.git"
+    },
+    "enlightenment/enlightenment": {
+        "type": "git",
+        "url": "git://git.enlightenment.org/core/enlightenment.git"
+    },
+    "enlightenment/emotion_generic_players": {
+        "type": "git",
+        "url": "git://git.enlightenment.org/core/emotion_generic_players.git"
+    },
+    "enlightenment/evas_generic_loaders": {
+        "type": "git",
+        "url": "git://git.enlightenment.org/core/evas_generic_loaders.git"
+    },
+    "enlightenment/eterm": {
+        "type": "git",
+        "url": "git://git.enlightenment.org/apps/eterm.git"
+    }
+}
