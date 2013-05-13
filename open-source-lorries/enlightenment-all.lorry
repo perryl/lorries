@@ -19,6 +19,14 @@
         "type": "git",
         "url": "git://git.enlightenment.org/core/evas_generic_loaders.git"
     },
+    "enlightenment/imlib2": {
+        "type": "git",
+        "url": "git://git.enlightenment.org/legacy/imlib2.git"
+    },
+    "enlightenment/libast": {
+        "type": "git",
+        "url": "git://git.enlightenment.org/misc/libast.git"
+    },
     "enlightenment/eterm": {
         "type": "git",
         "url": "git://git.enlightenment.org/apps/eterm.git"
