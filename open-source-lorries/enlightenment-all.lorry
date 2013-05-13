@@ -1,7 +1,11 @@
 {
     "enlightenment/efl": {
         "type": "git",
-        "url": "git://git.enlightenment.org/core/efl.git"
+        "url": "git://git.enlightenment.org/core/efl.git",
+        "refspecs": [
+            "+refs/heads/*:refs/heads/*",
+            "+refs/tags/*:refs/tags/*"
+        ]
     },    
     "enlightenment/elementary": {
         "type": "git",
