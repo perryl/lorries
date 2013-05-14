@@ -1,5 +1,5 @@
 {
-    "libxp": {
+    "xorg-lib-libXp": {
         "type": "git",
         "url": "git://anongit.freedesktop.org/xorg/lib/libXp"
     }
