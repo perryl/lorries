@@ -1,5 +1,5 @@
 {
-    "libxcursor": {
+    "xorg-lib-libXcursor": {
         "type": "git",
         "url": "git://anongit.freedesktop.org/xorg/lib/libXcursor"
     }

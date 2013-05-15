@@ -1,5 +1,5 @@
 {
-    "printproto": {
+    "xorg-proto-printproto": {
         "type": "git",
         "url": "git://anongit.freedesktop.org/xorg/proto/printproto"
     }
