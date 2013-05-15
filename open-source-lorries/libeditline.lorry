@@ -1,0 +1,7 @@
+{
+  "libeditline": {
+    "type": "svn",
+    "url": "https://simtk.org/svn/libeditline",
+    "layout": "standard"
+  }
+}
