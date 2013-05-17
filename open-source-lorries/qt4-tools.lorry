@@ -1,0 +1,6 @@
+{
+    "qt4-tools": {
+        "type": "git",
+        "url": "git://gitorious.org/qt/qt.git"
+    }
+}
