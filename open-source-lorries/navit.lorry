@@ -1,0 +1,6 @@
+{
+    "navit": {
+        "type": "bzr",
+        "url": "lp:navit"
+    }
+}
