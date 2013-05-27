@@ -1,0 +1,6 @@
+{
+    "parted": {
+        "type": "git",
+        "url": "git://git.savannah.gnu.org/parted.git"
+    }
+}
