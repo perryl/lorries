@@ -1,0 +1,6 @@
+{
+    "lrexlib": {
+        "type": "git",
+        "url": "git://github.com/rrthomas/lrexlib.git"
+    }
+}

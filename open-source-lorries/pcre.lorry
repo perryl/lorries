@@ -1,0 +1,7 @@
+{
+    "pcre": {
+        "type": "svn",
+        "url": "svn://vcs.exim.org/pcre/code/",
+        "layout": "standard"
+    }
+}
