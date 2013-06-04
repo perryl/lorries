@@ -1,6 +1,10 @@
 {
     "lua": {
         "type": "git",
-        "url": "git://github.com/LuaDist/lua.git"
+        "url": "git://github.com/LuaDist/lua.git",
+        "refspecs": [
+            "+refs/heads/*",
+            "+refs/tags/*"
+        ]
     }
 }

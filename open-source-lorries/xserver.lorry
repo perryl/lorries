@@ -1,6 +1,10 @@
 {
     "xserver": {
         "type": "git",
-        "url": "git://anongit.freedesktop.org/xorg/xserver.git"
+        "url": "git://anongit.freedesktop.org/xorg/xserver.git",
+        "refspecs": [
+            "+refs/heads/*",
+            "+refs/tags/*"
+        ]
     }
 }

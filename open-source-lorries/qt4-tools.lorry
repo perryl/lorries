@@ -1,6 +1,10 @@
 {
     "qt4-tools": {
         "type": "git",
-        "url": "git://gitorious.org/qt/qt.git"
+        "url": "git://gitorious.org/qt/qt.git",
+        "refspecs": [
+            "+refs/heads/*",
+            "+refs/tags/*"
+        ]
     }
 }
