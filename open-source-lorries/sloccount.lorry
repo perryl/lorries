@@ -1,0 +1,7 @@
+{
+    "sloccount": {
+        "type": "svn",
+        "url": "svn://svn.code.sf.net/p/sloccount/code/",
+        "layout": "standard"
+    }
+}
