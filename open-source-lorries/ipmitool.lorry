@@ -1,0 +1,6 @@
+{
+    "ipmitool": {
+        "type": "git",
+        "url": "git://sources.calxeda.com/ipmitool.git"
+    }
+}

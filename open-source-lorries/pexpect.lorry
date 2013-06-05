@@ -1,0 +1,7 @@
+{
+    "pexpect": {
+        "type": "svn",
+        "url": "http://pexpect.svn.sourceforge.net/svnroot/pexpect",
+        "layout": "standard"
+    }
+}

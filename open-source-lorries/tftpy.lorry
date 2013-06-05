@@ -1,0 +1,6 @@
+{
+    "tftpy": {
+        "type": "git",
+        "url": "git://github.com/msoulier/tftpy.git"
+    }
+}
