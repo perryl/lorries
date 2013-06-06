@@ -1,0 +1,6 @@
+{
+    "cxmanage": {
+        "type: "git",
+        "url": "git://sources.calxeda.com/cxmanage.git"
+    }
+}
