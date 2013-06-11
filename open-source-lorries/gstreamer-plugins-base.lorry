@@ -1,0 +1,6 @@
+{
+    "gstreamer-plugins-base": {
+        "type": "git",
+        "url": "git://anongit.freedesktop.org/gstreamer/gst-plugins-base"
+    }
+}
