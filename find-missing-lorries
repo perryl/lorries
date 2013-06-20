@@ -1,0 +1,29 @@
+#!/usr/bin/python
+
+# Usage:
+#
+#   ssh git@git.baserock.org ls | ./find-missing-lorries
+
+
+import glob
+import os
+import sys
+import json
+
+
+repo_list = []
+for line in sys.stdin:
+    words = line.split()
+    repo_list.append(words[1])
+
+
+lorries = []
+for filename in glob.glob('open-source-lorries/*.lorry'):
+    with open(filename) as f:
+        obj = json.load(f)
+    for repo_basename in obj:
+        repo_name = 'delta/%s' % repo_basename
+        if repo_name not in repo_list:
+            print 'MISSING: %s' % repo_name
+        else:
+            print 'OK: %s' % repo_name
