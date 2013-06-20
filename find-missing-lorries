@@ -23,7 +23,9 @@ for filename in glob.glob('open-source-lorries/*.lorry'):
         obj = json.load(f)
     for repo_basename in obj:
         repo_name = 'delta/%s' % repo_basename
-        if repo_name not in repo_list:
-            print 'MISSING: %s' % repo_name
-        else:
-            print 'OK: %s' % repo_name
+        lorries.append(repo_name)
+
+
+for repo in repo_list:
+    if repo.startswith('delta/') and repo not in lorries:
+        print 'MISSING', repo
