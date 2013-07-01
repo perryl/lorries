@@ -1,0 +1,7 @@
+{
+    "bonnie": {
+        "type": "svn",
+        "url": "http://bonnie-64.googlecode.com/svn",
+        "layout": "standard"
+    }
+}
