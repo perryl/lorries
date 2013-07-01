@@ -1,4 +1,8 @@
 {
+    "qt5/qt3d": {
+        "type": "git",
+        "url": "git://gitorious.org/qt/qt3d.git"
+    },
     "qt5/qtimageformats": {
         "type": "git",
         "url": "git://gitorious.org/qt/qtimageformats.git"
