@@ -1,0 +1,6 @@
+{
+    "xorg-proto-compositeproto": {
+        "type": "git",
+        "url": "git://anongit.freedesktop.org/xorg/lib/xorg/proto/compositeproto"
+    }
+}

@@ -1,0 +1,6 @@
+{
+    "xorg-lib-libSM": {
+        "type": "git",
+        "url": "git://anongit.freedesktop.org/xorg/lib/xorg/lib/libSM"
+    }
+}

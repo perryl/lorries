@@ -1,0 +1,6 @@
+{
+    "xorg-lib-libXaw": {
+        "type": "git",
+        "url": "git://anongit.freedesktop.org/xorg/lib/xorg/lib/libXaw"
+    }
+}

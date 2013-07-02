@@ -1,0 +1,6 @@
+{
+    "xorg-proto-xextproto": {
+        "type": "git",
+        "url": "git://anongit.freedesktop.org/xorg/lib/xorg/proto/xextproto"
+    }
+}

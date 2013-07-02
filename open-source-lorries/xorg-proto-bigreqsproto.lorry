@@ -1,0 +1,6 @@
+{
+    "xorg-proto-bigreqsproto": {
+        "type": "git",
+        "url": "git://anongit.freedesktop.org/xorg/lib/xorg/proto/bigreqsproto"
+    }
+}

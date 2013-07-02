@@ -1,0 +1,6 @@
+{
+    "xorg-util-makedepend": {
+        "type": "git",
+        "url": "git://anongit.freedesktop.org/xorg/lib/xorg/util/makedepend"
+    }
+}

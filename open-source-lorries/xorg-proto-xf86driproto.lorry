@@ -1,0 +1,6 @@
+{
+    "xorg-proto-xf86driproto": {
+        "type": "git",
+        "url": "git://anongit.freedesktop.org/xorg/lib/xorg/proto/xf86driproto"
+    }
+}

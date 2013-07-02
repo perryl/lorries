@@ -1,0 +1,6 @@
+{
+    "xorg-lib-libX11": {
+        "type": "git",
+        "url": "git://anongit.freedesktop.org/xorg/lib/xorg/lib/libX11"
+    }
+}

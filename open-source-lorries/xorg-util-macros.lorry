@@ -1,0 +1,6 @@
+{
+    "xorg-util-macros": {
+        "type": "git",
+        "url": "git://anongit.freedesktop.org/xorg/lib/xorg/util/macros"
+    }
+}

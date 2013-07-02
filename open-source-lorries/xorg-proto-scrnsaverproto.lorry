@@ -1,0 +1,6 @@
+{
+    "xorg-proto-scrnsaverproto": {
+        "type": "git",
+        "url": "git://anongit.freedesktop.org/xorg/lib/xorg/proto/scrnsaverproto"
+    }
+}
