@@ -1,0 +1,6 @@
+{
+    "gstreamer": {
+        "type": "git",
+        "url": "git://anongit.freedesktop.org/gstreamer/gstreamer"
+    }
+}
