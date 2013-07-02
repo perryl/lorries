@@ -1,0 +1,6 @@
+{
+    "mobile-broadband-provider-info": {
+        "type": "git",
+        "url": "git://git.gnome.org/mobile-broadband-provider-info"
+    }
+}
