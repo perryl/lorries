@@ -1,0 +1,6 @@
+{
+    "util-keysysm/m4": {
+        "type": "git",
+        "url": "git://anongit.freedesktop.org/xcb/util-common-m4"
+    }
+}
