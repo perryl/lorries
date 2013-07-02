@@ -85,7 +85,11 @@
     },
     "qt5/qtbase": {
         "type": "git",
-        "url": "git://gitorious.org/qt/qtbase.git"
+        "url": "git://gitorious.org/qt/qtbase.git",
+        "refspecs": [
+            "+refs/heads/*",
+            "+refs/tags/*"
+        ]
     },
     "qt5/qtrepotools": {
         "type": "git",
