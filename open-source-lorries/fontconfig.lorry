@@ -1,0 +1,6 @@
+{
+    "fontconfig": {
+        "type": "git",
+        "url": "git://anongit.freedesktop.org/fontconfig"
+    }
+}
