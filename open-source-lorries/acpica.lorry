@@ -1,0 +1,6 @@
+{
+    "acpica": {
+        "type": "git",
+        "url": "git://github.com/acpica/acpica.git"
+    }
+}
