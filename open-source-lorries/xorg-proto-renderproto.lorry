@@ -1,6 +1,6 @@
 {
     "xorg-proto-renderproto": {
         "type": "git",
-        "url": "git://anongit.freedesktop.org/xorg/lib/xorg/proto/renderproto"
+        "url": "git://anongit.freedesktop.org/xorg/proto/renderproto"
     }
 }

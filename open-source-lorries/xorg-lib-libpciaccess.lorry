@@ -1,6 +1,6 @@
 {
     "xorg-lib-libpciaccess": {
         "type": "git",
-        "url": "git://anongit.freedesktop.org/xorg/lib/xorg/lib/libpciaccess"
+        "url": "git://anongit.freedesktop.org/xorg/lib/libpciaccess"
     }
 }

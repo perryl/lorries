@@ -1,6 +1,6 @@
 {
     "xorg-proto-xineramaproto": {
         "type": "git",
-        "url": "git://anongit.freedesktop.org/xorg/lib/xorg/proto/xineramaproto"
+        "url": "git://anongit.freedesktop.org/xorg/proto/xineramaproto"
     }
 }

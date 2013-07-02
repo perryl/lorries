@@ -1,6 +1,6 @@
 {
     "xorg-lib-libxkbfile": {
         "type": "git",
-        "url": "git://anongit.freedesktop.org/xorg/lib/xorg/lib/libxkbfile"
+        "url": "git://anongit.freedesktop.org/xorg/lib/libxkbfile"
     }
 }

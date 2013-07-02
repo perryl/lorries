@@ -1,6 +1,6 @@
 {
     "xorg-proto-dmxproto": {
         "type": "git",
-        "url": "git://anongit.freedesktop.org/xorg/lib/xorg/proto/dmxproto"
+        "url": "git://anongit.freedesktop.org/xorg/proto/dmxproto"
     }
 }

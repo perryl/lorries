@@ -1,6 +1,6 @@
 {
     "xorg-lib-libXdamage": {
         "type": "git",
-        "url": "git://anongit.freedesktop.org/xorg/lib/xorg/lib/libXdamage"
+        "url": "git://anongit.freedesktop.org/xorg/lib/libXdamage"
     }
 }

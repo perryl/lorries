@@ -1,6 +1,6 @@
 {
     "xorg-proto-videoproto": {
         "type": "git",
-        "url": "git://anongit.freedesktop.org/xorg/lib/xorg/proto/videoproto"
+        "url": "git://anongit.freedesktop.org/xorg/proto/videoproto"
     }
 }

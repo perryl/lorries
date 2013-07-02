@@ -1,6 +1,6 @@
 {
     "xorg-lib-libxtrans": {
         "type": "git",
-        "url": "git://anongit.freedesktop.org/xorg/lib/xorg/lib/libxtrans"
+        "url": "git://anongit.freedesktop.org/xorg/lib/libxtrans"
     }
 }

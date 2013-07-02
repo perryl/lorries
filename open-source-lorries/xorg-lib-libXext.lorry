@@ -1,6 +1,6 @@
 {
     "xorg-lib-libXext": {
         "type": "git",
-        "url": "git://anongit.freedesktop.org/xorg/lib/xorg/lib/libXext"
+        "url": "git://anongit.freedesktop.org/xorg/lib/libXext"
     }
 }

@@ -1,6 +1,6 @@
 {
     "xorg-proto-xf86bigfontproto": {
         "type": "git",
-        "url": "git://anongit.freedesktop.org/xorg/lib/xorg/proto/xf86bigfontproto"
+        "url": "git://anongit.freedesktop.org/xorg/proto/xf86bigfontproto"
     }
 }

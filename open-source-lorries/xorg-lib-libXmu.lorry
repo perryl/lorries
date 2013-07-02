@@ -1,6 +1,6 @@
 {
     "xorg-lib-libXmu": {
         "type": "git",
-        "url": "git://anongit.freedesktop.org/xorg/lib/xorg/lib/libXmu"
+        "url": "git://anongit.freedesktop.org/xorg/lib/libXmu"
     }
 }

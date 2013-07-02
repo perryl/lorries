@@ -1,6 +1,6 @@
 {
     "xorg-lib-libXft": {
         "type": "git",
-        "url": "git://anongit.freedesktop.org/xorg/lib/xorg/lib/libXft"
+        "url": "git://anongit.freedesktop.org/xorg/lib/libXft"
     }
 }

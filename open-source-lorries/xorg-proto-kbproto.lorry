@@ -1,6 +1,6 @@
 {
     "xorg-proto-kbproto": {
         "type": "git",
-        "url": "git://anongit.freedesktop.org/xorg/lib/xorg/proto/kbproto"
+        "url": "git://anongit.freedesktop.org/xorg/proto/kbproto"
     }
 }

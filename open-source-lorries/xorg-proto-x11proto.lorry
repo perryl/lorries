@@ -1,6 +1,6 @@
 {
     "xorg-proto-x11proto": {
         "type": "git",
-        "url": "git://anongit.freedesktop.org/xorg/lib/xorg/proto/x11proto"
+        "url": "git://anongit.freedesktop.org/xorg/proto/x11proto"
     }
 }

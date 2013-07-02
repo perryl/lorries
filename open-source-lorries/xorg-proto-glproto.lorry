@@ -1,6 +1,6 @@
 {
     "xorg-proto-glproto": {
         "type": "git",
-        "url": "git://anongit.freedesktop.org/xorg/lib/xorg/proto/glproto"
+        "url": "git://anongit.freedesktop.org/xorg/proto/glproto"
     }
 }
