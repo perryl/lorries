@@ -1,0 +1,6 @@
+{
+    "xorg-font-util": {
+        "type": "git",
+        "url": "git://anongit.freedesktop.org/xorg/font/util"
+    }
+}
