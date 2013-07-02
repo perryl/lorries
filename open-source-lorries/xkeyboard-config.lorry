@@ -1,0 +1,6 @@
+{
+    "xkeyboard-config": {
+        "type": "git",
+        "url": "git://anongit.freedesktop.org/git/xkeyboard-config"
+    }
+}
