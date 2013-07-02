@@ -1,6 +1,10 @@
 {
     "libnl": {
         "type": "git",
-        "url": "git://github.com/gxk/libnl.git"
+        "url": "git://github.com/gxk/libnl.git",
+        "refspecs": [
+            "+refs/heads/*",
+            "+refs/tags/*"
+        ]
     }
 }
