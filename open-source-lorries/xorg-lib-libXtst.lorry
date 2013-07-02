@@ -1,6 +1,6 @@
 {
     "xorg-lib-libXtst": {
         "type": "git",
-        "url": "git://anongit.freedesktop.org/xorg/lib/xorg/lib/libXtst"
+        "url": "git://anongit.freedesktop.org/xorg/lib/libXtst"
     }
 }
