@@ -1,6 +1,6 @@
 {
     "xorg-proto-recordproto": {
         "type": "git",
-        "url": "git://anongit.freedesktop.org/xorg/lib/xorg/proto/recordproto"
+        "url": "git://anongit.freedesktop.org/xorg/proto/recordproto"
     }
 }
