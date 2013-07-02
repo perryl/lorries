@@ -1,0 +1,7 @@
+{
+    "libapr-util": {
+        "type": "svn",
+        "url": "http://svn.apache.org/repos/asf/apr/apr-util/",
+        "layout": "standard"
+    }
+}

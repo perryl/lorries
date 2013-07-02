@@ -1,0 +1,6 @@
+{
+    "drm": {
+        "type": "git",
+        "url": "git://anongit.freedesktop.org/mesa/drm"
+    }
+}

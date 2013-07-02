@@ -1,0 +1,6 @@
+{
+    "gnome-doc-utils": {
+        "type": "git",
+        "url": "git://git.gnome.org/gnome-doc-utils"
+    }
+}

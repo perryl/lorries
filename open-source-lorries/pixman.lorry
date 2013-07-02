@@ -1,0 +1,6 @@
+{
+    "pixman": {
+        "type": "git",
+        "url": "git://anongit.freedesktop.org/pixman"
+    }
+}

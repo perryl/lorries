@@ -1,0 +1,8 @@
+{
+    "rarian": {
+        "type": "tarball",
+        "compression": "bzip2",
+        "strip": 1,
+        "url": "http://rarian.freedesktop.org/Releases/rarian-0.8.1.tar.bz2"
+    }
+}
