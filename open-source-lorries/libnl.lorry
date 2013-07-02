@@ -1,0 +1,6 @@
+{
+    "libnl": {
+        "type": "git",
+        "url": "git://github.com/gxk/libnl.git"
+    }
+}
