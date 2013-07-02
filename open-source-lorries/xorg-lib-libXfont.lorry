@@ -1,6 +1,6 @@
 {
     "xorg-lib-libXfont": {
         "type": "git",
-        "url": "git://anongit.freedesktop.org/xorg/lib/xorg/lib/libXfont"
+        "url": "git://anongit.freedesktop.org/xorg/lib/libXfont"
     }
 }
