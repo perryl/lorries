@@ -1,6 +1,10 @@
 {
     "xcb-libxcb": {
         "type": "git",
-        "url": "git://anongit.freedesktop.org/xcb/util"
+        "url": "git://anongit.freedesktop.org/xcb/util",
+        "refspecs": [
+            "+refs/heads/*",
+            "+refs/tags/*"
+        ]
     }
 }
