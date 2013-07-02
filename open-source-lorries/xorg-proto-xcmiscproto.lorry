@@ -1,6 +1,6 @@
 {
     "xorg-proto-xcmiscproto": {
         "type": "git",
-        "url": "git://anongit.freedesktop.org/xorg/lib/xorg/proto/xcmiscproto"
+        "url": "git://anongit.freedesktop.org/xorg/proto/xcmiscproto"
     }
 }
