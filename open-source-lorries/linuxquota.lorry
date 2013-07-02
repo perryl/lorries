@@ -1,6 +1,6 @@
 {
     "linuxquota": {
         "type": "git",
-        "url": "git://git.code.sf.net/p/linuxquota/code linuxquota-code"
+        "url": "git://git.code.sf.net/p/linuxquota/code"
     }
 }
