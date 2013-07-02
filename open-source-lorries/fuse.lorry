@@ -1,0 +1,6 @@
+{
+    "fuse": {
+        "type": "git",
+        "url": "git://git.code.sf.net/p/fuse/fuse fuse-fuse"
+    }
+}
