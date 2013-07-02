@@ -1,0 +1,6 @@
+{
+    "libatomic_ops": {
+        "type": "git",
+        "url": "git://github.com/ivmai/libatomic_ops.git"
+    }
+}
