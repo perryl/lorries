@@ -1,0 +1,6 @@
+{
+    "xcb-pthread-stubs": {
+        "type": "git",
+        "url": "git://anongit.freedesktop.org/xcb/pthread-stubs"
+    }
+}

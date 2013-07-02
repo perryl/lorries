@@ -1,0 +1,6 @@
+{
+    "xcb-util": {
+        "type": "git",
+        "url": "git://anongit.freedesktop.org/xcb/util"
+    }
+}
