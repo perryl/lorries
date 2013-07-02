@@ -1,6 +1,10 @@
 {
     "iptables": {
         "type": "git",
-        "url": "git://git.netfilter.org/iptables.git"
+        "url": "git://git.netfilter.org/iptables.git",
+        "refspecs": [
+            "+refs/heads/*",
+            "+refs/tags/*"
+        ]
     }
 }
