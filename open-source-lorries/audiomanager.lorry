@@ -1,0 +1,6 @@
+{
+    "audiomanager": {
+        "type": "git",
+        "url": "git://git.projects.genivi.org/AudioManager.git"
+    }
+}

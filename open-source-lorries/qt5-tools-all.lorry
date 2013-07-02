@@ -1,4 +1,8 @@
 {
+    "qt5/qt3d": {
+        "type": "git",
+        "url": "git://gitorious.org/qt/qt3d.git"
+    },
     "qt5/qtimageformats": {
         "type": "git",
         "url": "git://gitorious.org/qt/qtimageformats.git"
@@ -87,6 +91,10 @@
         "type": "git",
         "url": "git://gitorious.org/qt/qtrepotools.git"
     },
+    "qt5/qtwayland": {
+        "type": "git",
+        "url": "git://gitorious.org/qt/qtwayland.git"
+    }
     "qt5/qtx11extras": {
         "type": "git",
         "url": "git://gitorious.org/qt/qtx11extras.git"
