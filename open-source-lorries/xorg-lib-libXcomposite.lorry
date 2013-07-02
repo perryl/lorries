@@ -1,6 +1,6 @@
 {
     "xorg-lib-libXcomposite": {
         "type": "git",
-        "url": "git://anongit.freedesktop.org/xorg/lib/xorg/lib/libXcomposite"
+        "url": "git://anongit.freedesktop.org/xorg/lib/libXcomposite"
     }
 }
