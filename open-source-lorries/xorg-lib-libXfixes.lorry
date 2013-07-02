@@ -1,6 +1,6 @@
 {
     "xorg-lib-libXfixes": {
         "type": "git",
-        "url": "git://anongit.freedesktop.org/xorg/lib/xorg/lib/libXfixes"
+        "url": "git://anongit.freedesktop.org/xorg/lib/libXfixes"
     }
 }
