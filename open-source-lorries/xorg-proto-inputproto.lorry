@@ -1,6 +1,6 @@
 {
     "xorg-proto-inputproto": {
         "type": "git",
-        "url": "git://anongit.freedesktop.org/xorg/lib/xorg/proto/inputproto"
+        "url": "git://anongit.freedesktop.org/xorg/proto/inputproto"
     }
 }
