@@ -1,6 +1,6 @@
 {
     "xorg-lib-libXrandr": {
         "type": "git",
-        "url": "git://anongit.freedesktop.org/xorg/lib/xorg/lib/libXrandr"
+        "url": "git://anongit.freedesktop.org/xorg/lib/libXrandr"
     }
 }
