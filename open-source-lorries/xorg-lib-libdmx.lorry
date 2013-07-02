@@ -1,6 +1,6 @@
 {
     "xorg-lib-libdmx": {
         "type": "git",
-        "url": "git://anongit.freedesktop.org/xorg/lib/xorg/lib/libdmx"
+        "url": "git://anongit.freedesktop.org/xorg/lib/libdmx"
     }
 }
