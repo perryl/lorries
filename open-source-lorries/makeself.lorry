@@ -1,0 +1,6 @@
+{
+    "makeself": {
+        "type": "git",
+        "url": "git://github.com/megastep/makeself.git"
+    }
+}
