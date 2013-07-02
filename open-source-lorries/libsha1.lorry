@@ -1,0 +1,6 @@
+{
+    "libsha1": {
+        "type": "git",
+        "url": "git://github.com/dottedmag/libsha1.git"
+    }
+}
