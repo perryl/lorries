@@ -1,6 +1,6 @@
 {
     "xorg-lib-libxkbcommon": {
         "type": "git",
-        "url": "git://anongit.freedesktop.org/xorg/lib/xorg/lib/libxkbcommon"
+        "url": "git://anongit.freedesktop.org/xorg/lib/libxkbcommon"
     }
 }
