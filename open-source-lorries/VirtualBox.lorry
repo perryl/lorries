@@ -1,0 +1,8 @@
+{
+    "VirtualBox": {
+        "type": "tarball",
+        "compression": "bzip2",
+        "strip": 1,
+        "url": "http://dlc.sun.com.edgesuite.net/virtualbox/4.2.4/VirtualBox-4.2.4.tar.bz2"
+    }
+}
