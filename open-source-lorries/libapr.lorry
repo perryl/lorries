@@ -2,6 +2,10 @@
     "libapr": {
         "type": "svn",
         "url": "http://svn.apache.org/repos/asf/apr/apr/",
-        "layout": "standard"
+        "layout": "standard",
+        "refspecs": [
+            "+refs/heads/*",
+            "+refs/tags/*"
+        ]
     }
 }
