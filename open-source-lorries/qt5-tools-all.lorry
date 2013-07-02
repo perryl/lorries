@@ -94,7 +94,7 @@
     "qt5/qtwayland": {
         "type": "git",
         "url": "git://gitorious.org/qt/qtwayland.git"
-    }
+    },
     "qt5/qtx11extras": {
         "type": "git",
         "url": "git://gitorious.org/qt/qtx11extras.git"
