@@ -1,0 +1,6 @@
+{
+    "obexd": {
+        "type": "git",
+        "url": "git://git.kernel.org/pub/scm/bluetooth/obexd.git"
+    }
+}
