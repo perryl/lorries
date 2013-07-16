@@ -1,0 +1,6 @@
+{
+    "smartdevicelink": {
+        "type": "git",
+        "url": "git://git.projects.genivi.org/smartdevicelink.git"
+    }
+}
