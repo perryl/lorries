@@ -1,0 +1,6 @@
+{
+    "python-markdown": {
+        "type": "git",
+        "url": "git://github.com/waylan/Python-Markdown.git"
+    }
+}
