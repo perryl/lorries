@@ -1,0 +1,78 @@
+{
+    "xfce/exo": {
+        "type": "git",
+        "url": "git://git.xfce.org/xfce/exo.git"
+    },
+    "xfce/garcon": {
+        "type": "git",
+        "url": "git://git.xfce.org/xfce/garcon.git"
+    },
+    "xfce/gtk-xfce-engine": {
+        "type": "git",
+        "url": "git://git.xfce.org/xfce/gtk-xfce-engine.git"
+    },
+    "xfce/libxfce4ui": {
+        "type": "git",
+        "url": "git://git.xfce.org/xfce/libxfce4ui.git"
+    },
+    "xfce/libxfce4util": {
+        "type": "git",
+        "url": "git://git.xfce.org/xfce/libxfce4util.git"
+    },
+    "xfce/thunar": {
+        "type": "git",
+        "url": "git://git.xfce.org/xfce/thunar.git"
+    },
+    "xfce/thunar-desktop-plugin": {
+        "type": "git",
+        "url": "git://git.xfce.org/xfce/thunar-desktop-plugin.git"
+    },
+    "xfce/thunar-volman": {
+        "type": "git",
+        "url": "git://git.xfce.org/xfce/thunar-volman.git"
+    },
+    "xfce/tumbler": {
+        "type": "git",
+        "url": "git://git.xfce.org/xfce/tumbler.git"
+    },
+    "xfce/xfce4-appfinder": {
+        "type": "git",
+        "url": "git://git.xfce.org/xfce/xfce4-appfinder.git"
+    },
+    "xfce/xfce4-dev-tools": {
+        "type": "git",
+        "url": "git://git.xfce.org/xfce/xfce4-dev-tools.git"
+    },
+    "xfce/xfce4-docs": {
+        "type": "git",
+        "url": "git://git.xfce.org/xfce/xfce4-docs.git"
+    },
+    "xfce/xfce4-panel": {
+        "type": "git",
+        "url": "git://git.xfce.org/xfce/xfce4-panel.git"
+    },
+    "xfce/ixfce4-power-manager": {
+        "type": "git",
+        "url": "git://git.xfce.org/xfce/xfce4-power-manager.git"
+    },
+    "xfce/xfce4-session": {
+        "type": "git",
+        "url": "git://git.xfce.org/xfce/xfce4-session.git"
+    },
+    "xfce/xfce4-settings": {
+        "type": "git",
+        "url": "git://git.xfce.org/xfce/xfce4-settings.git"
+    },
+    "xfce/xfconf": {
+        "type": "git",
+        "url": "git://git.xfce.org/xfce/xfconf.git"
+    },
+    "xfce/xfdesktop": {
+        "type": "git",
+        "url": "git://git.xfce.org/xfce/xfdesktop.git"
+    },
+    "xfce/xfwm4": {
+        "type": "git",
+        "url": "git://git.xfce.org/xfce/xfwm4.git"
+    }
+}
