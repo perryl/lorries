@@ -1,0 +1,7 @@
+{
+    "ragel": {
+        "type": "git",
+        "url": "git://git.complang.org/ragel.git"
+    }
+}
+

@@ -1,0 +1,6 @@
+{
+    "colm": {
+        "type": "git",
+        "url": "git://git.complang.org/colm.git"
+    }
+}

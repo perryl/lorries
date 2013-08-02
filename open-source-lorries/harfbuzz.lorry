@@ -1,0 +1,7 @@
+{
+    "harfbuzz": {
+        "type": "git",
+        "url": "git://anongit.freedesktop.org/git/harfbuzz"
+    }
+}
+
