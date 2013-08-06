@@ -1,0 +1,6 @@
+{
+    "cherrypy": {
+        "type": "hg",
+        "url": "http://bitbucket.org/cherrypy/cherrypy"
+    }
+}
