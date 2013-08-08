@@ -1,0 +1,7 @@
+{
+    "libwww-perl/uri": {
+        "type": "git",
+        "url": "git://github.com/libwww-perl/uri"
+    }
+}
+

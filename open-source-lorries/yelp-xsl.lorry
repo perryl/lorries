@@ -1,0 +1,6 @@
+{
+    "yelp-xsl": {
+        "type": "git",
+        "url": "git://git.gnome.org/yelp-xsl"
+    }
+}

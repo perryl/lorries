@@ -1,0 +1,6 @@
+{
+    "glade": {
+        "type": "git",
+        "url": "git://git.gnome.org/glade"
+    }
+}
