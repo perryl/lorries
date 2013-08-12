@@ -1,0 +1,6 @@
+{
+    "atk": {
+        "type": "git",
+        "url": "git://git.gnome.org/atk"
+    }
+}

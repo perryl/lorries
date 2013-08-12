@@ -1,0 +1,6 @@
+{
+    "iceauth": {
+        "type": "git",
+        "url": "git://anongit.freedesktop.org/xorg/app/iceauth"
+    }
+}
