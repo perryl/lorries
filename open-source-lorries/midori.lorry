@@ -1,0 +1,6 @@
+{
+    "midori": {
+        "type": "bzr",
+        "url": "https://code.launchpad.net/~midori/midori/trunk"
+    }
+}
