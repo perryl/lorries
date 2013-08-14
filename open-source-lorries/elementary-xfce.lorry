@@ -1,0 +1,6 @@
+{
+    "elementary-xfce": {
+        "type": "git",
+        "url": "git://github.com/shimmerproject/elementary-xfce"
+    }
+}

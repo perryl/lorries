@@ -1,0 +1,6 @@
+{
+    "zeitgeist": {
+        "type": "git",
+        "url": "git://anongit.freedesktop.org/zeitgeist/zeitgeist"
+    }
+}
