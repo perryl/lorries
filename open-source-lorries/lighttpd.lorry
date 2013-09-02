@@ -1,0 +1,7 @@
+{
+    "lighttpd": {
+        "type": "svn",
+        "url": "svn://svn.lighttpd.net/lighttpd",
+        "layout": "standard"
+    }
+}
