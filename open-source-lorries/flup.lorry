@@ -1,0 +1,7 @@
+{
+    "flup": {
+        "type": "hg",
+        "url": "http://hg.saddi.com/flup-server"
+    }
+}
+
