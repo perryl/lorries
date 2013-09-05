@@ -1,0 +1,6 @@
+{
+    "libcroco": {
+        "type": "git",
+        "url": "git://git.gnome.org/libcroco"
+    }
+}
