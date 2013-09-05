@@ -1,0 +1,6 @@
+{
+    "cloud-init": {
+        "type": "bzr",
+        "url": "lp:cloud-init"
+    }
+}
