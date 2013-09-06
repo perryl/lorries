@@ -1,0 +1,6 @@
+{
+    "linux-rt": {
+        "type": "git",
+        "url": "git://git.kernel.org/pub/scm/linux/kernel/git/rt/linux-stable-rt.git"
+    }
+}
