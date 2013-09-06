@@ -1,0 +1,7 @@
+{
+    "python-prettytable": {
+        "type": "svn",
+        "url": "http://prettytable.googlecode.com/svn/trunk/",
+        "layout": "standard"
+    }
+}
