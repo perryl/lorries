@@ -1,0 +1,6 @@
+{
+    "python-requests": {
+        "type": "git",
+        "url": "git://github.com/kennethreitz/requests.git"
+    }
+}
