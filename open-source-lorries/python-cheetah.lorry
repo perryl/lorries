@@ -1,0 +1,6 @@
+{
+    "python-cheetah": {
+        "type": "git",
+        "url": "git://github.com/cheetahtemplate/cheetah.git"
+    }
+}
