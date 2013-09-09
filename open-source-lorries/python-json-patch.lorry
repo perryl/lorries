@@ -1,0 +1,6 @@
+{
+    "python-json-patch": {
+        "type": "git",
+        "url": "git://github.com/stefankoegl/python-json-patch.git"
+    }
+}
