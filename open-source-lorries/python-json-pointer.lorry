@@ -1,0 +1,6 @@
+{
+    "python-json-pointer": {
+        "type": "git",
+        "url": "git://github.com/stefankoegl/python-json-pointer.git"
+    }
+}
