@@ -1,0 +1,6 @@
+{
+    "six": {
+        "type": "hg",
+        "url": "http://bitbucket.org/gutworth/six"
+    }
+}

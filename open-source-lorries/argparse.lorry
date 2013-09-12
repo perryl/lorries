@@ -1,0 +1,6 @@
+{
+    "argparse": {
+        "type": "hg",
+        "url": "http://code.google.com/p/argparse/"
+    }
+}

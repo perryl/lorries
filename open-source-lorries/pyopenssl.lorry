@@ -1,0 +1,6 @@
+{
+    "pyopenssl": {
+        "type": "bzr",
+        "url": "lp:pyopenssl"
+    }
+}

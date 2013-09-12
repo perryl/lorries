@@ -1,0 +1,6 @@
+{
+    "pytz": {
+        "type": "bzr",
+        "url": "lp:pytz"
+    }
+}

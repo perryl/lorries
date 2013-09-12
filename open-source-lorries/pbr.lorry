@@ -1,0 +1,6 @@
+{
+    "pbr": {
+        "type": "git",
+        "url": "git://github.com/openstack-dev/pbr.git"
+    }
+}

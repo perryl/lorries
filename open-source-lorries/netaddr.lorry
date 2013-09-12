@@ -1,0 +1,6 @@
+{
+    "netaddr": {
+        "type": "git",
+        "url": "git://github.com/drkjam/netaddr.git"
+    }
+}

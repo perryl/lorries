@@ -1,0 +1,6 @@
+{
+    "babel": {
+        "type": "git",
+        "url": "git://github.com/mitsuhiko/babel.git"
+    }
+}

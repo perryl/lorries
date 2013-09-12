@@ -1,0 +1,6 @@
+{
+    "warlock": {
+        "type": "git",
+        "url": "git://github.com/bcwaldon/warlock.git"
+    }
+}

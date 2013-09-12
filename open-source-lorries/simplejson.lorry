@@ -1,0 +1,6 @@
+{
+    "simplejson": {
+        "type": "git",
+        "url": "git://github.com/simplejson/simplejson.git"
+    }
+}

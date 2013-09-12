@@ -1,0 +1,6 @@
+{
+    "python-keystoneclient": {
+        "type": "git",
+        "url": "git://github.com/openstack/python-keystoneclient.git"
+    }
+}

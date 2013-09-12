@@ -1,0 +1,6 @@
+{
+    "pyiso8601": {
+        "type": "hg",
+        "url": "http://bitbucket.org/micktwomey/pyiso8601"
+    }
+}

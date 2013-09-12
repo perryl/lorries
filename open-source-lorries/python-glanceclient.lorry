@@ -1,0 +1,6 @@
+{
+    "python-glanceclient": {
+        "type": "git",
+        "url": "git://github.com/openstack/python-glanceclient.git"
+    }
+}

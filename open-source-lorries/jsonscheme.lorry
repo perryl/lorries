@@ -1,0 +1,6 @@
+{
+    "jsonschema": {
+        "type": "git",
+        "url": "git://github.com/Julian/jsonschema.git"
+    }
+}
