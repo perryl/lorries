@@ -1,0 +1,6 @@
+{
+    "mtdev-git": {
+        "type": "git",
+        "url": "http://bitmath.org/git/mtdev.git"
+    }
+}
