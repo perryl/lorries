@@ -1,0 +1,6 @@
+{
+    "gst-libav": {
+        "type": "git",
+        "url": "git://anongit.freedesktop.org/gstreamer/gst-libav"
+    }
+}

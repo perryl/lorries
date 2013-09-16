@@ -1,0 +1,6 @@
+{
+    "gstreamer-plugins-ugly": {
+        "type": "git",
+        "url": "git://anongit.freedesktop.org/gstreamer/gst-plugins-ugly"
+    }
+}
