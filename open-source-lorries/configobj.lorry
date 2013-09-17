@@ -1,0 +1,6 @@
+{
+    "configobj": {
+        "type": "hg",
+        "url": "http://code.google.com/p/configobj/"
+    }
+}
