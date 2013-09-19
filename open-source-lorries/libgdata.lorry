@@ -1,6 +1,10 @@
 {
     "libgdata": {
         "type": "git",
-        "url": "git://git.gnome.org/libgdata"
+        "url": "git://git.gnome.org/libgdata",
+        "refspecs": [
+            "+refs/heads/*",
+            "+refs/tags/*"
+        ]
     }
 }

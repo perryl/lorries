@@ -5,7 +5,8 @@
         "refspecs": [
             "snap", "master", "+next", "initial",
             "maint", "maint-1.7.6", "maint-1.7.7",
-            "refs/tags/*"
+            "+refs/heads/*",
+            "+refs/tags/*"
         ]
     }
 }

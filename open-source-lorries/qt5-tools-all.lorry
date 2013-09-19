@@ -69,7 +69,11 @@
     },
     "qt5/qtdeclarative": {
         "type": "git",
-        "url": "git://gitorious.org/qt/qtdeclarative.git"
+        "url": "git://gitorious.org/qt/qtdeclarative.git",
+        "refspecs": [
+            "+refs/heads/*",
+            "+refs/tags/*"
+        ]
     },
     "qt5/qttranslations": {
         "type": "git",

@@ -9,30 +9,58 @@
     },    
     "enlightenment/elementary": {
         "type": "git",
-        "url": "git://git.enlightenment.org/core/elementary.git"
+        "url": "git://git.enlightenment.org/core/elementary.git",
+        "refspecs": [
+            "+refs/heads/*",
+            "+refs/tags/*"
+        ]
     },
     "enlightenment/enlightenment": {
         "type": "git",
-        "url": "git://git.enlightenment.org/core/enlightenment.git"
+        "url": "git://git.enlightenment.org/core/enlightenment.git",
+        "refspecs": [
+            "+refs/heads/*",
+            "+refs/tags/*"
+        ]
     },
     "enlightenment/emotion_generic_players": {
         "type": "git",
-        "url": "git://git.enlightenment.org/core/emotion_generic_players.git"
+        "url": "git://git.enlightenment.org/core/emotion_generic_players.git",
+        "refspecs": [
+            "+refs/heads/*",
+            "+refs/tags/*"
+        ]
     },
     "enlightenment/evas_generic_loaders": {
         "type": "git",
-        "url": "git://git.enlightenment.org/core/evas_generic_loaders.git"
+        "url": "git://git.enlightenment.org/core/evas_generic_loaders.git",
+        "refspecs": [
+            "+refs/heads/*",
+            "+refs/tags/*"
+        ]
     },
     "enlightenment/imlib2": {
         "type": "git",
-        "url": "git://git.enlightenment.org/legacy/imlib2.git"
+        "url": "git://git.enlightenment.org/legacy/imlib2.git",
+        "refspecs": [
+            "+refs/heads/*",
+            "+refs/tags/*"
+        ]
     },
     "enlightenment/libast": {
         "type": "git",
-        "url": "git://git.enlightenment.org/misc/libast.git"
+        "url": "git://git.enlightenment.org/misc/libast.git",
+        "refspecs": [
+            "+refs/heads/*",
+            "+refs/tags/*"
+        ]
     },
     "enlightenment/eterm": {
         "type": "git",
-        "url": "git://git.enlightenment.org/apps/eterm.git"
+        "url": "git://git.enlightenment.org/apps/eterm.git",
+        "refspecs": [
+            "+refs/heads/*",
+            "+refs/tags/*"
+        ]
     }
 }

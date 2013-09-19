@@ -1,6 +1,10 @@
 {
     "glade": {
         "type": "git",
-        "url": "git://git.gnome.org/glade"
+        "url": "git://git.gnome.org/glade",
+        "refspecs": [
+            "+refs/heads/*",
+            "+refs/tags/*"
+        ]
     }
 }
