@@ -1,5 +1,5 @@
 {
-    "nspr": {
+    "nspr-hg": {
         "type": "hg",
         "url": "https://hg.mozilla.org/projects/nspr"
     }
