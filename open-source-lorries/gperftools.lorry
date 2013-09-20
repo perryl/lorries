@@ -1,0 +1,6 @@
+{
+    "gperftools": {
+        "type": "git",
+        "url": "https://code.google.com/p/gperftools/" 
+    }
+}

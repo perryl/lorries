@@ -1,0 +1,6 @@
+{
+    "libunwind": {
+        "type": "git",
+        "url": "git://git.sv.gnu.org/libunwind.git"
+    }
+}

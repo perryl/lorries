@@ -1,0 +1,7 @@
+{
+    "snappy": {
+        "type": "svn",
+        "url": "http://snappy.googlecode.com/svn/",
+        "layout": "standard"
+    }
+}

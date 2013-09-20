@@ -1,0 +1,8 @@
+{
+    "libaio-tarball": {
+        "type": "tarball",
+        "compression": "gzip",
+        "strip": 1,
+        "url": "http://ftp.de.debian.org/debian/pool/main/liba/libaio/libaio_0.3.109.orig.tar.gz"
+    }
+}
