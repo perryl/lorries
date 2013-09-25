@@ -1,8 +1,6 @@
 {
-    "keyutils-tarball": {
-        "type": "tarball",
-        "compression": "bzip2",
-        "strip": 1,
-        "url": "http://people.redhat.com/dhowells/keyutils/keyutils-1.5.6.tar.bz2"
+    "keyutils": {
+        "type": "git",
+        "url": "git://git.kernel.org/pub/scm/linux/kernel/git/dhowells/keyutils.git"
     }
 }
