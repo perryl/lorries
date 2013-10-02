@@ -1,6 +1,6 @@
 {
     "kexec-tools": {
         "type": "git",
-        "url": "http://www.kernel.org/pub/scm/utils/kernel/kexec/kexec-tools.git"
+        "url": "git://www.kernel.org/pub/scm/utils/kernel/kexec/kexec-tools.git"
     }
 }
