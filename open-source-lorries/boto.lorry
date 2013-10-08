@@ -1,0 +1,6 @@
+{
+    "boto": {
+        "type": "git",
+        "url": "git://github.com/boto/boto.git"
+    }
+}
