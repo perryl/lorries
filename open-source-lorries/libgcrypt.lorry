@@ -1,6 +1,7 @@
 {
     "libgcrypt": {
         "type": "git",
-        "url": "git://git.gnupg.org/libgcrypt"
+        "url": "git://git.gnupg.org/libgcrypt",
+        "refspecs": [ "+refs/heads/*:refs/heads/*", "+refs/tags/*:refs/tags/*" ]
     }
 }

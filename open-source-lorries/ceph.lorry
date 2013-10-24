@@ -1,6 +1,12 @@
 {
     "ceph": {
         "type": "git",
-        "url": "git://github.com/ceph/ceph.git"
+        "url": "git://github.com/ceph/ceph.git",
+        "refspecs": [
+            "refs/heads/master:refs/heads/master",
+            "+refs/heads/wip-*:refs/heads/wip-*",
+            "+refs/heads/cis-lua:refs/heads/cis-lua",
+            "+refs/tags/*:refs/tags/*"
+        ]
     }
 }

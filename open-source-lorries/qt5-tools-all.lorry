@@ -33,7 +33,11 @@
     },
     "qt5/qtsensors": {
         "type": "git",
-        "url": "git://gitorious.org/qt/qtsensors.git"
+        "url": "git://gitorious.org/qt/qtsensors.git",
+        "refspecs": [
+            "+refs/heads/*:refs/heads/*",
+            "+refs/tags/*:refs/tags/*"
+        ]
     },
     "qt5/qtserialport": {
         "type": "git",

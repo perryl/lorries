@@ -1,6 +1,7 @@
 {
     "colm": {
         "type": "git",
-        "url": "git://git.complang.org/colm.git"
+        "url": "git://git.complang.org/colm.git",
+        "refspecs": [ "+refs/heads/*:refs/heads/*", "+refs/tags/*:refs/tags/*" ]
     }
 }
