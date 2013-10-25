@@ -1,6 +1,6 @@
 {
     "python-coverage-test-runner": {
-        "type": "bzr",
-        "url": "http://code.liw.fi/coverage-test-runner/bzr/trunk/"
+        "type": "git",
+        "url": "git://git.liw.fi/coverage-test-runner"
     }
 }

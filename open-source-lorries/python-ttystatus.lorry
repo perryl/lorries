@@ -1,6 +1,6 @@
 {
     "python-ttystatus": {
-        "type": "bzr",
-        "url": "http://code.liw.fi/ttystatus/bzr/trunk/"
+        "type": "git",
+        "url": "git://git.liw.fi/ttystatus"
     }
 }
