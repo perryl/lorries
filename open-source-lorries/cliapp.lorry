@@ -1,7 +1,6 @@
 {
     "cliapp": {
-        "type": "bzr",
-        "url": "http://code.liw.fi/cliapp/bzr/trunk/",
-        "source-HEAD": "refs/heads/trunk"
+        "type": "git",
+        "url": "git://git.liw.fi/cliapp"
     }
 }
