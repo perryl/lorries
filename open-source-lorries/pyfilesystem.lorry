@@ -1,0 +1,7 @@
+{
+    "pyfilesystem": {
+        "type": "svn",
+        "url": "http://pyfilesystem.googlecode.com/svn",
+        "layout": "standard"
+    }
+}
