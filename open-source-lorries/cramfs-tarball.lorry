@@ -1,0 +1,7 @@
+{
+    "cramfs-tarball": {
+        "type": "tarball",
+        "url": "http://downloads.sourceforge.net/cramfs/cramfs-1.1.tar.gz"
+    }
+}
+

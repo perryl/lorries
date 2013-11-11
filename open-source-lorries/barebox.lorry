@@ -1,0 +1,7 @@
+{
+    "barebox": {
+        "type": "git",
+        "url": "git://git.pengutronix.de/git/barebox.git"
+    }
+}
+
