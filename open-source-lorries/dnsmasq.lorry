@@ -1,0 +1,6 @@
+{
+    "dnsmasq": {
+        "type": "git",
+        "url": "git://thekelleys.org.uk/dnsmasq.git"
+    }
+}
