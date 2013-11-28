@@ -1,0 +1,10 @@
+{
+    "genivi-common-api-dbus-runtime": {
+        "type": "git",
+        "url": "git://git.projects.genivi.org/ipc/common-api-dbus-runtime"
+    },
+    "genivi-common-api-runtime": {
+        "type": "git",
+        "url": "git://git.projects.genivi.org/ipc/common-api-runtime"
+    }
+}
