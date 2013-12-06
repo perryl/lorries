@@ -1,0 +1,6 @@
+{
+    "emacs-bzr": {
+        "type": "bzr",
+        "url": "bzr://bzr.sv.gnu.org/emacs/trunk"
+    }
+}
