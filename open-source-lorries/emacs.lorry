@@ -1,0 +1,6 @@
+{
+    "emacs": {
+        "type": "git",
+        "url": "git://git.savannah.gnu.org/emacs.git"
+    }
+}
