@@ -1,0 +1,6 @@
+{
+    "ceph-libs3": {
+        "type": "git",
+        "url": "git://github.com/ceph/libs3.git"
+    }
+}

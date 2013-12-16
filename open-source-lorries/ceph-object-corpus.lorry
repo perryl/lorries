@@ -1,0 +1,6 @@
+{
+    "ceph-object-corpus": {
+        "type": "git",
+        "url": "git://ceph.com/git/ceph-object-corpus.git"
+    }
+}
