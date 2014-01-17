@@ -1,0 +1,6 @@
+{
+	"moreutils": {
+		"type": "git",
+		"url": "git://git.kitenet.net/moreutils"
+	}
+}
