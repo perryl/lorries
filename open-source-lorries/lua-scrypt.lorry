@@ -1,0 +1,6 @@
+{
+    "lua-scrypt": {
+        "type": "bzr",
+        "url": "http://bzr.rjek.com/public/lua-scrypt/"
+    }
+}
