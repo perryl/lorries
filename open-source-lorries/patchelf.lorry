@@ -1,0 +1,6 @@
+{
+    "patchelf": {
+        "type": "git",
+        "url": "git://github.com/NixOS/patchelf.git"
+    }
+}
