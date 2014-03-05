@@ -1,0 +1,7 @@
+{
+    "libvirt": {
+        "type": "git",
+        "url": "git://libvirt.org/libvirt.git"
+    }
+}
+

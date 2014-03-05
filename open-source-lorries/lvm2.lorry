@@ -1,0 +1,7 @@
+{
+    "lvm2": {
+        "type": "git",
+        "url": "git://git.fedorahosted.org/git/lvm2.git"
+    }
+}
+

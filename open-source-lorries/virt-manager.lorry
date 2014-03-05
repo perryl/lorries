@@ -1,0 +1,7 @@
+{
+    "virt-manager": {
+        "type": "git",
+        "url": "git://git.fedorahosted.org/git/virt-manager.git"
+    }
+}
+

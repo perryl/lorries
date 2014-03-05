@@ -1,0 +1,7 @@
+{
+    "urlgrabber": {
+        "type": "git",
+        "url": "git://yum.baseurl.org/urlgrabber.git"
+    }
+}
+

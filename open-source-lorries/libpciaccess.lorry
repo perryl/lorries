@@ -1,0 +1,7 @@
+{
+    "libpciaccess": {
+        "type": "git",
+        "url": "git://anongit.freedesktop.org/xorg/lib/libpciaccess"
+    }
+}
+

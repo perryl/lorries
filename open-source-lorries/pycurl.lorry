@@ -1,0 +1,7 @@
+{
+    "pycurl": {
+        "type": "git",
+        "url": "git://github.com/pycurl/pycurl.git"
+    }
+}
+

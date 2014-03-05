@@ -1,0 +1,7 @@
+{
+    "qemu": {
+        "type": "git",
+        "url": "git://git.qemu-project.org/qemu.git"
+    }
+}
+
