@@ -1,0 +1,6 @@
+{
+    "cython": {
+        "type": "git",
+        "url": "git://github.com/cython/cython.git"
+    }
+}

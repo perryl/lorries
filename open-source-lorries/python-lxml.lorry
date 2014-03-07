@@ -1,0 +1,6 @@
+{
+    "python-lxml": {
+        "type": "git",
+        "url": "git://github.com/lxml/lxml.git"
+    }
+}
