@@ -1,6 +1,6 @@
 {
     "git-fat": {
         "type": "git",
-        "url": "https://github.com/jedbrown/git-fat.git"
+        "url": "git://github.com/jedbrown/git-fat.git"
     }
 }
