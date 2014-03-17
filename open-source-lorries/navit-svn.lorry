@@ -2,6 +2,10 @@
     "navit-svn": {
         "type": "svn",
         "url": "http://svn.code.sf.net/p/navit/code",
-        "layout": "standard"
+        "layout": {
+            "trunk": "trunk/navit",
+            "branches": "branches/*/navit",
+            "tags": "tags/*/navit"
+        }
     }
 }
