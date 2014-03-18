@@ -1,0 +1,6 @@
+{
+    "yajl": {
+        "type": "git",
+        "url": "git://github.com/lloyd/yajl.git"
+    }
+}
