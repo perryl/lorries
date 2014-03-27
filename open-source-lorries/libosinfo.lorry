@@ -1,0 +1,7 @@
+{
+    "libosinfo": {
+        "type": "git",
+        "url": "git://git.fedorahosted.org/libosinfo.git"
+    }
+}
+
