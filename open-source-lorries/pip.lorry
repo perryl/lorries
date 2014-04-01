@@ -1,0 +1,6 @@
+{
+ "pip": {
+ "type": "git",
+ "url": "git://github.com/pypa/pip.git"
+ }
+}
