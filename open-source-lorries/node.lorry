@@ -1,0 +1,6 @@
+{
+ "node": {
+ "type": "git",
+ "url": "git://github.com/joyent/node.git"
+ }
+}
