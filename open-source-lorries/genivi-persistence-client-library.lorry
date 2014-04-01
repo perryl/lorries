@@ -1,0 +1,6 @@
+{
+ "genivi/persistence-client-library": {
+ "type": "git",
+ "url": "git://git.projects.genivi.org/persistence/persistence-client-library.git"
+ }
+}
