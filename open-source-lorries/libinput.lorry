@@ -1,0 +1,6 @@
+{
+    "libinput": {
+        "type": "git",
+        "url": "git://anongit.freedesktop.org/wayland/libinput.git"
+    }
+}
