@@ -1,0 +1,6 @@
+{
+    "libevdev": {
+        "type": "git",
+        "url": "git://anongit.freedesktop.org/libevdev.git"
+    }
+}
