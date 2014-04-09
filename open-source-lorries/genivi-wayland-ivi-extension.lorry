@@ -1,0 +1,6 @@
+{
+    "genivi/wayland-ivi-extension": {
+        "type": "git",
+        "url": "git://git.projects.genivi.org/wayland-ivi-extension.git"
+    }
+}
