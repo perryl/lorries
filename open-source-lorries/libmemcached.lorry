@@ -1,0 +1,6 @@
+{
+    "libmemcached": {
+        "type": "bzr",
+        "url": "lp:libmemcached"
+    }
+}
