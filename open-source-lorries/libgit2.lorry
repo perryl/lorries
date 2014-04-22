@@ -1,0 +1,6 @@
+{
+    "libgit2": {
+        "type": "git",
+        "url": "git://github.com/libgit2/libgit2.git"
+    }
+}

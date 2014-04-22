@@ -1,0 +1,6 @@
+{
+ "memcached": {
+ "type": "git",
+ "url": "git://github.com/memcached/memcached.git"
+ }
+}
