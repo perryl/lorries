@@ -1,6 +1,6 @@
 {
  "redis": {
  "type": "git",
- "url": "git@github.com:antirez/redis.git"
+ "url": "git://github.com/antirez/redis.git"
  }
 }
