@@ -1,0 +1,6 @@
+{
+    "libyaml-hg": {
+        "type": "hg",
+        "url": "http://bitbucket.org/xi/libyaml"
+    }
+}
