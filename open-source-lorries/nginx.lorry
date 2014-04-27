@@ -1,0 +1,6 @@
+{
+ "nginx": {
+ "type": "git",
+ "url": "git://github.com/nginx/nginx.git"
+ }
+}
