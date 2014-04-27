@@ -1,0 +1,6 @@
+{
+    "psych": {
+        "type": "git",
+        "url": "git://github.com/tenderlove/psych.git"
+    }
+}
