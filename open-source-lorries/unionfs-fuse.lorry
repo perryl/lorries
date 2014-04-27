@@ -1,0 +1,6 @@
+{
+    "unionfs-fuse": {
+        "type": "hg",
+        "url": "http://hg.podgorny.cz/unionfs-fuse"
+    }
+}
