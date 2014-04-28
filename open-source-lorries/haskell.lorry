@@ -1,0 +1,6 @@
+{
+    "haskell": {
+        "type": "git",
+        "url": "http://git.haskell.org/ghc.git"
+    }
+}
