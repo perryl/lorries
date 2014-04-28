@@ -1,0 +1,6 @@
+{
+ "erlang": {
+ "type": "git",
+ "url": "git://github.com/erlang/otp.git"
+ }
+}
