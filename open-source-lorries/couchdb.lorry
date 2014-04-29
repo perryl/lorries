@@ -1,0 +1,6 @@
+{
+    "couchdb": {
+        "type": "git",
+        "url": "git://github.com/apache/couchdb.git"
+    }
+}
