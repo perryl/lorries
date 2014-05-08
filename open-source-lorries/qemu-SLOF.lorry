@@ -1,0 +1,6 @@
+{
+    "qemu-SLOF": {
+        "type": "git",
+        "url": "git://git.qemu-project.org/SLOF.git"
+    }
+}

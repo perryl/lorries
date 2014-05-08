@@ -1,0 +1,6 @@
+{
+    "qemu-sgabios": {
+        "type": "git",
+        "url": "git://git.qemu-project.org/sgabios.git"
+    }
+}

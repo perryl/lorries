@@ -1,0 +1,6 @@
+{
+    "qemu-vgabios": {
+        "type": "git",
+        "url": "git://git.qemu-project.org/vgabios.git/"
+    }
+}

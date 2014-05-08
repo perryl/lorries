@@ -1,0 +1,6 @@
+{
+    "qemu-seabios": {
+        "type": "git",
+        "url": "git://git.qemu-project.org/seabios.git/"
+    }
+}

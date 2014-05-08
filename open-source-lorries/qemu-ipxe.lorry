@@ -1,0 +1,6 @@
+{
+    "qemu-ipxe": {
+        "type": "git",
+        "url": "git://git.qemu-project.org/ipxe.git"
+    }
+}

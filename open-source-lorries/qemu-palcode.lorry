@@ -1,0 +1,6 @@
+{
+    "qemu-palcode": {
+        "type": "git",
+        "url": "git://github.com/rth7680/qemu-palcode.git"
+    }
+}
