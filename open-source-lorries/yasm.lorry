@@ -1,0 +1,6 @@
+{
+    "yasm": {
+        "type": "git",
+        "url": "git://github.com/yasm/yasm.git"
+    }
+}
