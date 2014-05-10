@@ -1,0 +1,6 @@
+{
+ "haproxy": {
+ "type": "git",
+ "url": "git://github.com/haproxy/haproxy.git"
+ }
+}
