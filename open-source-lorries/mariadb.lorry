@@ -1,0 +1,6 @@
+{
+    "mariadb": {
+        "type": "bzr",
+        "url": "lp:maria"
+    }
+}

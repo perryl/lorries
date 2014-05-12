@@ -1,0 +1,6 @@
+{
+    "mysql-server": {
+        "type": "bzr",
+        "url": "lp:mysql-server"
+    }
+}
