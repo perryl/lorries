@@ -1,0 +1,6 @@
+{
+    "python-novaclient": {
+        "type": "git",
+        "url": "git://github.com/openstack/python-novaclient.git"
+    }
+}
