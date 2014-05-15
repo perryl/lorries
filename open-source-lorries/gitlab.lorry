@@ -1,0 +1,14 @@
+{
+    "gitlab/gitlab-ce": {
+        "type": "git",
+        "url": "https://gitlab.com/gitlab-org/gitlab-ce.git"
+    },
+    "gitlab/gitlab-ci": {
+        "type": "git",
+        "url": "https://gitlab.com/gitlab-org/gitlab-ci.git"
+    },
+    "gitlab/gitlab-shell": {
+        "type": "git",
+        "url": "https://gitlab.com/gitlab-org/gitlab-shell.git"
+    }
+}
