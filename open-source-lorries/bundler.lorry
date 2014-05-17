@@ -1,0 +1,6 @@
+{
+ "bundler": {
+ "type": "git",
+ "url": "git://github.com/bundler/bundler"
+ }
+}
