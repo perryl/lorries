@@ -1,7 +1,7 @@
 {
     "cgit": {
         "type": "git",
-        "url": "git://hjemli.net/pub/git/cgit",
+        "url": "git://git.zx2c4.com/cgit",
         "refspecs": [
             "+refs/heads/*",
             "+refs/tags/*"
