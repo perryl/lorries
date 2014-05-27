@@ -1,0 +1,7 @@
+{
+    "i2c-tools": {
+        "type": "svn",
+        "url": "http://lm-sensors.org/svn/i2c-tools",
+        "layout": "standard"
+    }
+}
