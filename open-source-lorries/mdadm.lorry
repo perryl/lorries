@@ -1,0 +1,6 @@
+{
+    "mdadm": {
+        "type": "git",
+        "url": "git://neil.brown.name/mdadm"
+    }
+}
