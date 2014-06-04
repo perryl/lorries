@@ -10,5 +10,9 @@
     "genivi/positioning": {       
         "type": "git",
         "url": "git://git.projects.genivi.org/lbs/positioning"        
+    },
+    "genivi/browser-poc": {
+        "type": "git",
+        "url": "git://git.projects.genivi.org/browser-poc"
     }
 }
