@@ -1,0 +1,14 @@
+{
+    "genivi/navigation": {
+        "type": "git",
+        "url": "git://git.projects.genivi.org/lbs/navigation-application"
+    },
+    "genivi/poi-service": {
+        "type": "git",
+        "url": "git://git.projects.genivi.org/lbs/navigation"
+    },
+    "genivi/positioning": {       
+        "type": "git",
+        "url": "git://git.projects.genivi.org/lbs/positioning"        
+    }
+}
