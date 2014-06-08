@@ -1,7 +1,7 @@
 {
     "fpc": {
         "type": "svn",
-        "url": "http://svn.freepascal.org/svn/fpc/trunk",
+        "url": "http://svn.freepascal.org/svn/fpc",
         "layout": "standard"
     }
 }
