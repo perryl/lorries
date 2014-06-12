@@ -1,0 +1,7 @@
+{
+    "xorg-proto-presentproto": {
+        "type": "git",
+        "url": "git://anongit.freedesktop.org/xorg/proto/presentproto"
+    }
+}
+
