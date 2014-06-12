@@ -1,0 +1,7 @@
+{
+    "xorg-proto-dri3proto": {
+        "type": "git",
+        "url": "git://anongit.freedesktop.org/xorg/proto/dri3proto"
+    }
+}
+
