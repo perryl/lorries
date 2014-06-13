@@ -1,5 +1,5 @@
 {
-    "kmod": {
+    "kmscube": {
         "type": "git",
         "url": "git://gitorious.org/thierryreding/kmscube.git"
     }
