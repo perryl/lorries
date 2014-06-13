@@ -1,0 +1,6 @@
+{
+    "ghostpdl": {
+        "type": "git",
+        "url": "git://git.ghostscript.com/ghostpdl.git"
+    }
+}
