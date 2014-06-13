@@ -1,0 +1,6 @@
+{
+    "stow": {
+        "type": "git",
+        "url": "git://git.savannah.gnu.org/stow.git"
+    }
+}
