@@ -1,0 +1,6 @@
+{
+    "shadow": {
+        "type": "git",
+        "url": "git://anonscm.debian.org/git/pkg-shadow/shadow.git"
+    }
+}
