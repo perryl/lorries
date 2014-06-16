@@ -1,0 +1,6 @@
+{
+    "markupsafe": {
+        "type": "git",
+        "url": "git://github.com/mitsuhiko/markupsafe.git"
+    }
+}

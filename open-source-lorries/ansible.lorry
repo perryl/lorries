@@ -1,0 +1,6 @@
+{
+    "ansible": {
+        "type": "git",
+        "url": "git://github.com/ansible/ansible.git"
+    }
+}

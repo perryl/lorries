@@ -1,0 +1,6 @@
+{
+    "paramiko": {
+        "type": "git",
+        "url": "git://github.com/paramiko/paramiko.git"
+    }
+}
