@@ -1,0 +1,211 @@
+{
+    "openstack/nova": {
+        "type": "git",
+        "url": "git://git.openstack.org/openstack/nova.git"
+    },
+
+    "openstack/python-novaclient": {
+        "type": "git",
+        "url": "git://git.openstack.org/openstack/python-novaclient.git"
+    },
+
+    "openstack/swift": {
+        "type": "git",
+        "url": "git://git.openstack.org/openstack/swift.git"
+    },
+
+    "openstack/python-swiftclient": {
+        "type": "git",
+        "url": "git://git.openstack.org/openstack/python-swiftclient.git"
+    },
+
+    "openstack/swift-bench": {
+        "type": "git",
+        "url": "git://git.openstack.org/openstack/swift-bench.git"
+    },
+
+    "openstack/glance": {
+        "type": "git",
+        "url": "git://git.openstack.org/openstack/glance.git"
+    },
+
+    "openstack/python-glanceclient": {
+        "type": "git",
+        "url": "git://git.openstack.org/openstack/python-glanceclient.git"
+    },
+
+    "openstack/keystone": {
+        "type": "git",
+        "url": "git://git.openstack.org/openstack/keystone.git"
+    },
+
+    "openstack/python-keystoneclient": {
+        "type": "git",
+        "url": "git://git.openstack.org/openstack/python-keystoneclient.git"
+    },
+
+    "openstack/horizon": {
+        "type": "git",
+        "url": "git://git.openstack.org/openstack/horizon.git"
+    },
+
+    "openstack/django_openstack_auth": {
+        "type": "git",
+        "url": "git://git.openstack.org/openstack/django_openstack_auth.git"
+    },
+
+    "openstack/tuskar-ui": {
+        "type": "git",
+        "url": "git://git.openstack.org/openstack/tuskar-ui.git"
+    },
+
+    "openstack/neutron": {
+        "type": "git",
+        "url": "git://git.openstack.org/openstack/neutron.git"
+    },
+
+    "openstack/python-neutronclient": {
+        "type": "git",
+        "url": "git://git.openstack.org/openstack/python-neutronclient.git"
+    },
+
+    "openstack/cinder": {
+        "type": "git",
+        "url": "git://git.openstack.org/openstack/cinder.git"
+    },
+
+    "openstack/python-cinderclient": {
+        "type": "git",
+        "url": "git://git.openstack.org/openstack/python-cinderclient.git"
+    },
+
+    "openstack/ceilometer": {
+        "type": "git",
+        "url": "git://git.openstack.org/openstack/ceilometer.git"
+    },
+
+    "openstack/python-ceilometerclient": {
+        "type": "git",
+        "url": "git://git.openstack.org/openstack/python-ceilometerclient.git"
+    },
+
+    "openstack/heat": {
+        "type": "git",
+        "url": "git://git.openstack.org/openstack/heat.git"
+    },
+
+    "openstack/python-heatclient": {
+        "type": "git",
+        "url": "git://git.openstack.org/openstack/python-heatclient.git"
+    },
+
+    "openstack/heat-cfntools": {
+        "type": "git",
+        "url": "git://git.openstack.org/openstack/heat-cfntools.git"
+    },
+
+    "openstack/heat-templates": {
+        "type": "git",
+        "url": "git://git.openstack.org/openstack/heat-templates.git"
+    },
+
+    "openstack/trove": {
+        "type": "git",
+        "url": "git://git.openstack.org/openstack/trove.git"
+    },
+
+    "openstack/python-troveclient": {
+        "type": "git",
+        "url": "git://git.openstack.org/openstack/python-troveclient.git"
+    },
+
+    "openstack/trove-integration": {
+        "type": "git",
+        "url": "git://git.openstack.org/openstack/trove-integration.git"
+    },
+
+    "openstack/ironic": {
+        "type": "git",
+        "url": "git://git.openstack.org/openstack/ironic.git"
+    },
+
+    "openstack/python-ironicclient": {
+        "type": "git",
+        "url": "git://git.openstack.org/openstack/python-ironicclient.git"
+    },
+
+    "openstack/ironic-python-agent": {
+        "type": "git",
+        "url": "git://git.openstack.org/openstack/ironic-python-agent.git"
+    },
+
+    "openstack/cliff": {
+        "type": "git",
+        "url": "git://git.openstack.org/openstack/cliff.git"
+    },
+
+    "openstack/oslo-config": {
+        "type": "git",
+        "url": "git://git.openstack.org/openstack/oslo.config.git"
+    },
+
+    "openstack/oslo-db": {
+        "type": "git",
+        "url": "git://git.openstack.org/openstack/oslo.db.git"
+    },
+
+    "openstack/oslo-i18n": {
+        "type": "git",
+        "url": "git://git.openstack.org/openstack/oslo.i18n.git"
+    },
+
+    "openstack/oslo-incubator": {
+        "type": "git",
+        "url": "git://git.openstack.org/openstack/oslo-incubator.git"
+    },
+
+    "openstack/oslo-messaging": {
+        "type": "git",
+        "url": "git://git.openstack.org/openstack/oslo.messaging.git"
+    },
+
+    "openstack/oslo-rootwrap": {
+        "type": "git",
+        "url": "git://git.openstack.org/openstack/oslo.rootwrap.git"
+    },
+
+    "openstack/oslosphinx": {
+        "type": "git",
+        "url": "git://git.openstack.org/openstack/oslosphinx.git"
+    },
+
+    "openstack/oslotest": {
+        "type": "git",
+        "url": "git://git.openstack.org/openstack/oslotest.git"
+    },
+
+    "openstack/oslo-version": {
+        "type": "git",
+        "url": "git://git.openstack.org/openstack/oslo.version.git"
+    },
+
+    "openstack/oslo-vmware": {
+        "type": "git",
+        "url": "git://git.openstack.org/openstack/oslo.vmware.git"
+    },
+
+    "openstack/pycadf": {
+        "type": "git",
+        "url": "git://git.openstack.org/openstack/pycadf.git"
+    },
+
+    "openstack/stevedore": {
+        "type": "git",
+        "url": "git://git.openstack.org/openstack/stevedore.git"
+    },
+
+    "openstack/taskflow": {
+        "type": "git",
+        "url": "git://git.openstack.org/openstack/taskflow.git"
+    }
+}
