@@ -1,0 +1,388 @@
+{
+    "python-packages/alembic": {
+        "type": "git",
+        "url": "git@bitbucket.org:zzzeek/alembic.git"
+    },
+    "python-packages/anyjson": {
+        "type": "hg",
+        "url": "https://bitbucket.org/runeh/anyjson"
+    },
+    "python-packages/cffi": {
+        "type": "hg",
+        "url": "https://bitbucket.org/cffi/cffi"
+    },
+    "python-packages/cliff": {
+        "type": "git",
+        "url": "git://github.com/dreamhost/cliff.git"
+    },
+    "python-packages/creole": {
+        "type": "git",
+        "url": "git://github.com/jedie/python-creole.git"
+    },
+    "python-packages/croniter": {
+        "type": "git",
+        "url": "git://github.com/kiorky/croniter.git"
+    },
+    "python-packages/dateutil": {
+        "type": "bzr",
+        "url": "lp:dateutil"
+    },
+    "python-packages/decorator": {
+        "type": "hg",
+        "url": "https://bitbucket.org/pypa/pypi"
+    },
+    "python-packages/defusedxml": {
+        "type": "hg",
+        "url": "https://bitbucket.org/tiran/defusedxml"
+    },
+    "python-packages/disutils2": {
+        "type": "hg",
+        "url": "http://hg.python.org/distutils2"
+    },
+    "python-packages/dnspython": {
+        "type": "git",
+        "url": "git://github.com/rthalley/dnspython.git"
+    },
+    "python-packages/docutils": {
+        "layout": "standard",
+        "type": "svn",
+        "url": "http://svn.code.sf.net/p/docutils/code"
+    },
+    "python-packages/dogpile-cache": {
+        "type": "git",
+        "url": "git@bitbucket.org:zzzeek/dogpile.cache.git"
+    },
+    "python-packages/eventlet": {
+        "type": "git",
+        "url": "git://github.com/eventlet/eventlet.git"
+    },
+    "python-packages/fixtures": {
+        "type": "bzr",
+        "url": "lp:python-fixtures"
+    },
+    "python-packages/futures": {
+        "type": "hg",
+        "url": "https://code.google.com/p/pythonfutures/"
+    },
+    "python-packages/greenlet": {
+        "type": "git",
+        "url": "git://github.com/python-greenlet/greenlet.git"
+    },
+    "python-packages/happybase": {
+        "type": "git",
+        "url": "git://github.com/wbolster/happybase.git"
+    },
+    "python-packages/httplib2": {
+        "type": "git",
+        "url": "git://github.com/jcgregorio/httplib2.git"
+    },
+    "python-packages/httpretty": {
+        "type": "git",
+        "url": "git://github.com/gabrielfalcao/httpretty.git"
+    },
+    "python-packages/itsdangerous": {
+        "type": "git",
+        "url": "git://github.com/mitsuhiko/itsdangerous.git"
+    },
+    "python-packages/jsonpath-rw": {
+        "type": "git",
+        "url": "git://github.com/kennknowles/python-jsonpath-rw.git"
+    },
+    "python-packages/jsonrpclib": {
+        "type": "git",
+        "url": "git://github.com/joshmarshall/jsonrpclib.git"
+    },
+    "python-packages/kombu": {
+        "type": "git",
+        "url": "git://github.com/celery/kombu.git"
+    },
+    "python-packages/lockfile": {
+        "type": "git",
+        "url": "git://github.com/smontanaro/pylockfile.git"
+    },
+    "python-packages/m2crypto": {
+        "type": "git",
+        "url": "git://github.com/martinpaljak/M2Crypto.git"
+    },
+    "python-packages/mock": {
+        "type": "hg",
+        "url": "https://code.google.com/p/mock/"
+    },
+    "python-packages/mox": {
+        "layout": "standard",
+        "type": "svn",
+        "url": "http://pymox.googlecode.com/svn/"
+    },
+    "python-packages/msgpack-python": {
+        "type": "git",
+        "url": "git://github.com/msgpack/msgpack-python.git"
+    },
+    "python-packages/mysqldb1": {
+        "type": "git",
+        "url": "git://github.com/farcepest/MySQLdb1.git"
+    },
+    "python-packages/netifaces": {
+        "type": "hg",
+        "url": "https://bitbucket.org/al45tair/netifaces"
+    },
+    "python-packages/networkx": {
+        "type": "git",
+        "url": "git://github.com/networkx/networkx.git"
+    },
+    "python-packages/nose": {
+        "type": "git",
+        "url": "git://github.com/nose-devs/nose.git"
+    },
+    "python-packages/oauthlib": {
+        "type": "git",
+        "url": "git://github.com/idan/oauthlib.git"
+    },
+    "python-packages/openid": {
+        "type": "git",
+        "url": "git://github.com/openid/python-openid.git"
+    },
+    "python-packages/passlib": {
+        "type": "hg",
+        "url": "https://code.google.com/p/passlib/"
+    },
+    "python-packages/paste": {
+        "type": "hg",
+        "url": "http://bitbucket.org/ianb/paste"
+    },
+    "python-packages/pastedeploy": {
+        "type": "hg",
+        "url": "http://bitbucket.org/ianb/pastedeploy"
+    },
+    "python-packages/pecan": {
+        "type": "git",
+        "url": "git://github.com/stackforge/pecan.git"
+    },
+    "python-packages/pexpect": {
+        "type": "git",
+        "url": "git://github.com/pexpect/pexpect.git"
+    },
+    "python-packages/posix-ipc-tarball": {
+        "compression": "gzip",
+        "strip": 1,
+        "type": "tarball",
+        "url": "http://semanchuk.com/philip/posix_ipc/posix_ipc-0.9.8.tar.gz"
+    },
+    "python-packages/psycopg2": {
+        "type": "git",
+        "url": "git://github.com/nwcell/psycopg2-windows.git"
+    },
+    "python-packages/py-bcrypt": {
+        "type": "hg",
+        "url": "https://code.google.com/p/py-bcrypt/"
+    },
+    "python-packages/pyasn1": {
+        "module": "pyasn1",
+        "type": "cvs",
+        "url": ":pserver:anonymous@pyasn1.cvs.sourceforge.net:/cvsroot/pyasn1"
+    },
+    "python-packages/pycadf": {
+        "type": "git",
+        "url": "git://github.com/openstack/pycadf.git"
+    },
+    "python-packages/pycco": {
+        "type": "git",
+        "url": "git://github.com/fitzgen/pycco.git"
+    },
+    "python-packages/pycparser": {
+        "type": "git",
+        "url": "git://github.com/eliben/pycparser.git"
+    },
+    "python-packages/pycrypto": {
+        "type": "git",
+        "url": "git://github.com/dlitz/pycrypto.git"
+    },
+    "python-packages/pygments": {
+        "type": "hg",
+        "url": "https://bitbucket.org/birkenfeld/pygments-main"
+    },
+    "python-packages/pyjwt": {
+        "type": "git",
+        "url": "git://github.com/progrium/pyjwt.git"
+    },
+    "python-packages/pylint": {
+        "type": "hg",
+        "url": "https://bitbucket.org/logilab/pylint/"
+    },
+    "python-packages/pyopenssl": {
+        "type": "git",
+        "url": "git://github.com/pyca/pyopenssl.git"
+    },
+    "python-packages/pysnmp": {
+        "module": "pysnmp",
+        "type": "cvs",
+        "url": ":pserver:anonymous@pysnmp.cvs.sourceforge.net:/cvsroot/pysnmp"
+    },
+    "python-packages/qpid-python": {
+        "type": "git",
+        "url": "http://git.apache.org/qpid.git"
+    },
+    "python-packages/raven": {
+        "type": "git",
+        "url": "git://github.com/getsentry/raven-python.git"
+    },
+    "python-packages/redis-py": {
+        "type": "git",
+        "url": "git://github.com/andymccurdy/redis-py.git"
+    },
+    "python-packages/routes": {
+        "type": "git",
+        "url": "git://github.com/bbangert/routes.git"
+    },
+    "python-packages/rq": {
+        "type": "git",
+        "url": "git://github.com/nvie/rq.git"
+    },
+    "python-packages/rsa": {
+        "type": "hg",
+        "url": "https://bitbucket.org/sybren/python-rsa"
+    },
+    "python-packages/rtslib-fb": {
+        "type": "git",
+        "url": "git://github.com/agrover/rtslib-fb.git"
+    },
+    "python-packages/sphinx": {
+        "type": "hg",
+        "url": "https://bitbucket.org/birkenfeld/sphinx"
+    },
+    "python-packages/sqlalchemy": {
+        "type": "git",
+        "url": "git://github.com/zzzeek/sqlalchemy.git"
+    },
+    "python-packages/sqlalchemy-migrate": {
+        "type": "git",
+        "url": "git://github.com/stackforge/sqlalchemy-migrate.git"
+    },
+    "python-packages/subunit": {
+        "type": "bzr",
+        "url": "lp:subunit"
+    },
+    "python-packages/suds": {
+        "type": "hg",
+        "url": "https://bitbucket.org/mirror/suds"
+    },
+    "python-packages/tempita": {
+        "type": "hg",
+        "url": "https://bitbucket.org/ianb/tempita"
+    },
+    "python-packages/testrepository": {
+        "type": "bzr",
+        "url": "lp:testrepository"
+    },
+    "python-packages/testscenarios": {
+        "type": "bzr",
+        "url": "lp:testscenarios"
+    },
+    "python-packages/testtools": {
+        "type": "git",
+        "url": "git://github.com/testing-cabal/testtools.git"
+    },
+    "python-packages/times": {
+        "type": "git",
+        "url": "git://github.com/nvie/times.git"
+    },
+    "python-packages/tox": {
+        "type": "hg",
+        "url": "https://bitbucket.org/hpk42/tox"
+    },
+    "python-packages/urllib3": {
+        "type": "git",
+        "url": "git://github.com/shazow/urllib3.git"
+    },
+    "python-packages/uwsgi": {
+        "type": "git",
+        "url": "git://github.com/unbit/uwsgi.git"
+    },
+    "python-packages/webob": {
+        "type": "git",
+        "url": "git://github.com/Pylons/webob.git"
+    },
+    "python-packages/websockify": {
+        "type": "git",
+        "url": "git://github.com/kanaka/websockify.git"
+    },
+    "python-packages/wsme": {
+        "type": "git",
+        "url": "git://github.com/stackforge/wsme.git"
+    },
+    "python-packages/xattr": {
+        "type": "git",
+        "url": "git://github.com/xattr/xattr.git"
+    },
+    "python-packages/zope-browser": {
+        "type": "git",
+        "url": "git://github.com/zopefoundation/zope.browser.git"
+    },
+    "python-packages/zope-component": {
+        "type": "git",
+        "url": "git://github.com/zopefoundation/zope.component.git"
+    },
+    "python-packages/zope-configuration": {
+        "type": "git",
+        "url": "git://github.com/zopefoundation/zope.configuration.git"
+    },
+    "python-packages/zope-contenttype": {
+        "type": "git",
+        "url": "git://github.com/zopefoundation/zope.contenttype.git"
+    },
+    "python-packages/zope-event": {
+        "type": "git",
+        "url": "git://github.com/zopefoundation/zope.event.git"
+    },
+    "python-packages/zope-exceptions": {
+        "type": "git",
+        "url": "git://github.com/zopefoundation/zope.exceptions.git"
+    },
+    "python-packages/zope-i18n": {
+        "type": "git",
+        "url": "git://github.com/zopefoundation/zope.i18n.git"
+    },
+    "python-packages/zope-i18nmessageid": {
+        "type": "git",
+        "url": "git://github.com/zopefoundation/zope.i18nmessageid.git"
+    },
+    "python-packages/zope-interface": {
+        "type": "git",
+        "url": "git://github.com/zopefoundation/zope.interface.git"
+    },
+    "python-packages/zope-location": {
+        "type": "git",
+        "url": "git://github.com/zopefoundation/zope.location.git"
+    },
+    "python-packages/zope-pagetemplate": {
+        "type": "git",
+        "url": "git://github.com/zopefoundation/zope.pagetemplate.git"
+    },
+    "python-packages/zope-proxy": {
+        "type": "git",
+        "url": "git://github.com/zopefoundation/zope.proxy.git"
+    },
+    "python-packages/zope-publisher": {
+        "type": "git",
+        "url": "git://github.com/zopefoundation/zope.publisher.git"
+    },
+    "python-packages/zope-schema": {
+        "type": "git",
+        "url": "git://github.com/zopefoundation/zope.schema.git"
+    },
+    "python-packages/zope-security": {
+        "type": "git",
+        "url": "git://github.com/zopefoundation/zope.security.git"
+    },
+    "python-packages/zope-tal": {
+        "type": "git",
+        "url": "git://github.com/zopefoundation/zope.tal.git"
+    },
+    "python-packages/zope-tales": {
+        "type": "git",
+        "url": "git://github.com/zopefoundation/zope.tales.git"
+    },
+    "python-packages/zope-traversing": {
+        "type": "git",
+        "url": "git://github.com/zopefoundation/zope.traversing.git"
+    }
+}
