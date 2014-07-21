@@ -27,18 +27,19 @@ sections = [
 	"Orchestration",
 	"Database Service",
 	"Bare metal",
-	"Common Libraries"
+	"Common Libraries",
+	"DNS Services",
 ]
 
 def clean_repo(repo):
 	ret = None
-	name_match = re.search("openstack/(.*)$", repo)
+	name_match = re.search("(openstack|stackforge)/(.*)$", repo)
 
 	# Filter out the specs repos.
 	# Could probably be sone in the above regexp, but don't
 	# have the inclination to work out how.
 	if name_match:
-		name = name_match.group(1)
+		name = name_match.group(2)
 		if not re.search("specs$", name):
 			ret = name
 

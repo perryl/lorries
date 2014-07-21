@@ -44,6 +44,11 @@
         "url": "git://git.openstack.org/openstack/python-keystoneclient.git"
     },
 
+    "openstack/keystonemiddleware": {
+        "type": "git",
+        "url": "git://git.openstack.org/openstack/keystonemiddleware.git"
+    },
+
     "openstack/horizon": {
         "type": "git",
         "url": "git://git.openstack.org/openstack/horizon.git"
@@ -207,5 +212,15 @@
     "openstack/taskflow": {
         "type": "git",
         "url": "git://git.openstack.org/openstack/taskflow.git"
+    },
+
+    "openstack/designate": {
+        "type": "git",
+        "url": "git://git.openstack.org/openstack/designate.git"
+    },
+
+    "openstack/python-designateclient": {
+        "type": "git",
+        "url": "git://git.openstack.org/openstack/python-designateclient.git"
     }
 }
