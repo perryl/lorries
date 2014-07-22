@@ -1,0 +1,6 @@
+{
+    "dtc": {
+        "type": "git",
+        "url": "git://git.jdl.com/software/dtc.git"
+    }
+}
