@@ -1,0 +1,6 @@
+{
+    "ppp": {
+        "type": "git",
+        "url": "git://ozlabs.org/~paulus/ppp.git"
+    }
+}

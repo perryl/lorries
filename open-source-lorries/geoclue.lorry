@@ -1,0 +1,6 @@
+{
+    "geoclue": {
+        "type": "git",
+        "url": "git://anongit.freedesktop.org/git/geoclue"
+    }
+}

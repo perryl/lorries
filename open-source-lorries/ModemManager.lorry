@@ -1,0 +1,6 @@
+{
+    "ModemManager": {
+        "type": "git",
+        "url": "git://anongit.freedesktop.org/git/ModemManager/ModemManager"
+    }
+}

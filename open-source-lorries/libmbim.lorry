@@ -1,0 +1,6 @@
+{
+    "libmbim": {
+        "type": "git",
+        "url": "git://anongit.freedesktop.org/libmbim/libmbim"
+    }
+}

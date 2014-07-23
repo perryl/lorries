@@ -1,0 +1,10 @@
+{
+    "linuxwacom/libwacom": {
+        "type": "git",
+        "url": "git://linuxwacom.git.sourceforge.net/gitroot/linuxwacom/libwacom"
+    },
+    "linuxwacom/xf86-input-wacom": {
+        "type": "git",
+        "url": "git://linuxwacom.git.sourceforge.net/gitroot/linuxwacom/xf86-input-wacom"
+    }
+}

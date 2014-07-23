@@ -1,0 +1,30 @@
+{
+    "gnome/clutter": {
+        "type": "git",
+        "url": "git://git.gnome.org/clutter"
+    },
+    "gnome/cogl": {
+        "type": "git",
+        "url": "git://git.gnome.org/cogl"
+    },
+    "gnome/geocode-glib": {
+        "type": "git",
+        "url": "git://git.gnome.org/geocode-glib"
+    },
+    "gnome/gnome-desktop": {
+        "type": "git",
+        "url": "git://git.gnome.org/gnome-desktop"
+    },
+    "gnome/gsettings-desktop-schemas": {
+        "type": "git",
+        "url": "git://git.gnome.org/gsettings-desktop-schemas"
+    },
+    "gnome/libgweather": {
+        "type": "git",
+        "url": "git://git.gnome.org/libgweather"
+    },
+    "gnome/libnotify": {
+        "type": "git",
+        "url": "git://git.gnome.org/libnotify"
+    }
+}

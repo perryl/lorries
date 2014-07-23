@@ -1,0 +1,6 @@
+{
+    "json-glib": {
+        "type": "git",
+        "url": "git://git.gnome.org/json-glib"
+    }
+}
