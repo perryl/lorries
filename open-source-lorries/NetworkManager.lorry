@@ -1,0 +1,6 @@
+{
+    "NetworkManager": {
+        "type": "git",
+        "url": "git://anongit.freedesktop.org/git/NetworkManager/NetworkManager"
+    }
+}

@@ -1,0 +1,6 @@
+{
+    "colord": {
+        "type": "git",
+        "url": "git://github.com/hughsie/colord.git"
+    }
+}

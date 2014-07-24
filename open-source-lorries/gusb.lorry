@@ -1,0 +1,6 @@
+{
+    "gusb": {
+        "type": "git",
+        "url": "git@gitorious.org:gusb/gusb.git"
+    }
+}

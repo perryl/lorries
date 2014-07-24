@@ -1,0 +1,6 @@
+{
+    "bash-completion": {
+        "type": "git",
+        "url": "git://git.debian.org/git/bash-completion/bash-completion.git"
+    }
+}

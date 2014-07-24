@@ -1,0 +1,6 @@
+{
+    "libndp": {
+        "type": "git",
+        "url": "git://github.com/jpirko/libndp.git"
+    }
+}

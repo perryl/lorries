@@ -1,0 +1,6 @@
+{
+    "ogg": {
+        "type": "git",
+        "url": "git://git.xiph.org/mirrors/ogg.git"
+    }
+}
