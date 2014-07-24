@@ -1,6 +1,6 @@
 {
     "libndp": {
         "type": "git",
-        "url": "git:git://github.com/jpirko/libndp.git"
+        "url": "git://github.com/jpirko/libndp.git"
     }
 }
