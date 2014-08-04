@@ -1,0 +1,6 @@
+{
+    "thrift": {
+        "type": "git",
+        "url": "git://git.apache.org/thrift.git"
+    }
+}
