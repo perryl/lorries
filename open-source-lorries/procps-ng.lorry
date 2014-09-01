@@ -1,0 +1,6 @@
+{
+    "procps-ng": {
+        "type": "git",
+        "url": "git://gitorious.org/procps/procps.git"
+    }
+}
