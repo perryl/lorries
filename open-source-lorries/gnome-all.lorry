@@ -7,17 +7,53 @@
         "type": "git",
         "url": "git://git.gnome.org/cogl"
     },
+    "gnome/d-feet": {
+        "type": "git",
+        "url": "git://git.gnome.org/d-feet"
+    },
+    "gnome/evolution-data-server": {
+        "type": "git",
+        "url": "git://git.gnome.org/evolution-data-server"
+    },
+    "gnome/gcr": {
+        "type": "git",
+        "url": "git://git.gnome.org/gcr"
+    },
     "gnome/geocode-glib": {
         "type": "git",
         "url": "git://git.gnome.org/geocode-glib"
+    },
+    "gnome/glib-networking": {
+        "type": "git",
+        "url": "git://git.gnome.org/glib-networking"
+    },
+    "gnome/gnome-control-center": {
+        "type": "git",
+        "url": "git://git.gnome.org/gnome-control-center"
     },
     "gnome/gnome-desktop": {
         "type": "git",
         "url": "git://git.gnome.org/gnome-desktop"
     },
+    "gnome/gnome-session": {
+        "type": "git",
+        "url": "git://git.gnome.org/gnome-session"
+    },
+    "gnome/gnome-shell": {
+        "type": "git",
+        "url": "git://git.gnome.org/gnome-shell"
+    },
     "gnome/gsettings-desktop-schemas": {
         "type": "git",
         "url": "git://git.gnome.org/gsettings-desktop-schemas"
+    },
+    "gnome/libgee": {
+        "type": "git",
+        "url": "git://git.gnome.org/libgee"
+    },
+    "gnome/libsecret": {
+        "type": "git",
+        "url": "git://git.gnome.org/libsecret"
     },
     "gnome/libgweather": {
         "type": "git",
