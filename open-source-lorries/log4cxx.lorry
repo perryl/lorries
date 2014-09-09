@@ -1,0 +1,8 @@
+{
+    "log4cxx": {
+        "type": "svn",
+        "url": "http://svn.apache.org/repos/asf/incubator/log4cxx",
+        "layout": "standard"
+    }
+}
+
