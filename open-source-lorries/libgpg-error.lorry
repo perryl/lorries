@@ -1,0 +1,6 @@
+{
+    "libgpg-error": {
+        "type": "git",
+        "url": "git://git.gnupg.org/libgpg-error.git"
+    }
+}

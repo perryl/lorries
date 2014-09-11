@@ -1,0 +1,6 @@
+{
+    "startup-notification": {
+        "type": "git",
+        "url": "git://anongit.freedesktop.org/startup-notification"
+    }
+}

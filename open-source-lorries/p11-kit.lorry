@@ -1,0 +1,6 @@
+{
+    "p11-kit": {
+        "type": "git",
+        "url": "git://anongit.freedesktop.org/p11-glue/p11-kit"
+    }
+}
