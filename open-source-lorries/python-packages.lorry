@@ -52,6 +52,10 @@
         "type": "git",
         "url": "git@bitbucket.org:zzzeek/dogpile.cache.git"
     },
+    "python-packages/ecdsa": {
+        "type": "git",
+        "url": "git://github.com/warner/python-ecdsa.git"
+    },
     "python-packages/eventlet": {
         "type": "git",
         "url": "git://github.com/eventlet/eventlet.git"
@@ -300,6 +304,10 @@
     "python-packages/webob": {
         "type": "git",
         "url": "git://github.com/Pylons/webob.git"
+    },
+    "python-packages/websocket-client": {
+        "type": "git",
+        "url": "git://github.com/liris/websocket-client.git"
     },
     "python-packages/websockify": {
         "type": "git",

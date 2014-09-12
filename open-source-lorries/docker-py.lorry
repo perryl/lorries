@@ -1,0 +1,6 @@
+{
+    "docker-py": {
+        "type": "git",
+        "url": "git://github.com/dotcloud/docker-py.git"
+    }
+}
