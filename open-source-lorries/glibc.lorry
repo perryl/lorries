@@ -1,6 +1,6 @@
 {
     "glibc": {
         "type": "git",
-        "url": "git://sourceware.org/git/glibc.git",
+        "url": "git://sourceware.org/git/glibc.git"
     }
 }
