@@ -1,0 +1,7 @@
+{
+    "mariadb-git": {
+        "type": "git",
+        "url": "git://github.com/MariaDB/server.git"
+    }
+}
+
