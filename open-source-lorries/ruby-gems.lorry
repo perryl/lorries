@@ -1,0 +1,212 @@
+{
+    "ruby-gems/chef": {
+        "type": "git",
+        "url": "http://github.com/opscode/chef/",
+        "x-products-rubygems": [
+            "chef"
+        ]
+    },
+    "ruby-gems/chef-zero": {
+        "type": "git",
+        "url": "https://github.com/jkeiser/chef-zero",
+        "x-products-rubygems": [
+            "chef-zero"
+        ]
+    },
+    "ruby-gems/coderay": {
+        "type": "git",
+        "url": "http://github.com/rubychan/coderay",
+        "x-products-rubygems": [
+            "coderay"
+        ]
+    },
+    "ruby-gems/diff-lcs": {
+        "type": "git",
+        "url": "https://github.com/halostatue/diff-lcs",
+        "x-products-rubygems": [
+            "diff-lcs"
+        ]
+    },
+    "ruby-gems/erubis": {
+        "type": "git",
+        "url": "https://github.com/kwatch/erubis",
+        "x-products-rubygems": [
+            "erubis"
+        ]
+    },
+    "ruby-gems/ffi": {
+        "type": "git",
+        "url": "http://github.com/ffi/ffi",
+        "x-products-rubygems": [
+            "ffi"
+        ]
+    },
+    "ruby-gems/ffi-yajl": {
+        "type": "git",
+        "url": "http://github.com/opscode/ffi-yajl",
+        "x-products-rubygems": [
+            "ffi-yajl"
+        ]
+    },
+    "ruby-gems/hashie": {
+        "type": "git",
+        "url": "https://github.com/intridea/hashie",
+        "x-products-rubygems": [
+            "hashie"
+        ]
+    },
+    "ruby-gems/highline": {
+        "type": "git",
+        "url": "https://github.com/JEG2/highline",
+        "x-products-rubygems": [
+            "highline"
+        ]
+    },
+    "ruby-gems/hoe": {
+        "type": "git",
+        "url": "https://github.com/seattlerb/hoe",
+        "x-products-rubygems": [
+            "hoe"
+        ]
+    },
+    "ruby-gems/ipaddress": {
+        "type": "git",
+        "url": "http://github.com/bluemonk/ipaddress",
+        "x-products-rubygems": [
+            "ipaddress"
+        ]
+    },
+    "ruby-gems/json": {
+        "type": "git",
+        "url": "https://github.com/flori/json",
+        "x-products-rubygems": [
+            "json"
+        ]
+    },
+    "ruby-gems/libyajl2-gem": {
+        "type": "git",
+        "url": "https://github.com/lamont-granquist/libyajl2-gem",
+        "x-products-rubygems": [
+            "libyajl2"
+        ]
+    },
+    "ruby-gems/method_source": {
+        "type": "git",
+        "url": "https://github.com/banister/method_source",
+        "x-products-rubygems": [
+            "method_source"
+        ]
+    },
+    "ruby-gems/mime-types": {
+        "type": "git",
+        "url": "https://github.com/halostatue/mime-types/",
+        "x-products-rubygems": [
+            "mime-types"
+        ]
+    },
+    "ruby-gems/mixlib-authentication": {
+        "type": "git",
+        "url": "https://github.com/opscode/mixlib-authentication",
+        "x-products-rubygems": [
+            "mixlib-authentication"
+        ]
+    },
+    "ruby-gems/mixlib-cli": {
+        "type": "git",
+        "url": "https://github.com/opscode/mixlib-cli",
+        "x-products-rubygems": [
+            "mixlib-cli"
+        ]
+    },
+    "ruby-gems/mixlib-config": {
+        "type": "git",
+        "url": "http://github.com/opscode/mixlib-config",
+        "x-products-rubygems": [
+            "mixlib-config"
+        ]
+    },
+    "ruby-gems/mixlib-log": {
+        "type": "git",
+        "url": "https://github.com/opscode/mixlib-log",
+        "x-products-rubygems": [
+            "mixlib-log"
+        ]
+    },
+    "ruby-gems/mixlib-shellout": {
+        "type": "git",
+        "url": "http://github.com/opscode/mixlib-shellout",
+        "x-products-rubygems": [
+            "mixlib-shellout"
+        ]
+    },
+    "ruby-gems/net-ssh": {
+        "type": "git",
+        "url": "https://github.com/net-ssh/net-ssh",
+        "x-products-rubygems": [
+            "net-ssh"
+        ]
+    },
+    "ruby-gems/net-ssh-gateway": {
+        "type": "git",
+        "url": "https://github.com/net-ssh/net-ssh-gateway",
+        "x-products-rubygems": [
+            "net-ssh-gateway"
+        ]
+    },
+    "ruby-gems/net-ssh-multi": {
+        "type": "git",
+        "url": "https://github.com/net-ssh/net-ssh-multi",
+        "x-products-rubygems": [
+            "net-ssh-multi"
+        ]
+    },
+    "ruby-gems/ohai": {
+        "type": "git",
+        "url": "http://github.com/opscode/ohai",
+        "x-products-rubygems": [
+            "ohai"
+        ]
+    },
+    "ruby-gems/plist": {
+        "type": "git",
+        "url": "http://github.com/bleything/plist",
+        "x-products-rubygems": [
+            "plist"
+        ]
+    },
+    "ruby-gems/pry": {
+        "type": "git",
+        "url": "http://github.com/pry/pry",
+        "x-products-rubygems": [
+            "pry"
+        ]
+    },
+    "ruby-gems/rack": {
+        "type": "git",
+        "url": "http://github.com/rack/rack",
+        "x-products-rubygems": [
+            "rack"
+        ]
+    },
+    "ruby-gems/slop": {
+        "type": "git",
+        "url": "http://github.com/leejarvis/slop",
+        "x-products-rubygems": [
+            "slop"
+        ]
+    },
+    "ruby-gems/systemu": {
+        "type": "git",
+        "url": "https://github.com/ahoward/systemu",
+        "x-products-rubygems": [
+            "systemu"
+        ]
+    },
+    "ruby-gems/wmi-lite": {
+        "type": "git",
+        "url": "https://github.com/opscode/wmi-lite",
+        "x-products-rubygems": [
+            "wmi-lite"
+        ]
+    }
+}
