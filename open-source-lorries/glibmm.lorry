@@ -1,0 +1,10 @@
+{
+    "glibmm": {
+        "type": "git",
+        "url": "git://git.gnome.org/glibmm",
+        "refspecs": [
+            "+refs/heads/*",
+            "+refs/tags/*"
+        ]
+    }
+}

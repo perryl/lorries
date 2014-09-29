@@ -1,0 +1,10 @@
+{
+    "mm-common": {
+        "type": "git",
+        "url": "git://git.gnome.org/mm-common",
+        "refspecs": [
+            "+refs/heads/*",
+            "+refs/tags/*"
+        ]
+    }
+}

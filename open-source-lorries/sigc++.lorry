@@ -1,0 +1,10 @@
+{
+    "sigc++": {
+        "type": "git",
+        "url": "git://git.gnome.org/libsigc++2"
+        "refspecs": [
+            "+refs/heads/*",
+            "+refs/tags/*"
+        ]
+    }
+}
