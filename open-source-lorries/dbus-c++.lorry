@@ -1,7 +1,7 @@
 {
     "dbus-c++": {
         "type": "git",
-        "url": "git://gitorious.org/dbus-cplusplus/mainline.git"
+        "url": "git://gitorious.org/dbus-cplusplus/mainline.git",
         "refspecs": [
             "+refs/heads/*",
             "+refs/tags/*"
