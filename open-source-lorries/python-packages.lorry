@@ -1,7 +1,7 @@
 {
     "python-packages/alembic": {
         "type": "git",
-        "url": "git@bitbucket.org:zzzeek/alembic.git"
+        "url": "https://bitbucket.org/zzzeek/alembic.git"
     },
     "python-packages/anyjson": {
         "type": "hg",
@@ -50,7 +50,7 @@
     },
     "python-packages/dogpile-cache": {
         "type": "git",
-        "url": "git@bitbucket.org:zzzeek/dogpile.cache.git"
+        "url": "https://bitbucket.org/zzzeek/dogpile.cache.git"
     },
     "python-packages/ecdsa": {
         "type": "git",
