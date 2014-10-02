@@ -1,0 +1,6 @@
+{
+    "nouveau": {
+        "type": "git",
+        "url": "git://github.com/Gnurou/nouveau.git"
+    }
+}
