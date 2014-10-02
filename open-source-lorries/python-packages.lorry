@@ -52,9 +52,17 @@
         "type": "git",
         "url": "https://bitbucket.org/zzzeek/dogpile.cache.git"
     },
+    "python-packages/dogpile-core": {
+        "type": "git",
+        "url": "https://bitbucket.org/zzzeek/dogpile.core.git"
+    },
     "python-packages/ecdsa": {
         "type": "git",
         "url": "git://github.com/warner/python-ecdsa.git"
+    },
+    "python-packages/repoze-lru": {
+        "type": "git",
+        "url": "git://github.com/repoze/repoze.lru.git"
     },
     "python-packages/eventlet": {
         "type": "git",
