@@ -1,0 +1,10 @@
+{
+    "glut": {
+        "type": "git",
+        "url": "git://anongit.freedesktop.org/mesa/glut",
+        "refspecs": [
+            "+refs/heads/*",
+            "+refs/tags/*"
+        ]
+    }
+}

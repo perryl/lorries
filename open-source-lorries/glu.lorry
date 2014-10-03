@@ -1,0 +1,10 @@
+{
+    "glu": {
+        "type": "git",
+        "url": "git://anongit.freedesktop.org/mesa/glu",
+        "refspecs": [
+            "+refs/heads/*",
+            "+refs/tags/*"
+        ]
+    }
+}
