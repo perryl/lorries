@@ -1,0 +1,6 @@
+{
+    "automotive-message-broker": {
+        "type": "git",
+        "url": "git://github.com/otcshare/automotive-message-broker.git"
+    }
+}
