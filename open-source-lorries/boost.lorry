@@ -1,0 +1,6 @@
+{
+    "boost": {
+        "type": "git",
+        "url": "git://github.com/boostorg/boost.git"
+    }
+}
