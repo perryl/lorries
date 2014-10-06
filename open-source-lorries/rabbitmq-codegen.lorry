@@ -1,0 +1,6 @@
+{
+    "rabbitmq-codegen": {
+        "type": "hg",
+        "url": "http://hg.rabbitmq.com/rabbitmq-codegen"
+    }
+}

@@ -1,0 +1,6 @@
+{
+    "rabbitmq-server": {
+        "type": "hg",
+        "url": "http://hg.rabbitmq.com/rabbitmq-server"
+    }
+}

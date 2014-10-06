@@ -199,6 +199,11 @@
         "url": "git://git.openstack.org/openstack/oslo.vmware.git"
     },
 
+    "openstack/oslo-utils": {
+        "type": "git",
+        "url": "git://git.openstack.org/openstack/oslo.utils.git"
+    },
+
     "openstack/pycadf": {
         "type": "git",
         "url": "git://git.openstack.org/openstack/pycadf.git"
