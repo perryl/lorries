@@ -400,5 +400,29 @@
     "python-packages/zope-traversing": {
         "type": "git",
         "url": "git://github.com/zopefoundation/zope.traversing.git"
+    },
+    "python-packages/cryptography": {
+        "type": "git",
+        "url": "https://github.com/pyca/cryptography.git"
+    },
+    "python-packages/ipaddr-py": {
+        "type": "git",
+        "url": "https://code.google.com/p/ipaddr-py/"
+    },
+    "python-packages/simplegeneric-tarball": {
+        "type": "tarball",
+        "url": "http://ftp.de.debian.org/debian/pool/main/s/simplegeneric/simplegeneric_0.8.1.orig.tar.bz2"
+    },
+    "python-packages/osprofiler": {
+        "type": "git",
+        "url": "git://github.com/stackforge/osprofiler.git"
+    },
+    "python-packages/retrying": {
+        "type": "git",
+        "url": "git://github.com/rholder/retrying.git"
+    },
+    "python-packages/sqalchemy-migrate": {
+        "type": "git",
+        "url": "git://github.com/stackforge/sqlalchemy-migrate.git"
     }
 }
