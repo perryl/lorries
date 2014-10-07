@@ -401,17 +401,9 @@
         "type": "git",
         "url": "git://github.com/zopefoundation/zope.traversing.git"
     },
-    "python-packages/dogpile-core": {
-        "type": "git",
-        "url": "git@bitbucket.org:zzzeek/dogpile.core.git"
-    },
     "python-packages/cryptography": {
         "type": "git",
         "url": "https://github.com/pyca/cryptography.git"
-    },
-    "python-packages/repose-lru": {
-        "type": "git",
-        "url": "git://github.com/repoze/repoze.lru.git"
     },
     "python-packages/ipaddr-py": {
         "type": "git",
@@ -432,13 +424,5 @@
     "python-packages/sqalchemy-migrate": {
         "type": "git",
         "url": "git://github.com/stackforge/sqlalchemy-migrate.git"
-    },
-    "python-packages/json-patch": {
-        "type": "git",
-        "url": "git://github.com/stefankoegl/python-json-patch.git"
-    },
-    "python-packages/json-pointer": {
-        "type": "git",
-        "url": "git://github.com/stefankoegl/python-json-pointer.git"
     }
 }
