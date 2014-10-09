@@ -273,6 +273,10 @@
         "type": "git",
         "url": "git://github.com/stackforge/sqlalchemy-migrate.git"
     },
+    "python-packages/sqlparse": {
+        "type": "git",
+        "url": "git://github.com/andialbrecht/sqlparse.git"
+    },
     "python-packages/subunit": {
         "type": "bzr",
         "url": "lp:subunit"
