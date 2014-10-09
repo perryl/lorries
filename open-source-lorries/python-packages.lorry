@@ -31,6 +31,10 @@
         "type": "hg",
         "url": "https://bitbucket.org/pypa/pypi"
     },
+    "python-packages/python-decorator": {
+        "type": "tarball",
+        "url": "https://pypi.python.org/packages/source/d/decorator/decorator-3.4.0.tar.gz"
+    },
     "python-packages/defusedxml": {
         "type": "hg",
         "url": "https://bitbucket.org/tiran/defusedxml"
