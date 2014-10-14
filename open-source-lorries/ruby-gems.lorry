@@ -188,6 +188,13 @@
             "rack"
         ]
     },
+    "ruby-gems/rake-compiler": {
+        "type": "git",
+        "url": "http://github.com/luislavena/rake-compiler",
+        "x-products-rubygems": [
+            "rake-compiler"
+        ]
+    },
     "ruby-gems/slop": {
         "type": "git",
         "url": "http://github.com/leejarvis/slop",
