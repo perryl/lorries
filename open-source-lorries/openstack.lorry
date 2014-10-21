@@ -179,6 +179,11 @@
         "url": "git://git.openstack.org/openstack/oslo.rootwrap.git"
     },
 
+    "openstack/oslo-serialization": {
+        "type": "git",
+        "url": "git://git.openstack.org/openstack/oslo.serialization.git"
+    },
+
     "openstack/oslosphinx": {
         "type": "git",
         "url": "git://git.openstack.org/openstack/oslosphinx.git"
