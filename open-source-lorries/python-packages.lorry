@@ -11,6 +11,14 @@
         "type": "hg",
         "url": "https://bitbucket.org/runeh/anyjson"
     },
+    "python-packages/astroid": {
+        "type": "hg",
+        "url": "https://bitbucket.org/logilab/astroid"
+    },
+    "python-packages/beautifulsoup4": {
+        "type": "bzr",
+        "url": "lp:beautifulsoup"
+    },
     "python-packages/cffi": {
         "type": "hg",
         "url": "https://bitbucket.org/cffi/cffi"
@@ -18,6 +26,10 @@
     "python-packages/cliff": {
         "type": "git",
         "url": "git://github.com/dreamhost/cliff.git"
+    },
+    "python-packages/cmd2": {
+        "type": "git",
+        "url": "git://github.com/Zearin/cmd2.git"
     },
     "python-packages/creole": {
         "type": "git",
@@ -68,6 +80,10 @@
         "type": "git",
         "url": "git://github.com/warner/python-ecdsa.git"
     },
+    "python-packages/enum34": {
+        "type": "tarball",
+        "url": "https://pypi.python.org/packages/source/e/enum34/enum34-1.0.tar.gz"
+    },
     "python-packages/eventlet": {
         "type": "git",
         "url": "git://github.com/eventlet/eventlet.git"
@@ -100,6 +116,10 @@
         "type": "git",
         "url": "https://code.google.com/p/ipaddr-py/"
     },
+    "python-packages/isort": {
+        "type": "git",
+        "url": "git://github.com/timothycrosley/isort.git"
+    },
     "python-packages/itsdangerous": {
         "type": "git",
         "url": "git://github.com/mitsuhiko/itsdangerous.git"
@@ -112,6 +132,10 @@
         "type": "git",
         "url": "git://github.com/joshmarshall/jsonrpclib.git"
     },
+    "python-packages/kazoo": {
+        "type": "git",
+        "url": "git://github.com/python-zk/kazoo.git"
+    },
     "python-packages/kombu": {
         "type": "git",
         "url": "git://github.com/celery/kombu.git"
@@ -120,9 +144,21 @@
         "type": "git",
         "url": "git://github.com/smontanaro/pylockfile.git"
     },
+    "python-packages/logilab-common": {
+        "type": "hg",
+        "url": "https://bitbucket.org/logilab/logilab-common"
+    },
+    "python-packages/logutils": {
+        "type": "hg",
+        "url": "https://bitbucket.org/vinay.sajip/logutils"
+    },
     "python-packages/m2crypto": {
         "type": "git",
         "url": "git://github.com/martinpaljak/M2Crypto.git"
+    },
+    "python-packages/mako": {
+        "type": "git",
+        "url": "https://bitbucket.org/zzzeek/mako.git"
     },
     "python-packages/mock": {
         "type": "hg",
@@ -141,6 +177,10 @@
         "type": "git",
         "url": "git://github.com/farcepest/MySQLdb1.git"
     },
+    "python-packages/natsort": {
+        "type": "git",
+        "url": "git://github.com/SethMMorton/natsort.git"
+    },
     "python-packages/netifaces": {
         "type": "hg",
         "url": "https://bitbucket.org/al45tair/netifaces"
@@ -152,6 +192,10 @@
     "python-packages/nose": {
         "type": "git",
         "url": "git://github.com/nose-devs/nose.git"
+    },
+    "python-packages/numpy": {
+        "type": "git",
+        "url": "git://github.com/numpy/numpy.git"
     },
     "python-packages/oauthlib": {
         "type": "git",
@@ -181,9 +225,21 @@
         "type": "git",
         "url": "git://github.com/stackforge/pecan.git"
     },
+    "python-packages/pep8": {
+        "type": "git",
+        "url": "git://github.com/jcrocholl/pep8.git"
+    },
     "python-packages/pexpect": {
         "type": "git",
         "url": "git://github.com/pexpect/pexpect.git"
+    },
+    "python-packages/pies": {
+        "type": "git",
+        "url": "git://github.com/timothycrosley/pies.git"
+    },
+    "python-packages/ply": {
+        "type": "git",
+        "url": "git://github.com/dabeaz/ply.git"
     },
     "python-packages/posix-ipc-tarball": {
         "compression": "gzip",
@@ -194,6 +250,10 @@
     "python-packages/psycopg2": {
         "type": "git",
         "url": "git://github.com/nwcell/psycopg2-windows.git"
+    },
+    "python-packages/py-amqp": {
+        "type": "git",
+        "url": "git://github.com/celery/py-amqp.git"
     },
     "python-packages/py-bcrypt": {
         "type": "hg",
@@ -212,6 +272,10 @@
         "type": "git",
         "url": "git://github.com/fitzgen/pycco.git"
     },
+    "python-packages/pymemcache": {
+        "type": "git",
+        "url": "git://github.com/pinterest/pymemcache.git"
+    },
     "python-packages/pycparser": {
         "type": "git",
         "url": "git://github.com/eliben/pycparser.git"
@@ -219,6 +283,10 @@
     "python-packages/pycrypto": {
         "type": "git",
         "url": "git://github.com/dlitz/pycrypto.git"
+    },
+    "python-packages/pyflakes": {
+        "type": "git",
+        "url": "git://github.com/pyflakes/pyflakes.git"
     },
     "python-packages/pygments": {
         "type": "hg",
@@ -236,14 +304,35 @@
         "type": "git",
         "url": "git://github.com/pyca/pyopenssl.git"
     },
+    "python-packages/pyparsing": {
+        "type": "svn",
+        "url": "svn://svn.code.sf.net/p/pyparsing/code",
+        "layout": "standard"
+    },
     "python-packages/pysnmp": {
         "module": "pysnmp",
         "type": "cvs",
         "url": ":pserver:anonymous@pysnmp.cvs.sourceforge.net:/cvsroot/pysnmp"
     },
+    "python-packages/pystache": {
+        "type": "git",
+        "url": "git://github.com/defunkt/pystache.git"
+    },
     "python-packages/python-decorator": {
         "type": "tarball",
         "url": "https://pypi.python.org/packages/source/d/decorator/decorator-3.4.0.tar.gz"
+    },
+    "python-packages/python-mimeparse": {
+        "type": "git",
+        "url": "git://github.com/dbtsai/python-mimeparse.git"
+    },
+    "python-packages/python-rfc3986": {
+        "type": "tarball",
+        "url": "https://pypi.python.org/packages/source/r/rfc3986/rfc3986-0.2.0.tar.gz"
+    },
+    "python-packages/python-test-extras": {
+        "type": "git",
+        "url": "git://github.com/testing-cabal/extras.git"
     },
     "python-packages/qpid-python": {
         "type": "git",
@@ -289,6 +378,14 @@
         "type": "tarball",
         "url": "http://ftp.de.debian.org/debian/pool/main/s/simplegeneric/simplegeneric_0.8.1.orig.tar.bz2"
     },
+    "python-packages/smartypants": {
+        "type": "hg",
+        "url": "https://bitbucket.org/livibetter/smartypants.py"
+    },
+    "python-packages/snowballstemmer": {
+        "type": "git",
+        "url": "git://github.com/shibukawa/snowball_py.git"
+    },
     "python-packages/sphinx": {
         "type": "hg",
         "url": "https://bitbucket.org/birkenfeld/sphinx"
@@ -313,6 +410,10 @@
         "type": "hg",
         "url": "https://bitbucket.org/mirror/suds"
     },
+    "python-packages/sysv-ipc-tarball": {
+        "type": "tarball",
+        "url": "http://semanchuk.com/philip/sysv_ipc/sysv_ipc-0.6.8.tar.gz"
+    },
     "python-packages/tempita": {
         "type": "hg",
         "url": "https://bitbucket.org/ianb/tempita"
@@ -333,6 +434,10 @@
         "type": "git",
         "url": "git://github.com/nvie/times.git"
     },
+    "python-packages/tooz": {
+        "type": "git",
+        "url": "git://git.openstack.org/stackforge/tooz.git"
+    },
     "python-packages/tox": {
         "type": "hg",
         "url": "https://bitbucket.org/hpk42/tox"
@@ -344,6 +449,10 @@
     "python-packages/uwsgi": {
         "type": "git",
         "url": "git://github.com/unbit/uwsgi.git"
+    },
+    "python-packages/waitress": {
+        "type": "git",
+        "url": "git://github.com/Pylons/waitress.git"
     },
     "python-packages/webob": {
         "type": "git",
@@ -357,6 +466,14 @@
         "type": "git",
         "url": "git://github.com/kanaka/websockify.git"
     },
+    "python-packages/webtest": {
+        "type": "git",
+        "url": "git://github.com/Pylons/webtest.git"
+    },
+    "python-packages/wsgiref": {
+        "type": "git",
+        "url": "git://github.com/Xowap/wsgiref"
+    },
     "python-packages/wsme": {
         "type": "git",
         "url": "git://github.com/stackforge/wsme.git"
@@ -364,6 +481,10 @@
     "python-packages/xattr": {
         "type": "git",
         "url": "git://github.com/xattr/xattr.git"
+    },
+    "python-packages/zake": {
+        "type": "git",
+        "url": "git://github.com/yahoo/Zake.git"
     },
     "python-packages/zope-browser": {
         "type": "git",
