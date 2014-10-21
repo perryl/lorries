@@ -249,6 +249,10 @@
         "type": "git",
         "url": "git://github.com/andymccurdy/redis-py.git"
     },
+    "python-packages/requests-cache": {
+        "type": "git",
+        "url": "https://github.com/reclosedev/requests-cache"
+    },
     "python-packages/routes": {
         "type": "git",
         "url": "git://github.com/bbangert/routes.git"
