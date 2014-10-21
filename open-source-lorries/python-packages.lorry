@@ -27,6 +27,10 @@
         "type": "git",
         "url": "git://github.com/kiorky/croniter.git"
     },
+    "python-packages/cryptography": {
+        "type": "git",
+        "url": "https://github.com/pyca/cryptography.git"
+    },
     "python-packages/dateutil": {
         "type": "bzr",
         "url": "lp:dateutil"
@@ -34,10 +38,6 @@
     "python-packages/decorator": {
         "type": "hg",
         "url": "https://bitbucket.org/pypa/pypi"
-    },
-    "python-packages/python-decorator": {
-        "type": "tarball",
-        "url": "https://pypi.python.org/packages/source/d/decorator/decorator-3.4.0.tar.gz"
     },
     "python-packages/defusedxml": {
         "type": "hg",
@@ -68,10 +68,6 @@
         "type": "git",
         "url": "git://github.com/warner/python-ecdsa.git"
     },
-    "python-packages/repoze-lru": {
-        "type": "git",
-        "url": "git://github.com/repoze/repoze.lru.git"
-    },
     "python-packages/eventlet": {
         "type": "git",
         "url": "git://github.com/eventlet/eventlet.git"
@@ -99,6 +95,10 @@
     "python-packages/httpretty": {
         "type": "git",
         "url": "git://github.com/gabrielfalcao/httpretty.git"
+    },
+    "python-packages/ipaddr-py": {
+        "type": "git",
+        "url": "https://code.google.com/p/ipaddr-py/"
     },
     "python-packages/itsdangerous": {
         "type": "git",
@@ -160,6 +160,10 @@
     "python-packages/openid": {
         "type": "git",
         "url": "git://github.com/openid/python-openid.git"
+    },
+    "python-packages/osprofiler": {
+        "type": "git",
+        "url": "git://github.com/stackforge/osprofiler.git"
     },
     "python-packages/passlib": {
         "type": "hg",
@@ -237,6 +241,10 @@
         "type": "cvs",
         "url": ":pserver:anonymous@pysnmp.cvs.sourceforge.net:/cvsroot/pysnmp"
     },
+    "python-packages/python-decorator": {
+        "type": "tarball",
+        "url": "https://pypi.python.org/packages/source/d/decorator/decorator-3.4.0.tar.gz"
+    },
     "python-packages/qpid-python": {
         "type": "git",
         "url": "http://git.apache.org/qpid.git"
@@ -253,6 +261,14 @@
         "type": "git",
         "url": "https://github.com/reclosedev/requests-cache"
     },
+    "python-packages/repoze-lru": {
+        "type": "git",
+        "url": "git://github.com/repoze/repoze.lru.git"
+    },
+    "python-packages/retrying": {
+        "type": "git",
+        "url": "git://github.com/rholder/retrying.git"
+    },
     "python-packages/routes": {
         "type": "git",
         "url": "git://github.com/bbangert/routes.git"
@@ -268,6 +284,10 @@
     "python-packages/rtslib-fb": {
         "type": "git",
         "url": "git://github.com/agrover/rtslib-fb.git"
+    },
+    "python-packages/simplegeneric-tarball": {
+        "type": "tarball",
+        "url": "http://ftp.de.debian.org/debian/pool/main/s/simplegeneric/simplegeneric_0.8.1.orig.tar.bz2"
     },
     "python-packages/sphinx": {
         "type": "hg",
@@ -416,29 +436,5 @@
     "python-packages/zope-traversing": {
         "type": "git",
         "url": "git://github.com/zopefoundation/zope.traversing.git"
-    },
-    "python-packages/cryptography": {
-        "type": "git",
-        "url": "https://github.com/pyca/cryptography.git"
-    },
-    "python-packages/ipaddr-py": {
-        "type": "git",
-        "url": "https://code.google.com/p/ipaddr-py/"
-    },
-    "python-packages/simplegeneric-tarball": {
-        "type": "tarball",
-        "url": "http://ftp.de.debian.org/debian/pool/main/s/simplegeneric/simplegeneric_0.8.1.orig.tar.bz2"
-    },
-    "python-packages/osprofiler": {
-        "type": "git",
-        "url": "git://github.com/stackforge/osprofiler.git"
-    },
-    "python-packages/retrying": {
-        "type": "git",
-        "url": "git://github.com/rholder/retrying.git"
-    },
-    "python-packages/sqalchemy-migrate": {
-        "type": "git",
-        "url": "git://github.com/stackforge/sqlalchemy-migrate.git"
     }
 }
