@@ -1,0 +1,6 @@
+{
+    "zookeeper": {
+        "type": "git",
+        "url": "git://git.apache.org/zookeeper.git"
+    }
+}

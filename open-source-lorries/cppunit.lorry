@@ -1,0 +1,6 @@
+{
+    "cppunit": {
+        "type": "git",
+        "url": "git://anongit.freedesktop.org/git/libreoffice/cppunit/"
+    }
+}
