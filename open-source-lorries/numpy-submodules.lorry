@@ -1,0 +1,10 @@
+{
+    "scipy-sphinx-theme": {
+        "type": "git",
+        "url": "https://github.com/scipy/scipy-sphinx-theme.git"
+    },
+    "numpydoc": {
+        "type": "git",
+        "url": "https://github.com/numpy/numpydoc.git"
+    }
+}
