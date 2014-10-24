@@ -1,0 +1,6 @@
+{
+    "web-socket-js": {
+        "type": "git",
+        "url": "https://github.com/gimite/web-socket-js.git"
+    }
+}

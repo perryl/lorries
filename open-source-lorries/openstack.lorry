@@ -34,6 +34,11 @@
         "url": "git://git.openstack.org/openstack/python-glanceclient.git"
     },
 
+    "openstack/glance_store": {
+        "type": "git",
+        "url": "git://git.openstack.org/openstack/glance_store.git"
+    },
+
     "openstack/keystone": {
         "type": "git",
         "url": "git://git.openstack.org/openstack/keystone.git"
@@ -179,6 +184,11 @@
         "url": "git://git.openstack.org/openstack/oslo.rootwrap.git"
     },
 
+    "openstack/oslo-serialization": {
+        "type": "git",
+        "url": "git://git.openstack.org/openstack/oslo.serialization.git"
+    },
+
     "openstack/oslosphinx": {
         "type": "git",
         "url": "git://git.openstack.org/openstack/oslosphinx.git"
@@ -227,5 +237,10 @@
     "openstack/python-designateclient": {
         "type": "git",
         "url": "git://git.openstack.org/openstack/python-designateclient.git"
-    }
+    },
+
+    "openstack/python-barbicanclient": {
+         "type": "git",
+         "url": "git://git.openstack.org/openstack/python-barbicanclient.git"
+     }
 }
