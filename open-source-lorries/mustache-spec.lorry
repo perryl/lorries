@@ -1,0 +1,6 @@
+{
+    "mustache-spec": {
+        "type": "git",
+        "url": "git://github.com/mustache/spec.git"
+    }
+}
