@@ -1,0 +1,6 @@
+{
+    "libepoxy": {
+        "type": "git",
+        "url": "git://github.com/anholt/libepoxy.git"
+    }
+}
