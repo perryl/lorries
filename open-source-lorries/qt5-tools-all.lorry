@@ -110,5 +110,21 @@
     "qt5/qtx11extras": {
         "type": "git",
         "url": "git://gitorious.org/qt/qtx11extras.git"
+    },
+    "qt5/qtconnectivity": {
+        "type": "git",
+        "url": "git://gitorious.org/qt/qtconnectivity.git"
+    },
+    "qt5/qtenginio": {
+        "type": "git",
+        "url": "git://gitorious.org/qt/qtenginio.git"
+    },
+    "qt5/qtlocation": {
+        "type": "git",
+        "url": "git://gitorious.org/qt/qtlocation.git"
+    },
+    "qt5/qtwebsockets": {
+        "type": "git",
+        "url": "git://gitorious.org/qt/qtwebsockets.git"
     }
 }
