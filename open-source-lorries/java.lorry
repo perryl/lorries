@@ -1,0 +1,6 @@
+{
+    "java/ant": {
+        "type": "git",
+        "url": "git://git.apache.org/ant.git"
+    }
+}
