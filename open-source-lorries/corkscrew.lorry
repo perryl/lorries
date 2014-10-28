@@ -1,0 +1,6 @@
+{
+    "corkscrew": {
+        "type": "tarball",
+        "url": "http://www.agroman.net/corkscrew/corkscrew-2.0.tar.gz"
+    }
+}
