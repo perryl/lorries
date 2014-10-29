@@ -1,0 +1,6 @@
+{
+    "python-setuptools-bitbucket": {
+        "type": "hg",
+        "url": "https://bitbucket.org/pypa/setuptools"
+    }
+}
