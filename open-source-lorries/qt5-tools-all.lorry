@@ -126,5 +126,13 @@
     "qt5/qtwebsockets": {
         "type": "git",
         "url": "git://gitorious.org/qt/qtwebsockets.git"
+    },
+    "qt5/qtwebchannel": {
+        "type": "git",
+        "url": "git://gitorious.org/qt/qtwebchannel.git"
+    },
+    "qt5/qtwebengine": {
+        "type": "git",
+        "url": "git://gitorious.org/qt/qtwebengine.git"
     }
 }
