@@ -1,0 +1,7 @@
+{
+    "dmidecode": {
+        "type": "cvs",
+        "url": ":pserver:anonymous@cvs.savannah.nongnu.org:/sources/dmidecode",
+        "module": "dmidecode"
+    }
+}
