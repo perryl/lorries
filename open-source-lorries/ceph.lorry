@@ -3,8 +3,7 @@
         "type": "git",
         "url": "git://github.com/ceph/ceph.git",
         "refspecs": [
-            "refs/heads/master:refs/heads/master",
-            "+refs/heads/cis-lua:refs/heads/cis-lua",
+            "+refs/heads/master:refs/heads/master",
             "+refs/tags/*:refs/tags/*"
         ]
     }
