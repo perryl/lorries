@@ -1,6 +1,10 @@
 {
     "ipmitool": {
         "type": "git",
-        "url": "git://sources.calxeda.com/ipmitool.git"
+        "url": "git://git.code.sf.net/p/ipmitool/source",
+        "refspecs": [
+            "+refs/heads/*:refs/heads/*",
+            "refs/tags/*:refs/tags/*"
+        ]
     }
 }
