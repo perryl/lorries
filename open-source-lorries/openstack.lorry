@@ -242,5 +242,13 @@
     "openstack/python-barbicanclient": {
          "type": "git",
          "url": "git://git.openstack.org/openstack/python-barbicanclient.git"
-     }
+    },
+    "openstack/zuul": {
+         "type": "git",
+         "url": "git://git.openstack.org/openstack-infra/zuul.git"
+    },
+    "openstack/turbo-hipster": {
+        "type": "git",
+        "url": "git://git.openstack.org/stackforge/turbo-hipster.git"
+    }
 }
