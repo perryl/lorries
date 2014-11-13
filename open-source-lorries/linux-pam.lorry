@@ -1,8 +1,6 @@
 {
     "linux-pam": {
         "type": "tarball",
-        "compression": "bzip2",
-        "strip": 1,
-        "url": "https://fedorahosted.org/releases/l/i/linux-pam/Linux-PAM-1.1.5.tar.bz2"
+        "url": "http://linux-pam.org/library/Linux-PAM-1.1.8.tar.bz2"
     }
 }
