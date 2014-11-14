@@ -1,0 +1,6 @@
+{
+    "bullet3": {
+        "type": "git",
+        "url": "https://github.com/bulletphysics/bullet3.git"
+    }
+}
