@@ -1,0 +1,6 @@
+{
+    "tz": {
+        "type": "git",
+        "url": "git://github.com/eggert/tz.git"
+    }
+}
