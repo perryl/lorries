@@ -140,6 +140,10 @@
         "type": "git",
         "url": "git://github.com/celery/kombu.git"
     },
+    "python-packages/librabbitmq": {
+        "type": "git",
+        "url": "https://github.com/celery/librabbitmq"
+    },
     "python-packages/lockfile": {
         "type": "git",
         "url": "git://github.com/smontanaro/pylockfile.git"
@@ -337,6 +341,14 @@
     "python-packages/qpid-python": {
         "type": "git",
         "url": "http://git.apache.org/qpid.git"
+    },
+    "python-packages/rabbitmq-c": {
+        "type": "git",
+        "url": "https://github.com/alanxz/rabbitmq-c"
+    },
+    "python-packages/rabbitmq-c-github-ask": {
+        "type": "git",
+        "url": "https://github.com/ask/rabbitmq-c"
     },
     "python-packages/raven": {
         "type": "git",
