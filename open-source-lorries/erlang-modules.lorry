@@ -1,0 +1,10 @@
+{
+    "erlang-modules/rebar": {
+        "type": "git",
+        "url": "https://github.com/rebar/rebar"
+    },
+    "erlang-modules/erlang-sd_notify: {
+        "type": "git",
+        "url": "https://github.com/lemenkov/erlang-sd_notify"
+    }
+}
