@@ -1,0 +1,11 @@
+{
+    "cryptopp": {
+        "type": "svn",
+        "url": "svn://svn.code.sf.net/p/cryptopp/code",
+        "layout": {
+            "trunk": "trunk/c5",
+            "branches": "branches/*/c5",
+            "tags": "tags/*"
+        }
+    }
+}
