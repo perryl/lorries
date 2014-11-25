@@ -1,0 +1,23 @@
+{
+    "nvidia/tegra-uboot-flasher-scripts": {
+        "type": "git",
+        "url": "git://github.com/NVIDIA/tegra-uboot-flasher-scripts.git"
+    },
+    "nvidia/tegrarcm": {
+        "type": "git",
+        "url": "git://github.com/NVIDIA/tegrarcm.git"
+    },
+    "nvidia/cbootimage": {
+        "type": "git",
+        "url": "git://github.com/NVIDIA/cbootimage.git"
+    },
+    "nvidia/cbootimage-configs": {
+        "type": "git",
+        "url": "git://github.com/NVIDIA/cbootimage-configs.git"
+    },
+    "nvidia/tegra-pinmux-scripts.git" {
+        "type": "git",
+        "url": "git://github.com/NVIDIA/tegra-pinmux-scripts.git"
+    }
+}
+
