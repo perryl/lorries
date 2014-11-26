@@ -15,7 +15,7 @@
         "type": "git",
         "url": "git://github.com/NVIDIA/cbootimage-configs.git"
     },
-    "nvidia/tegra-pinmux-scripts.git" {
+    "nvidia/tegra-pinmux-scripts": {
         "type": "git",
         "url": "git://github.com/NVIDIA/tegra-pinmux-scripts.git"
     }
