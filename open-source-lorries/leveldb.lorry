@@ -1,6 +1,6 @@
 {
     "leveldb": {
         "type": "git",
-        "url": "http://code.google.com/p/leveldb/"
+        "url": "https://github.com/google/leveldb/"
     }
 }
