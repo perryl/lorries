@@ -1,0 +1,7 @@
+{
+    "ntp": {
+        "type": "tarball",
+        "compression": "gzip",
+        "url": "http://www.eecis.udel.edu/~ntp/ntp_spool/ntp4/ntp-dev/ntp-dev-4.2.7p482.tar.gz"
+    }
+}
