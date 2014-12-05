@@ -1,0 +1,6 @@
+{
+    "snappy-git": {
+        "type": "git",
+        "url": "https://github.com/google/snappy"
+    }
+}
