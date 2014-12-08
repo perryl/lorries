@@ -11,6 +11,10 @@
         "type": "hg",
         "url": "https://bitbucket.org/runeh/anyjson"
     },
+    "python-packages/apscheduler": {
+        "type": "git",
+        "url": "https://bitbucket.org/agronholm/apscheduler.git"
+    },
     "python-packages/astroid": {
         "type": "hg",
         "url": "https://bitbucket.org/logilab/astroid"
@@ -92,9 +96,25 @@
         "type": "bzr",
         "url": "lp:python-fixtures"
     },
+    "python-packages/flake8": {
+        "type": "git",
+        "url": "https://gitlab.com/pycqa/flake8.git"
+    },
     "python-packages/futures": {
         "type": "hg",
         "url": "https://code.google.com/p/pythonfutures/"
+    },
+    "python-packages/gear": {
+        "type": "git",
+        "url": "https://git.openstack.org/openstack-infra/gear"
+    },
+    "python-packages/gitdb": {
+        "type": "git",
+        "url": "https://github.com/gitpython-developers/gitdb.git"
+    },
+    "python-packages/gitpython": {
+        "type": "git",
+        "url": "https://github.com/gitpython-developers/GitPython.git"
     },
     "python-packages/greenlet": {
         "type": "git",
@@ -209,6 +229,11 @@
         "type": "git",
         "url": "git://github.com/openid/python-openid.git"
     },
+    "python-packages/ordereddict-tarball": {
+        "compression": "gzip",
+        "type": "tarball",
+        "url": "https://pypi.python.org/packages/source/o/ordereddict/ordereddict-1.1.tar.gz"
+    },
     "python-packages/osprofiler": {
         "type": "git",
         "url": "git://github.com/stackforge/osprofiler.git"
@@ -322,6 +347,15 @@
         "type": "git",
         "url": "git://github.com/defunkt/pystache.git"
     },
+    "python-packages/pystatsd": {
+        "type": "git",
+        "url": "https://github.com/jsocol/pystatsd.git"
+    },
+    "python-packages/python-daemon": {
+        "compression": "gzip",
+        "type": "tarball",
+        "url": "https://pypi.python.org/packages/source/p/python-daemon/python-daemon-1.5.5.tar.gz"
+    },
     "python-packages/python-decorator": {
         "type": "tarball",
         "url": "https://pypi.python.org/packages/source/d/decorator/decorator-3.4.0.tar.gz"
@@ -394,6 +428,10 @@
         "type": "hg",
         "url": "https://bitbucket.org/livibetter/smartypants.py"
     },
+    "python-packages/smmap": {
+        "type": "git",
+        "url": "https://github.com/Byron/smmap.git"
+    },
     "python-packages/snowballstemmer": {
         "type": "git",
         "url": "git://github.com/shibukawa/snowball_py.git"
@@ -461,6 +499,10 @@
     "python-packages/uwsgi": {
         "type": "git",
         "url": "git://github.com/unbit/uwsgi.git"
+    },
+    "python-packages/voluptuous": {
+        "type": "git",
+        "url": "https://github.com/alecthomas/voluptuous.git"
     },
     "python-packages/waitress": {
         "type": "git",
