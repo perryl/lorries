@@ -146,7 +146,7 @@
     },
     "python-packages/lockfile": {
         "type": "git",
-        "url": "git://github.com/smontanaro/pylockfile.git"
+        "url": "https://git.openstack.org/openstack/pylockfile"
     },
     "python-packages/logilab-common": {
         "type": "hg",
