@@ -1,0 +1,6 @@
+{
+    "libusb": {
+        "type": "git",
+        "url": "git://github.com/libusb/libusb.git"
+    }
+}
