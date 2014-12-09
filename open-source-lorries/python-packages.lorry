@@ -360,6 +360,10 @@
         "type": "tarball",
         "url": "https://pypi.python.org/packages/source/d/decorator/decorator-3.4.0.tar.gz"
     },
+    "python-packages/python-magic": {
+        "type": "git",
+        "url": "https://github.com/ahupp/python-magic.git"
+    },
     "python-packages/python-mimeparse": {
         "type": "git",
         "url": "git://github.com/dbtsai/python-mimeparse.git"
