@@ -3,6 +3,6 @@
         "type": "tarball",
         "compression": "bz2",
         "strip": 1,
-        "url": "http://downloads.sourceforge.net/project/boost/boost/1.56.0/boost_1_56_0.tar.bz2"
+        "url": "http://downloads.sourceforge.net/project/boost/boost/1.57.0/boost_1_57_0.tar.bz2"
     }
 }
