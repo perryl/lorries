@@ -1,0 +1,10 @@
+{
+    "npm-packages/async": {
+        "type": "git",
+        "url": "https://github.com/caolan/async"
+    },
+    "npm-packages/yamljs": {
+        "type": "git",
+        "url": "https://github.com/jeremyfa/yaml.js"
+    }
+}
