@@ -1,0 +1,74 @@
+{
+    "xstatic-packages/xstatic-angular": {
+        "type": "git",
+        "url": "https://git.openstack.org/stackforge/xstatic-angular"
+    },
+    "xstatic-packages/xstatic-angular-cookies": {
+        "type": "git",
+        "url": "https://git.openstack.org/stackforge/xstatic-angular-cookies"
+    },
+    "xstatic-packages/xstatic-angular-mock": {
+        "type": "git",
+        "url": "https://git.openstack.org/stackforge/xstatic-angular-mock"
+    },
+    "xstatic-packages/xstatic-bootstrap-datepicker": {
+        "type": "git",
+        "url": "https://git.openstack.org/stackforge/xstatic-bootstrap-datepicker"
+    },
+    "xstatic-packages/xstatic-bootstrap-scss": {
+        "type": "git",
+        "url": "https://git.openstack.org/stackforge/xstatic-bootstrap-scss"
+    },
+    "xstatic-packages/xstatic-d3": {
+        "type": "git",
+        "url": "https://git.openstack.org/stackforge/xstatic-d3"
+    },
+    "xstatic-packages/xstatic-font-awesome": {
+        "type": "git",
+        "url": "https://git.openstack.org/stackforge/xstatic-font-awesome"
+    },
+    "xstatic-packages/xstatic-hogan": {
+        "type": "git",
+        "url": "https://git.openstack.org/stackforge/xstatic-hogan"
+    },
+    "xstatic-packages/xstatic-jasmine": {
+        "type": "git",
+        "url": "https://git.openstack.org/stackforge/xstatic-jasmine"
+    },
+    "xstatic-packages/xstatic-jquery": {
+        "type": "hg",
+        "url": "https://bitbucket.org/thomaswaldmann/xstatic-jquery"
+    },
+    "xstatic-packages/xstatic-jquery-migrate": {
+        "type": "git",
+        "url": "https://git.openstack.org/stackforge/xstatic-jquery-migrate"
+    },
+    "xstatic-packages/xstatic-jquery-quicksearch": {
+        "type": "git",
+        "url": "https://git.openstack.org/stackforge/xstatic-jquery.quicksearch"
+    },
+    "xstatic-packages/xstatic-jquery-tablesorter": {
+        "type": "git",
+        "url": "https://git.openstack.org/stackforge/xstatic-jquery.tablesorter"
+    },
+    "xstatic-packages/xstatic-jquery-ui": {
+        "type": "hg",
+        "url": "https://bitbucket.org/thomaswaldmann/xstatic-jquery_ui"
+    },
+    "xstatic-packages/xstatic-jsencrypt": {
+        "type": "git",
+        "url": "https://git.openstack.org/stackforge/xstatic-jsencrypt"
+    },
+    "xstatic-packages/xstatic-qunit": {
+        "type": "git",
+        "url": "https://git.openstack.org/stackforge/xstatic-qunit"
+    },
+    "xstatic-packages/xstatic-rickshaw": {
+        "type": "git",
+        "url": "https://git.openstack.org/stackforge/xstatic-rickshaw"
+    },
+    "xstatic-packages/xstatic-spin": {
+        "type": "git",
+        "url": "https://git.openstack.org/stackforge/xstatic-spin"
+    }
+}
