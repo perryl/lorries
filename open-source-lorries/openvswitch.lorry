@@ -1,0 +1,6 @@
+{
+    "openvswitch": {
+        "type": "git",
+        "url": "git://github.com/openvswitch/ovs.git"
+    }
+}
