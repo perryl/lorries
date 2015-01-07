@@ -1,0 +1,6 @@
+{
+    "libflangrt": {
+        "type": "git",
+        "url": "git://github.com/CodethinkLabs/libflangrt.git"
+    }
+}
