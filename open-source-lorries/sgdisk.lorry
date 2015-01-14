@@ -1,0 +1,6 @@
+{
+  "sgdisk": {
+    "type": "git",
+    "url": "http://git.code.sf.net/p/gptfdisk/code"
+  }
+}

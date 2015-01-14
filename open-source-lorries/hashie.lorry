@@ -1,0 +1,6 @@
+{
+  "hashie": {
+    "type": "git",
+    "url": "https://github.com/intridea/hashie"
+  }
+}

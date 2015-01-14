@@ -1,0 +1,6 @@
+{
+  "net-ssh-multi": {
+    "type": "git",
+    "url": "https://github.com/net-ssh/net-ssh-multi"
+  }
+}
