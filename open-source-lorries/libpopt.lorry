@@ -1,0 +1,7 @@
+{
+  "libpopt": {
+    "type": "cvs",
+    "url": ":pserver:anonymous@rpm5.org:/cvs",
+    "module": "popt"
+  }
+}

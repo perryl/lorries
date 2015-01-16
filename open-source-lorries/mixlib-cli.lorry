@@ -1,0 +1,6 @@
+{
+  "mixlib-cli": {
+    "type": "git",
+    "url": "https://github.com/opscode/mixlib-cli"
+  }
+}
