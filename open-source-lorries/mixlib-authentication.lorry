@@ -1,6 +1,0 @@
-{
-  "mixlib-authentication": {
-    "type": "git",
-    "url": "https://github.com/opscode/mixlib-authentication"
-  }
-}

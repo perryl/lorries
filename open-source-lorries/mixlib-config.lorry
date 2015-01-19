@@ -1,6 +1,0 @@
-{
-  "mixlib-config": {
-    "type": "git",
-    "url": "https://github.com/opscode/mixlib-config"
-  }
-}
