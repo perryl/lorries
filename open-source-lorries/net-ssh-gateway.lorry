@@ -1,6 +1,0 @@
-{
-  "net-ssh-gateway": {
-    "type": "git",
-    "url": "https://github.com/net-ssh/net-ssh-gateway"
-  }
-}

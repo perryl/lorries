@@ -1,6 +1,0 @@
-{
-  "chef": {
-    "type": "git",
-    "url": "https://github.com/opscode/chef"
-  }
-}

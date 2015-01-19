@@ -1,6 +1,0 @@
-{
-  "mixlib-log": {
-    "type": "git",
-    "url": "https://github.com/opscode/mixlib-log"
-  }
-}

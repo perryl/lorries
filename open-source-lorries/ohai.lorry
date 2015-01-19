@@ -1,6 +1,0 @@
-{
-  "ohai": {
-    "type": "git",
-    "url": "https://github.com/opscode/ohai"
-  }
-}

@@ -1,6 +1,0 @@
-{
-  "libyajl2-gem": {
-    "type": "git",
-    "url": "https://github.com/lamont-granquist/libyajl2-gem"
-  }
-}

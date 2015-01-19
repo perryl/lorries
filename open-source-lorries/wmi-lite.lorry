@@ -1,6 +1,0 @@
-{
-  "wmi-lite": {
-    "type": "git",
-    "url": "https://github.com/opscode/wmi-lite"
-  }
-}
