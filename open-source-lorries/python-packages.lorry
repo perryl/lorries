@@ -329,6 +329,10 @@
         "type": "hg",
         "url": "https://bitbucket.org/logilab/pylint/"
     },
+    "python-packages/pylru": {
+        "type": "git",
+        "url": "https://github.com/jlhutch/pylru.git"
+    },
     "python-packages/pyopenssl": {
         "type": "git",
         "url": "git://github.com/pyca/pyopenssl.git"
