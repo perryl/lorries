@@ -619,5 +619,9 @@
     "python-packages/zope-traversing": {
         "type": "git",
         "url": "git://github.com/zopefoundation/zope.traversing.git"
+    },
+    "python-packages/virtualenv" : {
+        "type": "git",
+        "url": "git://github.com/pypa/virtualenv.git"
     }
 }
