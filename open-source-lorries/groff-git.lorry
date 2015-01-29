@@ -1,0 +1,6 @@
+{
+    "groff-git": {
+        "type": "git",
+        "url": "git://git.savannah.gnu.org/groff.git"
+    }
+}
