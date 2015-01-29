@@ -1,0 +1,6 @@
+{
+  "net-dhcp-ruby": {
+    "type": "git",
+    "url": "https://github.com/mjtko/net-dhcp-ruby"
+  }
+}

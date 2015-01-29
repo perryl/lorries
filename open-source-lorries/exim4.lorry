@@ -1,0 +1,6 @@
+{
+    "exim4": {
+        "type": "git",
+        "url": "git://git.exim.org/exim.git"
+    }
+}
