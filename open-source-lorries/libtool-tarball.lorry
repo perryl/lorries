@@ -1,0 +1,8 @@
+{
+    "libtool-tarball": {
+        "type": "tarball",
+        "compression": "gzip",
+        "strip": 1,
+        "url": "http://ftpmirror.gnu.org/libtool/libtool-2.4.5.tar.gz"
+    }
+}
