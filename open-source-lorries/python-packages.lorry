@@ -278,7 +278,7 @@
     },
     "python-packages/psycopg2": {
         "type": "git",
-        "url": "git://github.com/nwcell/psycopg2-windows.git"
+        "url": "git://github.com/psycopg/psycopg2.git"
     },
     "python-packages/py-amqp": {
         "type": "git",
