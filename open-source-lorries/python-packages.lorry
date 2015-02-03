@@ -278,7 +278,7 @@
     },
     "python-packages/psycopg2": {
         "type": "git",
-        "url": "git://github.com/nwcell/psycopg2-windows.git"
+        "url": "git://github.com/psycopg/psycopg2.git"
     },
     "python-packages/py-amqp": {
         "type": "git",
@@ -367,6 +367,10 @@
     "python-packages/python-magic": {
         "type": "git",
         "url": "https://github.com/ahupp/python-magic.git"
+    },
+    "python-packages/python-memcached": {
+        "type": "git",
+        "url": "git://github.com/linsomniac/python-memcached.git"
     },
     "python-packages/python-mimeparse": {
         "type": "git",
