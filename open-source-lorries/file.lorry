@@ -3,7 +3,7 @@
         "type": "tarball",
         "compression": "gzip",
         "strip": 1,
-        "url": "ftp://ftp.astron.com/pub/file/file-5.13.tar.gz"
+        "url": "ftp://ftp.astron.com/pub/file/file-5.22.tar.gz"
     }
 }
 
