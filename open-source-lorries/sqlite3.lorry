@@ -3,6 +3,6 @@
         "type": "tarball",
         "compression": "gzip",
         "strip": 1,
-        "url": "http://sqlite.org/sqlite-autoconf-3071300.tar.gz"
+        "url": "http://www.sqlite.org/2015/sqlite-autoconf-3080801.tar.gz"
     }
 }

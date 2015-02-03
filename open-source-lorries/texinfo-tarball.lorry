@@ -1,8 +1,8 @@
 {
     "texinfo-tarball": {
         "type": "tarball",
-        "compression": "lzma",
+        "compression": "xz",
         "strip": 1,
-        "url": "http://ftp.gnu.org/gnu/texinfo/texinfo-4.13a.tar.lzma"
+        "url": "http://ftp.gnu.org/gnu/texinfo/texinfo-5.2.tar.xz"
     }
 }
