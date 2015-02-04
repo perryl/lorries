@@ -1,8 +1,6 @@
 {
     "bmake-tarball": {
         "type": "tarball",
-        "compression": "gzip",
-        "strip": 1,
         "url": "http://www.crufty.net/ftp/pub/sjg/bmake.tar.gz"
     }
 }

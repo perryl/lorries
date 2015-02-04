@@ -1,8 +1,6 @@
 {
     "nspr": {
         "type": "tarball",
-        "compression": "gzip",
-        "strip": 3,
         "url": "http://ftp.mozilla.org/pub/mozilla.org/nspr/releases/v4.8.9/src/nspr-4.8.9.tar.gz"
     }
 }

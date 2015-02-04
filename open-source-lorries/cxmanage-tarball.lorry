@@ -1,8 +1,6 @@
 {
     "cxmanage-tarball": {
         "type": "tarball",
-        "compression": "gzip",
-        "strip": 1,
         "url": "http://sources.calxeda.com/python/packages/cxmanage/cxmanage-0.8.2.tar.gz"
     }
 }

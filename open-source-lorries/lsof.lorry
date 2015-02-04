@@ -1,8 +1,6 @@
 {
     "lsof": {
         "type": "tarball",
-        "compression": "gzip",
-        "strip": 1,
         "url": "http://ftp.cerias.purdue.edu/pub/tools/unix/sysutils/lsof/lsof_4.83.tar.gz"
     }
 }

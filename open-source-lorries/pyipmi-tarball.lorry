@@ -1,8 +1,6 @@
 {
     "pyipmi-tarball": {
         "type": "tarball",
-        "compression": "gzip",
-        "strip": 1,
         "url": "http://sources.calxeda.com/python/packages/pyipmi/pyipmi-0.7.1.tar.gz"
     }
 }
