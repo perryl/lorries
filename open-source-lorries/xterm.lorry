@@ -1,7 +1,6 @@
 {
     "xterm": {
         "type": "tarball",
-        "compression": "gzip",
         "strip": 1,
         "url": "http://invisible-island.net/datafiles/release/xterm.tar.gz"
     }

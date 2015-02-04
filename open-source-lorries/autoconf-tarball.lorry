@@ -1,7 +1,6 @@
 {
     "autoconf-tarball": {
         "type": "tarball",
-        "compression": "xz",
         "strip": 1,
         "url": "http://ftp.gnu.org/gnu/autoconf/autoconf-2.69.tar.xz"
     }

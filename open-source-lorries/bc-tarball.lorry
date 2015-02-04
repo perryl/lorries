@@ -1,7 +1,6 @@
 {
     "bc-tarball": {
         "type": "tarball",
-        "compression": "gzip",
         "strip": 1,
         "url": "http://ftp.gnu.org/gnu/bc/bc-1.06.tar.gz"
     }

@@ -1,7 +1,6 @@
 {
     "gdbm-tarball": {
         "type": "tarball",
-        "compression": "gzip",
         "strip": 1,
         "url": "ftp://ftp.gnu.org/gnu/gdbm/gdbm-1.11.tar.gz"
     }

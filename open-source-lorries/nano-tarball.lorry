@@ -1,7 +1,6 @@
 {
     "nano-tarball": {
         "type": "tarball",
-        "compression": "gzip",
         "strip": 1,
         "url": "http://www.nano-editor.org/dist/v2.2/nano-2.2.6.tar.gz"
     }

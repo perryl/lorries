@@ -1,7 +1,6 @@
 {
   "itzam-tarball": {
     "type": "tarball",
-    "compression": "gzip",
     "url": "http://coyotegulch.scottrobertladd.net/products/itzam/c/libitzam-6.0.4.tar.gz"
   }
 }

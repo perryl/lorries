@@ -1,7 +1,6 @@
 {
     "php2": {
         "type": "tarball",
-        "compression": "bz2",
         "strip": 1,
         "url": "http://uk1.php.net/distributions/php-5.4.13.tar.bz2"
     }

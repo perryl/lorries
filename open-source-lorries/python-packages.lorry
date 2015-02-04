@@ -230,7 +230,6 @@
         "url": "git://github.com/openid/python-openid.git"
     },
     "python-packages/ordereddict-tarball": {
-        "compression": "gzip",
         "type": "tarball",
         "url": "https://pypi.python.org/packages/source/o/ordereddict/ordereddict-1.1.tar.gz"
     },
@@ -271,7 +270,6 @@
         "url": "git://github.com/dabeaz/ply.git"
     },
     "python-packages/posix-ipc-tarball": {
-        "compression": "gzip",
         "strip": 1,
         "type": "tarball",
         "url": "http://semanchuk.com/philip/posix_ipc/posix_ipc-0.9.8.tar.gz"
@@ -356,7 +354,6 @@
         "url": "https://github.com/jsocol/pystatsd.git"
     },
     "python-packages/python-daemon": {
-        "compression": "gzip",
         "type": "tarball",
         "url": "https://pypi.python.org/packages/source/p/python-daemon/python-daemon-1.6.1.tar.gz"
     },

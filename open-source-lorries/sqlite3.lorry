@@ -1,7 +1,6 @@
 {
     "sqlite3": {
         "type": "tarball",
-        "compression": "gzip",
         "strip": 1,
         "url": "http://www.sqlite.org/2015/sqlite-autoconf-3080801.tar.gz"
     }

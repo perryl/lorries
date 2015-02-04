@@ -1,7 +1,6 @@
 {
     "berkeleydb": {
         "type": "tarball",
-        "compression": "gzip",
         "strip": 1,
         "url": "http://download.oracle.com/berkeley-db/db-5.3.21.tar.gz"
     }

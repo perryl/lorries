@@ -1,7 +1,6 @@
 {
     "check": {
         "type": "tarball",
-        "compression": "gzip",
         "strip": 1,
         "url": "http://downloads.sourceforge.net/check/check-0.9.8.tar.gz"
     }
