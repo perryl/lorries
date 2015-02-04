@@ -1,7 +1,6 @@
 {
     "texinfo-tarball": {
         "type": "tarball",
-        "strip": 1,
         "url": "http://ftp.gnu.org/gnu/texinfo/texinfo-5.2.tar.xz"
     }
 }

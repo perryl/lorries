@@ -1,7 +1,6 @@
 {
   "lzo": {
     "type": "tarball",
-    "strip": 1,
     "url": "http://www.oberhumer.com/opensource/lzo/download/lzo-2.08.tar.gz"
   }
 }

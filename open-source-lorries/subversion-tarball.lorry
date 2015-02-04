@@ -1,7 +1,6 @@
 {
     "subversion-tarball": {
         "type": "tarball",
-        "strip": 1,
         "url": "http://www.mirrorservice.org/sites/ftp.apache.org/subversion/subversion-1.7.6.tar.bz2"
     }
 }

@@ -270,7 +270,6 @@
         "url": "git://github.com/dabeaz/ply.git"
     },
     "python-packages/posix-ipc-tarball": {
-        "strip": 1,
         "type": "tarball",
         "url": "http://semanchuk.com/philip/posix_ipc/posix_ipc-0.9.8.tar.gz"
     },

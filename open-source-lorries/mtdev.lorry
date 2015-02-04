@@ -1,7 +1,6 @@
 {
     "mtdev": {
         "type": "tarball",
-        "strip": 1,
         "url": "http://bitmath.org/code/mtdev/mtdev-1.1.3.tar.gz"
     }
 }

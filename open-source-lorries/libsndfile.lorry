@@ -1,7 +1,6 @@
 {
     "libsndfile": {
         "type": "tarball",
-        "strip": 1,
         "url": "http://www.mega-nerd.com/libsndfile/files/libsndfile-1.0.25.tar.gz"
     }
 }

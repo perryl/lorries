@@ -1,12 +1,10 @@
 {
     "mozilla/mozjs17": {
         "type": "tarball",
-        "strip": 1,
         "url": "https://ftp.mozilla.org/pub/mozilla.org/js/mozjs17.0.0.tar.gz"
     },
     "mozilla/mozjs24": {
         "type": "tarball",
-        "strip": 1,
         "url": "https://ftp.mozilla.org/pub/mozilla.org/js/mozjs-24.2.0.tar.bz2"
     }
 }
