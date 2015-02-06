@@ -5,12 +5,6 @@
         "refspecs": [
             "refs/tags/*",
             "+refs/heads/wip/*",
-            "+refs/heads/composite-templates",
-            "+refs/heads/gestures",
-            "+refs/heads/places-sidebar",
-            "+refs/heads/touch-text-selection",
-            "+refs/heads/touch-selections",
-            "+refs/heads/bgo121113-filechooser-single-click-activate",
             "refs/heads/*"
         ]
     }
