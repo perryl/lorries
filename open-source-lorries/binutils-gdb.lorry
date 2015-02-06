@@ -1,0 +1,6 @@
+{
+    "binutils-gdb": {
+        "type": "git",
+        "url": "git://sourceware.org/git/binutils-gdb.git"
+    }
+}
