@@ -63,6 +63,22 @@
         "type": "hg",
         "url": "http://hg.python.org/distutils2"
     },
+    "python-packages/django": {
+        "type": "git",
+        "url": "git://github.com/django/django.git"
+    },
+    "python-packages/django-appconf": {
+        "type": "git",
+        "url": "git://github.com/jezdez/django-appconf.git"
+    },
+    "python-packages/django-compressor": {
+        "type": "git",
+        "url": "git://github.com/django-compressor/django-compressor.git"
+    },
+    "python-packages/django-pyscss": {
+        "type": "git",
+        "url": "git://github.com/fusionbox/django-pyscss.git"
+    },
     "python-packages/dnspython": {
         "type": "git",
         "url": "git://github.com/rthalley/dnspython.git"
@@ -338,6 +354,10 @@
         "type": "svn",
         "url": "svn://svn.code.sf.net/p/pyparsing/code",
         "layout": "standard"
+    },
+    "python-packages/pyscss": {
+        "type": "git",
+        "url": "git://github.com/Kronuz/pyScss.git"
     },
     "python-packages/pysnmp": {
         "module": "pysnmp",
