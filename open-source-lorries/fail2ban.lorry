@@ -1,0 +1,6 @@
+{
+    "fail2ban": {
+        "type": "git",
+        "url": "git://github.com/fail2ban/fail2ban.git"
+    }
+}
