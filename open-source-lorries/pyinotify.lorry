@@ -1,0 +1,6 @@
+{
+    "pyinotify": {
+        "type": "git",
+        "url": "git://github.com/seb-m/pyinotify.git"
+    }
+}
