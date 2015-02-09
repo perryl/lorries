@@ -200,6 +200,14 @@
         "type": "git",
         "url": "https://bitbucket.org/zzzeek/mako.git"
     },
+    "python-packages/mod_wsgi": {
+        "type": "git",
+        "url": "git://github.com/GrahamDumpleton/mod_wsgi.git"
+    },
+    "python-packages/mod_wsgi-metrics": {
+        "type": "git",
+        "url": "git://github.com/GrahamDumpleton/mod_wsgi-metrics.git"
+    },
     "python-packages/mock": {
         "type": "hg",
         "url": "https://code.google.com/p/mock/"
@@ -288,6 +296,10 @@
     "python-packages/posix-ipc-tarball": {
         "type": "tarball",
         "url": "http://semanchuk.com/philip/posix_ipc/posix_ipc-0.9.8.tar.gz"
+    },
+    "python-packages/psutil": {
+        "type": "git",
+        "url": "git://github.com/giampaolo/psutil.git"
     },
     "python-packages/psycopg2": {
         "type": "git",
