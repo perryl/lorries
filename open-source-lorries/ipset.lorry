@@ -1,0 +1,6 @@
+{
+    "ipset": {
+        "type": "git",
+        "url": "git://git.netfilter.org/ipset"
+    }
+}
