@@ -1,0 +1,10 @@
+{
+    "apache/apr": {
+        "type": "git",
+        "url": "git://git.apache.org/apr.git"
+    },
+    "apache/httpd": {
+        "type": "git",
+        "url": "git://git.apache.org/httpd.git"
+    }
+}
