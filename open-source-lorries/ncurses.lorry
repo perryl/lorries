@@ -1,6 +1,6 @@
 {
     "ncurses": {
         "type": "tarball",
-        "url": "http://ftp.gnu.org/gnu/ncurses/ncurses-5.9.tar.gz"
+        "url": "ftp://invisible-island.net/ncurses/current/ncurses-5.9-20150131.tgz"
     }
 }
