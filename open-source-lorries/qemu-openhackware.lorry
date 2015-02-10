@@ -1,0 +1,6 @@
+{
+    "qemu-openhackware": {
+        "type": "git",
+        "url": "git://git.qemu-project.org/openhackware.git"
+    }
+}
