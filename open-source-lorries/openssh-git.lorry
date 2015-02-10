@@ -1,0 +1,6 @@
+{
+    "openssh-git": {
+        "type": "git",
+        "url": "git://anongit.mindrot.org/openssh.git"
+    }
+}
