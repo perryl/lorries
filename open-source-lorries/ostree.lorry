@@ -1,0 +1,6 @@
+{
+    "ostree": {
+        "type": "git",
+        "url": "git://git.gnome.org/ostree"
+    }
+}
