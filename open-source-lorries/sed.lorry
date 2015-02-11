@@ -1,0 +1,6 @@
+{
+	"sed": {
+		"type": "git",
+		"url": "git://git.sv.gnu.org/sed.git"
+	}
+}
