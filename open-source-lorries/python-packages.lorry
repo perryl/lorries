@@ -526,7 +526,7 @@
     },
     "python-packages/tooz": {
         "type": "git",
-        "url": "git://git.openstack.org/stackforge/tooz.git"
+        "url": "git://git.openstack.org/openstack/tooz.git"
     },
     "python-packages/tox": {
         "type": "hg",
