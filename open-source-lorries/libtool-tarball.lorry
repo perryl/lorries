@@ -1,6 +1,6 @@
 {
     "libtool-tarball": {
         "type": "tarball",
-        "url": "http://ftpmirror.gnu.org/libtool/libtool-2.4.5.tar.gz"
+        "url": "http://ftpmirror.gnu.org/libtool/libtool-2.4.6.tar.xz"
     }
 }
