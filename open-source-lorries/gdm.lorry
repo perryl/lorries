@@ -1,0 +1,6 @@
+{
+    "gdm": {
+        "type": "git",
+        "url": "git://git.gnome.org/gdm"
+    }
+}
