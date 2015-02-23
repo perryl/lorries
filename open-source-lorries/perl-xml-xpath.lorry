@@ -1,0 +1,6 @@
+{
+    "perl-xml-xpath": {
+        "type": "tarball",
+        "url": "https://cpan.metacpan.org/authors/id/M/MS/MSERGEANT/XML-XPath-1.13.tar.gz"
+    }
+}
