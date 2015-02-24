@@ -3,13 +3,33 @@
         "type": "git",
         "url": "https://git.openstack.org/stackforge/xstatic-angular"
     },
+    "xstatic-packages/xstatic-angular-animate": {
+        "type": "git",
+        "url": "https://git.openstack.org/stackforge/xstatic-angular-animate"
+    },
+    "xstatic-packages/xstatic-angular-bootstrap": {
+        "type": "git",
+        "url": "https://git.openstack.org/stackforge/xstatic-angular-bootstrap"
+    },
     "xstatic-packages/xstatic-angular-cookies": {
         "type": "git",
         "url": "https://git.openstack.org/stackforge/xstatic-angular-cookies"
     },
+    "xstatic-packages/xstatic-angular-fileupload": {
+        "type": "git",
+        "url": "https://git.openstack.org/stackforge/xstatic-angular-fileupload"
+    },
     "xstatic-packages/xstatic-angular-mock": {
         "type": "git",
         "url": "https://git.openstack.org/stackforge/xstatic-angular-mock"
+    },
+    "xstatic-packages/xstatic-angular-sanitize": {
+        "type": "git",
+        "url": "https://git.openstack.org/stackforge/xstatic-angular-sanitize"
+    },
+    "xstatic-packages/xstatic-angular-smart-table": {
+        "type": "git",
+        "url": "https://git.openstack.org/stackforge/xstatic-angular-smart-table"
     },
     "xstatic-packages/xstatic-bootstrap-datepicker": {
         "type": "git",
@@ -38,6 +58,10 @@
     "xstatic-packages/xstatic-jquery": {
         "type": "hg",
         "url": "https://bitbucket.org/thomaswaldmann/xstatic-jquery"
+    },
+    "xstatic-packages/xstatic-jquery-bootstrap-wizard": {
+        "type": "git",
+        "url": "https://git.openstack.org/stackforge/xstatic-jquery.bootstrap.wizard"
     },
     "xstatic-packages/xstatic-jquery-migrate": {
         "type": "git",
