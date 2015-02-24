@@ -1,0 +1,6 @@
+{
+    "pytz-tarball": {
+        "type": "tarball",
+        "url": "https://pypi.python.org/packages/source/p/pytz/pytz-2014.10.tar.gz"
+    }
+}
