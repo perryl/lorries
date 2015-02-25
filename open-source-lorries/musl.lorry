@@ -1,0 +1,6 @@
+{
+    "musl": {
+        "type": "git",
+        "url": "git://git.musl-libc.org/musl"
+    }
+}
