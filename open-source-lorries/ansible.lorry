@@ -2,5 +2,13 @@
     "ansible": {
         "type": "git",
         "url": "git://github.com/ansible/ansible.git"
+    },
+    "ansible-modules-core": {
+        "type": "git",
+        "url": "git://github.com/ansible/ansible-modules-core.git"
+    },
+    "ansible-modules-extras": {
+        "type": "git",
+        "url": "git://github.com/ansible/ansible-modules-extras.git"
     }
 }
