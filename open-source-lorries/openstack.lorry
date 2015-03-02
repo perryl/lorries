@@ -250,5 +250,9 @@
     "openstack/turbo-hipster": {
         "type": "git",
         "url": "git://git.openstack.org/stackforge/turbo-hipster.git"
+    },
+    "openstack/python-saharaclient": {
+        "type": "git",
+        "url": "git://git.openstack.org/openstack/python-saharaclient"
     }
 }
