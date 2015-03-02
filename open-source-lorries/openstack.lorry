@@ -254,5 +254,9 @@
     "openstack/python-saharaclient": {
         "type": "git",
         "url": "git://git.openstack.org/openstack/python-saharaclient"
+    },
+    "openstack/openstack-ansible-modules": {
+        "type": "git",
+        "url": "https://github.com/openstack-ansible/openstack-ansible-modules"
     }
 }
