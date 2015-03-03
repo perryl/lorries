@@ -1,0 +1,6 @@
+{
+    "genivi/persistence-common-object": {
+        "type": "git",
+        "url": "git://git.projects.genivi.org/persistence/persistence-common-object.git"
+    }
+}

@@ -1,0 +1,6 @@
+{
+    "genivi/persistence-administrator": {
+        "type": "git",
+        "url": "git://git.projects.genivi.org/persistence/persistence-administrator.git"
+    }
+}
