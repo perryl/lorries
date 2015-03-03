@@ -1,0 +1,6 @@
+{
+    "libarchive": {
+        "type": "git",
+        "url": "git://github.com/libarchive/libarchive.git"
+    }
+}
