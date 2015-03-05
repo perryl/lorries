@@ -1,0 +1,6 @@
+{
+    "genivi/node-health-monitor": {
+        "type": "git",
+        "url": "git://git.projects.genivi.org/lifecycle/node-health-monitor.git"
+    }
+}
