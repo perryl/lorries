@@ -258,5 +258,13 @@
     "openstack/openstack-ansible-modules": {
         "type": "git",
         "url": "https://github.com/openstack-ansible/openstack-ansible-modules"
-    }
+    },
+   "openstack/tempest-lib": {
+        "type": "git",
+        "url": "https://git.openstack.org/openstack/tempest-lib"
+   },
+   "openstack/tempest": {
+        "type": "git",
+        "url": "https://git.openstack.org/openstack/tempest"
+   }
 }
