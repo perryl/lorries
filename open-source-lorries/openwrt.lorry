@@ -1,0 +1,46 @@
+{
+    "openwrt/firewall3": {
+        "type": "git",
+        "url": "git://nbd.name/firewall3.git"
+    },
+    "openwrt/fstools": {
+        "type": "git",
+        "url": "git://nbd.name/fstools.git"
+    },
+    "openwrt/libubox": {
+        "type": "git",
+        "url": "git://git.openwrt.org/project/libubox.git"
+    },
+    "openwrt/netifd": {
+        "type": "git",
+        "url": "http://git.openwrt.org/project/netifd.git"
+    },
+    "openwrt/odhcp6c": {
+        "type": "git",
+        "url": "git://github.com/sbyx/odhcp6c.git"
+    },
+    "openwrt/odhcpd": {
+        "type": "git",
+        "url": "https://github.com/sbyx/odhcpd"
+    },
+    "openwrt/rpcd": {
+        "type": "git",
+        "url": "git://nbd.name/luci2/rpcd.git"
+    },
+    "openwrt/ubox": {
+        "type": "git",
+        "url": "git://nbd.name/luci2/ubox.git"
+    },
+    "openwrt/ubus": {
+        "type": "git",
+        "url": "git://nbd.name/luci2/ubus.git"
+    },
+    "openwrt/uci": {
+        "type": "git",
+        "url": "git://nbd.name/uci.git"
+    },
+    "openwrt/procd": {
+        "type": "git",
+        "url": "git://nbd.name/luci2/procd.git"
+    }
+}
