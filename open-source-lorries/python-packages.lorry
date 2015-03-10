@@ -342,6 +342,10 @@
         "type": "git",
         "url": "git://github.com/pyflakes/pyflakes.git"
     },
+    "python-packages/pygerrit": {
+        "type": "git",
+        "url": "git://github.com/sonyxperiadev/pygerrit"
+    },
     "python-packages/pygments": {
         "type": "hg",
         "url": "https://bitbucket.org/birkenfeld/pygments-main"
