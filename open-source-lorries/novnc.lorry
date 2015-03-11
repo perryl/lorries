@@ -1,0 +1,6 @@
+{
+    "novnc": {
+        "type": "git",
+        "url": "git://github.com/kanaka/noVNC.git"
+    }
+}
