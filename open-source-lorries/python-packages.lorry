@@ -659,5 +659,9 @@
     "python-packages/virtualenv" : {
         "type": "git",
         "url": "git://github.com/pypa/virtualenv.git"
+    },
+    "python-packages/singledispatch" : {
+        "type": "hg",
+        "url": "https://bitbucket.org/ambv/singledispatch"
     }
 }
