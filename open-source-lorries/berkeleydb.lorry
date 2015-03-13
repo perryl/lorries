@@ -1,6 +1,6 @@
 {
     "berkeleydb": {
         "type": "tarball",
-        "url": "http://download.oracle.com/berkeley-db/db-5.3.21.tar.gz"
+        "url": "http://download.oracle.com/berkeley-db/db-6.1.23.tar.gz"
     }
 }
