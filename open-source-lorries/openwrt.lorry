@@ -1,4 +1,8 @@
 {
+    "openwrt/openwrt": {
+        "type": "git",
+        "url": "git://git.openwrt.org/openwrt.git"
+    },
     "openwrt/firewall3": {
         "type": "git",
         "url": "git://nbd.name/firewall3.git"
