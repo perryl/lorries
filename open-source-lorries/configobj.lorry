@@ -2,5 +2,9 @@
     "configobj": {
         "type": "hg",
         "url": "http://code.google.com/p/configobj/"
+    },
+    "configobj-git": {
+        "type": "git",
+        "url": "git://github.com/DiffSK/configobj.git"
     }
 }
