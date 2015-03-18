@@ -1,0 +1,6 @@
+{
+    "git-review": {
+        "type": "git",
+        "url": "git://git.openstack.org/openstack-infra/git-review"
+    }
+}
