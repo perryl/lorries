@@ -663,5 +663,9 @@
     "python-packages/singledispatch" : {
         "type": "hg",
         "url": "https://bitbucket.org/ambv/singledispatch"
+    },
+    "python-packages/pymox":{
+        "type": "git",
+        "url": "https://github.com/emonty/pymox.git"
     }
 }
