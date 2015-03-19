@@ -671,5 +671,9 @@
     "python-packages/mocker":{
         "type": "git",
         "url": "git://github.com/zyga/mocker"
+    },
+    "python-packages/pysendfile": {
+        "type": "git",
+        "url": "git://github.com/giampaolo/pysendfile"
     }
 }
