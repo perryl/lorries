@@ -667,5 +667,9 @@
     "python-packages/pymox":{
         "type": "git",
         "url": "https://github.com/emonty/pymox.git"
+    },
+    "python-packages/mocker":{
+        "type": "git",
+        "url": "git://github.com/zyga/mocker"
     }
 }
