@@ -1,6 +1,6 @@
 {
     "nano-tarball": {
         "type": "tarball",
-        "url": "http://www.nano-editor.org/dist/v2.2/nano-2.2.6.tar.gz"
+        "url": "http://www.nano-editor.org/dist/v2.4/nano-2.4.0.tar.gz"
     }
 }
