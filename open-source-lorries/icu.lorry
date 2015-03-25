@@ -2,10 +2,5 @@
     "icu": {
         "type": "tarball",
         "url": "http://download.icu-project.org/files/icu4c/52.1/icu4c-52_1-src.tgz"
-    },
-    "icu-svn": {
-        "type": "svn",
-        "url" : "http://source.icu-project.org/repos/icu/icu/",
-        "layout": "standard"
     }
 }
