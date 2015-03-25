@@ -1,0 +1,6 @@
+{
+    "libpcap": {
+        "type": "git",
+        "url": "git://bpf.tcpdump.org/libpcap"
+    }
+}
