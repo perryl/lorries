@@ -675,5 +675,19 @@
     "python-packages/pysendfile": {
         "type": "git",
         "url": "git://github.com/giampaolo/pysendfile"
+    },
+    "python-packages/pyserial": {
+        "layout": {
+            "trunk": "trunk/pyserial",
+            "branches": "branches/*",
+            "tags": "tags/*"
+        },
+        "type": "svn",
+        "url": "http://svn.code.sf.net/p/pyserial/code/"
+    },
+    "python-packages/testresources": {
+        "type": "bzr",
+        "url": "lp:testresources"
     }
+
 }
