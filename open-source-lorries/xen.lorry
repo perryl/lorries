@@ -1,0 +1,6 @@
+{
+    "xen": {
+        "type": "git",
+        "url": "git://xenbits.xen.org/xen.git"
+    }
+}
