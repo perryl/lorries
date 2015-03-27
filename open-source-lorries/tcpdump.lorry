@@ -1,0 +1,6 @@
+{
+    "tcpdump": {
+        "type": "git",
+        "url": "git://bpf.tcpdump.org/tcpdump"
+    }
+}
