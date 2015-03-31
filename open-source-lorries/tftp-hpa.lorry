@@ -1,0 +1,6 @@
+{
+    "tftp-hpa": {
+        "type": "git",
+        "url": "git://git.kernel.org/pub/scm/network/tftp/tftp-hpa.git"
+    }
+}
