@@ -1,0 +1,7 @@
+{
+    "sysfsutils": {
+        "type": "cvs",
+        "url": ":pserver:anonymous@linux-diag.cvs.sourceforge.net:/cvsroot/linux-diag",
+        "module": "sysfsutils"
+    }
+}
