@@ -1,0 +1,6 @@
+{
+    "flex-git": {
+        "type": "git",
+        "url": "git://git.code.sf.net/p/flex/flex"
+    }
+}
