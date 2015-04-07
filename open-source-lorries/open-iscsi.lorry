@@ -1,0 +1,6 @@
+{
+    "open-iscsi": {
+        "type": "git",
+        "url": "git://github.com/mikechristie/open-iscsi.git"
+    }
+}

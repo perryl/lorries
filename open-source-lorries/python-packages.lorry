@@ -35,6 +35,10 @@
         "type": "git",
         "url": "git://github.com/Zearin/cmd2.git"
     },
+    "python-packages/configshell-fb": {
+        "type": "git",
+        "url": "git://github.com/agrover/configshell-fb.git"
+    },
     "python-packages/creole": {
         "type": "git",
         "url": "git://github.com/jedie/python-creole.git"
@@ -508,6 +512,10 @@
         "type": "tarball",
         "url": "http://semanchuk.com/philip/sysv_ipc/sysv_ipc-0.6.8.tar.gz"
     },
+    "python-packages/targetcli": {
+        "type": "git",
+        "url": "git://github.com/agrover/targetcli-fb.git"
+    },
     "python-packages/tempita": {
         "type": "hg",
         "url": "https://bitbucket.org/ianb/tempita"
@@ -539,6 +547,10 @@
     "python-packages/urllib3": {
         "type": "git",
         "url": "git://github.com/shazow/urllib3.git"
+    },
+    "python-packages/urwid": {
+        "type": "git",
+        "url": "git://github.com/wardi/urwid.git"
     },
     "python-packages/uwsgi": {
         "type": "git",
