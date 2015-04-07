@@ -1,0 +1,7 @@
+{
+    "pygtk": {
+        "type": "git",
+        "url": "git://git.gnome.org/pygtk"
+    }
+}
+
