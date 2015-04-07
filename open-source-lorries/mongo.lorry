@@ -1,0 +1,6 @@
+{
+    "mongo": {
+        "type": "git",
+        "url": "git://github.com/mongodb/mongo.git"
+    }
+}
