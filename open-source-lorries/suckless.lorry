@@ -1,0 +1,14 @@
+{
+    "suckless/dwm": {
+        "type": "git",
+        "url": "git://git.suckless.org/dwm"
+    },
+    "suckless/dmenu": {
+        "type": "git",
+        "url": "git://git.suckless.org/dmenu"
+    },
+    "suckless/slock": {
+        "type": "git",
+        "url": "git://git.suckless.org/slock"
+    }
+}
