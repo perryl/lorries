@@ -1,0 +1,6 @@
+{
+    "google-compute-image-packages": {
+        "type": "git",
+        "url": "git://github.com/GoogleCloudPlatform/compute-image-packages.git"
+    }
+}
