@@ -1,0 +1,6 @@
+{
+    "gnu-efi": {
+        "type": "git",
+        "url": "git://git.code.sf.net/p/gnu-efi/code"
+    }
+}
