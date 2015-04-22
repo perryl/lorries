@@ -1,0 +1,6 @@
+{
+    "bsdiff": {
+        "type": "git",
+        "url": "git://github.com/mendsley/bsdiff"
+    }
+}
