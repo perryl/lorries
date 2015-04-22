@@ -1,0 +1,6 @@
+{
+    "libglnx": {
+        "type": "git",
+        "url": "git://git.gnome.org/libglnx"
+    }
+}
