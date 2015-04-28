@@ -1,0 +1,6 @@
+{
+    "isc-dhcp": {
+        "type": "git",
+        "url": "https://source.isc.org/git/dhcp.git"
+    }
+}
