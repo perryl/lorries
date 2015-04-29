@@ -1,0 +1,6 @@
+{
+    "samba": {
+        "type": "git",
+        "url": "git://git.samba.org/samba"
+    }
+}
