@@ -1,0 +1,7 @@
+{
+    "lm-sensors": {
+        "type": "svn",
+        "url": "http://lm-sensors.org/svn/lm-sensors/",
+        "layout": "standard"
+    }
+}
