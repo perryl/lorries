@@ -94,6 +94,11 @@
         "url": "git://git.openstack.org/openstack/ceilometer.git"
     },
 
+    "openstack/ceilometermiddleware": {
+        "type": "git",
+        "url": "https://github.com/openstack/ceilometermiddleware.git"
+    },
+
     "openstack/python-ceilometerclient": {
         "type": "git",
         "url": "git://git.openstack.org/openstack/python-ceilometerclient.git"

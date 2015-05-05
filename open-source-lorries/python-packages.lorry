@@ -700,6 +700,13 @@
     "python-packages/testresources": {
         "type": "bzr",
         "url": "lp:testresources"
-    }
-
+    },
+    "python-packages/pyeclib": {
+        "type": "git",
+        "url": "https://bitbucket.org/kmgreen2/pyeclib.git"
+    },
+    "python-packages/pysaml2": {
+        "type": "git",
+        "url": "https://github.com/rohe/pysaml2.git"
+    },
 }
