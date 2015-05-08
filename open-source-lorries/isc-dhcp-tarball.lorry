@@ -1,0 +1,6 @@
+{
+    "isc-dhcp-tarball": {
+        "type": "tarball",
+        "url": "ftp://ftp.isc.org/isc/dhcp/4.2.8/dhcp-4.2.8.tar.gz"
+    }
+}
