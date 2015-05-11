@@ -1,0 +1,6 @@
+{
+    "elixir": {
+        "type": "git",
+        "url": "git://github.com/elixir-lang/elixir.git"
+    }
+}
