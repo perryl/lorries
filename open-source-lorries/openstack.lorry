@@ -164,6 +164,16 @@
         "url": "git://git.openstack.org/openstack/oslo.config.git"
     },
 
+    "openstack/oslo-concurrency": {
+        "type": "git",
+        "url": "git://git.openstack.org/openstack/oslo.concurrency"
+    },
+
+    "openstack/oslo-context": {
+        "type": "git",
+        "url": "git://git.openstack.org/openstack/oslo.context"
+    },
+
     "openstack/oslo-db": {
         "type": "git",
         "url": "git://git.openstack.org/openstack/oslo.db.git"
@@ -179,9 +189,24 @@
         "url": "git://git.openstack.org/openstack/oslo-incubator.git"
     },
 
+    "openstack/oslo-log": {
+        "type": "git",
+        "url": "git://git.openstack.org/openstack/oslo.log"
+    },
+
     "openstack/oslo-messaging": {
         "type": "git",
         "url": "git://git.openstack.org/openstack/oslo.messaging.git"
+    },
+
+    "openstack/oslo-middleware": {
+        "type": "git",
+        "url": "git://git.openstack.org/openstack/oslo.middleware"
+    },
+
+    "openstack/oslo-policy": {
+        "type": "git",
+        "url": "git://git.openstack.org/openstack/oslo.policy"
     },
 
     "openstack/oslo-rootwrap": {

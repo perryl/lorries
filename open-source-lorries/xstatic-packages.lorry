@@ -19,6 +19,14 @@
         "type": "git",
         "url": "https://git.openstack.org/stackforge/xstatic-angular-fileupload"
     },
+    "xstatic-packages/xstatic-angular-lrdragndrop": {
+        "type": "git",
+        "url": "git://git.openstack.org/stackforge/xstatic-angular-lrdragndrop"
+    },
+    "xstatic-packages/xstatic-magic-search": {
+        "type": "git",
+        "url": "git://git.openstack.org/stackforge/xstatic-magic-search"
+    },
     "xstatic-packages/xstatic-angular-mock": {
         "type": "git",
         "url": "https://git.openstack.org/stackforge/xstatic-angular-mock"
@@ -94,5 +102,9 @@
     "xstatic-packages/xstatic-spin": {
         "type": "git",
         "url": "https://git.openstack.org/stackforge/xstatic-spin"
+    },
+    "xstatic-packages/xstatic-termjs": {
+        "type": "git",
+        "url": "git://github.com/takluyver/XStatic-termjs.git"
     }
 }

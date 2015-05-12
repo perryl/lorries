@@ -1,0 +1,6 @@
+{
+    "python-packages/cmd2": {
+        "type": "git",
+        "url": "git://github.com/Zearin/cmd2.git"
+    }
+}

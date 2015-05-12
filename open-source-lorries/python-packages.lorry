@@ -3,6 +3,10 @@
         "type": "git",
         "url": "https://bitbucket.org/zzzeek/alembic.git"
     },
+    "python-packages/aioeventlet": {
+        "type": "hg",
+        "url": "http://bitbucket.org/haypo/aioeventlet"
+    },
     "python-packages/ansicolor": {
         "type": "git",
         "url": "https://github.com/numerodix/ansicolor"
@@ -31,9 +35,9 @@
         "type": "git",
         "url": "git://github.com/dreamhost/cliff.git"
     },
-    "python-packages/cmd2": {
-        "type": "git",
-        "url": "git://github.com/Zearin/cmd2.git"
+    "python-packages/cmd2-hg": {
+        "type": "hg",
+        "url": "http://bitbucket.org/catherinedevlin/cmd2"
     },
     "python-packages/configshell-fb": {
         "type": "git",
@@ -172,6 +176,10 @@
         "type": "git",
         "url": "git://github.com/joshmarshall/jsonrpclib.git"
     },
+    "python-packages/kafka-python": {
+        "type": "git",
+        "url": "git://github.com/mumrah/kafka-python.git"
+    },
     "python-packages/kazoo": {
         "type": "git",
         "url": "git://github.com/python-zk/kazoo.git"
@@ -292,6 +300,10 @@
     "python-packages/pies": {
         "type": "git",
         "url": "git://github.com/timothycrosley/pies.git"
+    },
+    "python-packages/pint": {
+        "type": "git",
+        "url": "git://github.com/hgrecco/pint.git"
     },
     "python-packages/ply": {
         "type": "git",
@@ -468,6 +480,10 @@
         "type": "git",
         "url": "git://github.com/agrover/rtslib-fb.git"
     },
+    "python-packages/semantic-version": {
+        "type": "git",
+        "url": "git://github.com/rbarrois/python-semanticversion.git"
+    },
     "python-packages/simplegeneric-tarball": {
         "type": "tarball",
         "url": "http://ftp.de.debian.org/debian/pool/main/s/simplegeneric/simplegeneric_0.8.1.orig.tar.bz2"
@@ -544,6 +560,10 @@
         "type": "hg",
         "url": "https://bitbucket.org/hpk42/tox"
     },
+    "python-packages/trollius": {
+        "type": "hg",
+        "url": "http://bitbucket.org/enovance/trollius"
+    },
     "python-packages/urllib3": {
         "type": "git",
         "url": "git://github.com/shazow/urllib3.git"
@@ -579,6 +599,10 @@
     "python-packages/webtest": {
         "type": "git",
         "url": "git://github.com/Pylons/webtest.git"
+    },
+    "python-packages/werkzeug": {
+        "type": "git",
+        "url": "git://github.com/mitsuhiko/werkzeug.git"
     },
     "python-packages/wsgiref": {
         "type": "git",
