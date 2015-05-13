@@ -708,5 +708,5 @@
     "python-packages/pysaml2": {
         "type": "git",
         "url": "https://github.com/rohe/pysaml2.git"
-    },
+    }
 }
