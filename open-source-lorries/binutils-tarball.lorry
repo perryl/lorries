@@ -1,0 +1,6 @@
+{
+    "binutils-tarball": {
+        "type": "tarball",
+        "url": "http://ftp.gnu.org/gnu/binutils/binutils-2.25.tar.bz2"
+    }
+}
