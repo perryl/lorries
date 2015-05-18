@@ -1,0 +1,6 @@
+{
+    "accountsservice": {
+        "type": "git",
+        "url": "git://anongit.freedesktop.org/accountsservice"
+    }
+}
