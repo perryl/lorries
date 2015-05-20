@@ -19,6 +19,10 @@
         "type": "git",
         "url": "git://nbd.name/fstools.git"
     },
+    "openwrt/iwinfo": {
+        "type": "git",
+        "url": "git://git.openwrt.org/project/iwinfo.git"
+    },
     "openwrt/jsonpath": {
         "type": "git",
         "url": "git://git.openwrt.org/project/jsonpath.git"
