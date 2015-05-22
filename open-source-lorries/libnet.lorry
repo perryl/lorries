@@ -1,0 +1,6 @@
+{
+    "libnet": {
+        "type": "git",
+        "url": "https://github.com/sam-github/libnet.git"
+    }
+}

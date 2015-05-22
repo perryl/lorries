@@ -1,0 +1,6 @@
+{
+    "arping": {
+        "type": "git",
+        "url": "https://github.com/ThomasHabets/arping.git"
+    }
+}
