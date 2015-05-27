@@ -424,6 +424,10 @@
         "type": "git",
         "url": "git://github.com/dbtsai/python-mimeparse.git"
     },
+    "python-packages/python-requests-aws": {
+        "type": "git",
+        "url": "git://github.com/tax/python-requests-aws"
+    },
     "python-packages/python-rfc3986": {
         "type": "tarball",
         "url": "https://pypi.python.org/packages/source/r/rfc3986/rfc3986-0.2.0.tar.gz"
