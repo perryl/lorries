@@ -1,0 +1,6 @@
+{
+    "cups": {
+        "type": "git",
+        "url": "https://www.cups.org/cups.git"
+    }
+}
