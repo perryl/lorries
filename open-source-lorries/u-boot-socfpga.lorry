@@ -1,0 +1,6 @@
+{
+    "u-boot-socfpga": {
+        "type": "git",
+        "url": "git://git.rocketboards.org/u-boot-socfpga.git"
+    }
+}
