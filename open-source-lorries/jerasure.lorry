@@ -1,0 +1,6 @@
+{
+    "jerasure": {
+        "type": "git",
+        "url": "http://lab.jerasure.org/jerasure/jerasure.git"
+    }
+}
