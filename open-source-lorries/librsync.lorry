@@ -1,0 +1,6 @@
+{
+    "librsync": {
+        "type": "git",
+        "url": "https://github.com/librsync/librsync.git"
+    }
+}

@@ -756,5 +756,10 @@
     "python/pelican": {
         "type": "git",
         "url": "https://github.com/getpelican/pelican.git"
+    },
+    "python-packages/rdiff-backup": {
+        "layout": "standard",
+        "type": "svn",
+        "url": "http://svn.savannah.nongnu.org/svn/rdiff-backup"
     }
 }
