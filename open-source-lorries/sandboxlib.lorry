@@ -1,0 +1,6 @@
+{
+    "sandboxlib": {
+        "type": "git",
+        "url": "git://github.com/codethinklabs/sandboxlib"
+    }
+}
