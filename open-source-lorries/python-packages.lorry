@@ -484,6 +484,10 @@
         "type": "git",
         "url": "git://github.com/agrover/rtslib-fb.git"
     },
+    "python-packages/ruamel.yaml": {
+        "type": "hg",
+        "url": "https://bitbucket.org/ruamel.yaml/"
+    },
     "python-packages/semantic-version": {
         "type": "git",
         "url": "git://github.com/rbarrois/python-semanticversion.git"
