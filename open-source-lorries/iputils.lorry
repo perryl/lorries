@@ -1,0 +1,6 @@
+{
+    "iputils": {
+        "type": "git",
+        "url": "git://github.com/iputils/iputils"
+    }
+}
