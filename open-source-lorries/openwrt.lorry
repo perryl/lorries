@@ -67,6 +67,10 @@
         "type": "git",
         "url": "git://nbd.name/uhttpd.git"
     },
+    "openwrt/uhttpd2": {
+        "type": "git",
+        "url": "git://nbd.name/uhttpd2.git"
+    },
     "openwrt/ustream-ssl": {
         "type": "git",
         "url": "git://nbd.name/ustream-ssl.git"
