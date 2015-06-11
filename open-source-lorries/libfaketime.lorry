@@ -1,0 +1,6 @@
+{
+    "libfaketime": {
+        "type": "git",
+        "url": "git://github.com/wolfcw/libfaketime"
+    }
+}
