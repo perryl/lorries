@@ -1,0 +1,6 @@
+{
+    "libnetfilter_cttimeout": {
+        "type": "git",
+        "url": "git://git.netfilter.org/libnetfilter_cttimeout"
+    }
+}

@@ -1,0 +1,6 @@
+{
+    "libnetfilter_cthelper": {
+        "type": "git",
+        "url": "git://git.netfilter.org/libnetfilter_cthelper"
+    }
+}

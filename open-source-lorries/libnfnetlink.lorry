@@ -1,0 +1,6 @@
+{
+    "libnfnetlink": {
+        "type": "git",
+        "url": "git://git.netfilter.org/libnfnetlink"
+    }
+}

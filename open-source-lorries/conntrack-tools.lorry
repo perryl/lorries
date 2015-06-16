@@ -1,0 +1,6 @@
+{
+    "conntrack-tools": {
+        "type": "git",
+        "url": "git://git.netfilter.org/conntrack-tools"
+    }
+}

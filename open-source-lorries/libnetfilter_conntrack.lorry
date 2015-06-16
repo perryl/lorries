@@ -1,0 +1,6 @@
+{
+    "libnetfilter_conntrack": {
+        "type": "git",
+        "url": "git://git.netfilter.org/libnetfilter_conntrack"
+    }
+}
