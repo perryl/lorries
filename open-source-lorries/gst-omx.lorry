@@ -1,0 +1,6 @@
+{
+    "gst-omx": {
+        "type": "git",
+        "url": "git://anongit.freedesktop.org/gstreamer/gst-omx"
+    }
+}
