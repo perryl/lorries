@@ -291,11 +291,11 @@
     },
    "openstack/tempest-lib": {
         "type": "git",
-        "url": "https://git.openstack.org/openstack/tempest-lib"
+        "url": "git://git.openstack.org/openstack/tempest-lib"
    },
    "openstack/tempest": {
         "type": "git",
-        "url": "https://git.openstack.org/openstack/tempest"
+        "url": "git://git.openstack.org/openstack/tempest"
    },
    "openstack/python-openstackclient": {
         "type": "git",
