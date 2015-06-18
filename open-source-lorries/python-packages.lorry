@@ -35,6 +35,10 @@
         "type": "git",
         "url": "git://github.com/dreamhost/cliff.git"
     },
+    "python-packages/cliff-tablib": {
+        "type": "git",
+        "url": "git://github.com/dreamhost/cliff-tablib.git"
+    },
     "python-packages/cmd2-hg": {
         "type": "hg",
         "url": "http://bitbucket.org/catherinedevlin/cmd2"

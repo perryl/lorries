@@ -296,5 +296,9 @@
    "openstack/tempest": {
         "type": "git",
         "url": "https://git.openstack.org/openstack/tempest"
+   },
+   "openstack/python-openstackclient": {
+        "type": "git",
+        "url": "git://git.openstack.org/openstack/python-openstackclient"
    }
 }
