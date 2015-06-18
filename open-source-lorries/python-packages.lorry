@@ -765,5 +765,9 @@
         "layout": "standard",
         "type": "svn",
         "url": "http://svn.savannah.nongnu.org/svn/rdiff-backup"
+    },
+    "python-packages/tablib": {
+        "type": "git",
+        "url": "git://github.com/kennethreitz/tablib.git"
     }
 }
