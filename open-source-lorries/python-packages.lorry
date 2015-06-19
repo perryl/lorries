@@ -769,5 +769,9 @@
     "python-packages/tablib": {
         "type": "git",
         "url": "git://github.com/kennethreitz/tablib.git"
+    },
+    "python-packages/appdirs": {
+        "type": "git",
+        "url": "git://github.com/ActiveState/appdirs.git"
     }
 }
