@@ -300,5 +300,9 @@
    "openstack/python-openstackclient": {
         "type": "git",
         "url": "git://git.openstack.org/openstack/python-openstackclient"
+   },
+   "openstack/os-client-config": {
+        "type": "git",
+        "url": "git://git.openstack.org/openstack/os-client-config.git"
    }
 }
