@@ -1,0 +1,6 @@
+{
+    "compiler-rt": {
+        "type": "git",
+        "url": "http://llvm.org/git/compiler-rt.git"
+    }
+}
