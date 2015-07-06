@@ -456,6 +456,10 @@
         "type": "git",
         "url": "git://github.com/getsentry/raven-python.git"
     },
+    "python-packages/rdflib": {
+        "type": "git",
+        "url": "git://github.com/rdflib/rdflib.git"
+    },
     "python-packages/redis-py": {
         "type": "git",
         "url": "git://github.com/andymccurdy/redis-py.git"
