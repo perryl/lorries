@@ -1,6 +1,6 @@
 {
     "subversion-tarball": {
         "type": "tarball",
-        "url": "http://www.mirrorservice.org/sites/ftp.apache.org/subversion/subversion-1.7.6.tar.bz2"
+        "url": "http://mirrors.ukfast.co.uk/sites/ftp.apache.org/subversion/subversion-1.8.13.tar.gz"
     }
 }
