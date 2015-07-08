@@ -1,0 +1,6 @@
+{
+    "swig": {
+        "type": "git",
+        "url": "git://github.com/swig/swig"
+    }
+}
