@@ -1,7 +1,7 @@
 {
     "qt-creator": {
         "type": "git",
-        "url": "git://gitorious.org/qt-creator/qt-creator.git",
+        "url": "git://code.qt.io/qt-creator/qt-creator.git",
         "refspecs": [
             "+refs/heads/*",
             "+refs/tags/*"

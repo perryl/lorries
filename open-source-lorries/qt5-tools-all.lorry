@@ -1,39 +1,39 @@
 {
     "qt5/qt3d": {
         "type": "git",
-        "url": "git://gitorious.org/qt/qt3d.git"
+        "url": "git://code.qt.io/qt/qt3d.git"
     },
     "qt5/qtimageformats": {
         "type": "git",
-        "url": "git://gitorious.org/qt/qtimageformats.git"
+        "url": "git://code.qt.io/qt/qtimageformats.git"
     },
     "qt5/qtwebkit": {
         "type": "git",
-        "url": "git://gitorious.org/qt/qtwebkit.git"
+        "url": "git://code.qt.io/qt/qtwebkit.git"
     },
     "qt5/qtquick1": {
         "type": "git",
-        "url": "git://gitorious.org/qt/qtquick1.git"
+        "url": "git://code.qt.io/qt/qtquick1.git"
     },
     "qt5/qtquickcontrols": {
         "type": "git",
-        "url": "git://gitorious.org/qt/qtquickcontrols.git"
+        "url": "git://code.qt.io/qt/qtquickcontrols.git"
     },
     "qt5/qtjsbackend": {
         "type": "git",
-        "url": "git://gitorious.org/qt/qtjsbackend.git"
+        "url": "git://code.qt.io/qt/qtjsbackend.git"
     },
     "qt5/qtxmlpatterns": {
         "type": "git",
-        "url": "git://gitorious.org/qt/qtxmlpatterns.git"
+        "url": "git://code.qt.io/qt/qtxmlpatterns.git"
     },
     "qt5/qtscript": {
         "type": "git",
-        "url": "git://gitorious.org/qt/qtscript.git"
+        "url": "git://code.qt.io/qt/qtscript.git"
     },
     "qt5/qtsensors": {
         "type": "git",
-        "url": "git://gitorious.org/qt/qtsensors.git",
+        "url": "git://code.qt.io/qt/qtsensors.git",
         "refspecs": [
             "+refs/heads/*:refs/heads/*",
             "+refs/tags/*:refs/tags/*"
@@ -41,39 +41,39 @@
     },
     "qt5/qtserialport": {
         "type": "git",
-        "url": "git://gitorious.org/qt/qtserialport.git"
+        "url": "git://code.qt.io/qt/qtserialport.git"
     },
     "qt5/qtsvg": {
         "type": "git",
-        "url": "git://gitorious.org/qt/qtsvg.git"
+        "url": "git://code.qt.io/qt/qtsvg.git"
     },
     "qt5/qtactiveqt": {
         "type": "git",
-        "url": "git://gitorious.org/qt/qtactiveqt.git"
+        "url": "git://code.qt.io/qt/qtactiveqt.git"
     },
     "qt5/qttools": {
         "type": "git",
-        "url": "git://gitorious.org/qt/qttools.git"
+        "url": "git://code.qt.io/qt/qttools.git"
     },
     "qt5": {
         "type": "git",
-        "url": "git://gitorious.org/qt/qt5.git"
+        "url": "git://code.qt.io/qt/qt5.git"
     },
     "qt5/qtgraphicaleffects": {
         "type": "git",
-        "url": "git://gitorious.org/qt/qtgraphicaleffects.git"
+        "url": "git://code.qt.io/qt/qtgraphicaleffects.git"
     },
     "qt5/qtdoc": {
         "type": "git",
-        "url": "git://gitorious.org/qt/qtdoc.git"
+        "url": "git://code.qt.io/qt/qtdoc.git"
     },
     "qt5/qtmultimedia": {
         "type": "git",
-        "url": "git://gitorious.org/qt/qtmultimedia.git"
+        "url": "git://code.qt.io/qt/qtmultimedia.git"
     },
     "qt5/qtdeclarative": {
         "type": "git",
-        "url": "git://gitorious.org/qt/qtdeclarative.git",
+        "url": "git://code.qt.io/qt/qtdeclarative.git",
         "refspecs": [
             "+refs/heads/*",
             "+refs/tags/*"
@@ -81,19 +81,19 @@
     },
     "qt5/qttranslations": {
         "type": "git",
-        "url": "git://gitorious.org/qt/qttranslations.git"
+        "url": "git://code.qt.io/qt/qttranslations.git"
     },
     "qt5/qtqa": {
         "type": "git",
-        "url": "git://gitorious.org/qt/qtqa.git"
+        "url": "git://code.qt.io/qt/qtqa.git"
     },
     "qt5/qtwebkit-examples": {
         "type": "git",
-        "url": "git://gitorious.org/qt/qtwebkit-examples.git"
+        "url": "git://code.qt.io/qt/qtwebkit-examples.git"
     },
     "qt5/qtbase": {
         "type": "git",
-        "url": "git://gitorious.org/qt/qtbase.git",
+        "url": "git://code.qt.io/qt/qtbase.git",
         "refspecs": [
             "+refs/heads/*",
             "+refs/tags/*"
@@ -101,38 +101,38 @@
     },
     "qt5/qtrepotools": {
         "type": "git",
-        "url": "git://gitorious.org/qt/qtrepotools.git"
+        "url": "git://code.qt.io/qt/qtrepotools.git"
     },
     "qt5/qtwayland": {
         "type": "git",
-        "url": "git://gitorious.org/qt/qtwayland.git"
+        "url": "git://code.qt.io/qt/qtwayland.git"
     },
     "qt5/qtx11extras": {
         "type": "git",
-        "url": "git://gitorious.org/qt/qtx11extras.git"
+        "url": "git://code.qt.io/qt/qtx11extras.git"
     },
     "qt5/qtconnectivity": {
         "type": "git",
-        "url": "git://gitorious.org/qt/qtconnectivity.git"
+        "url": "git://code.qt.io/qt/qtconnectivity.git"
     },
     "qt5/qtenginio": {
         "type": "git",
-        "url": "git://gitorious.org/qt/qtenginio.git"
+        "url": "git://code.qt.io/qt/qtenginio.git"
     },
     "qt5/qtlocation": {
         "type": "git",
-        "url": "git://gitorious.org/qt/qtlocation.git"
+        "url": "git://code.qt.io/qt/qtlocation.git"
     },
     "qt5/qtwebsockets": {
         "type": "git",
-        "url": "git://gitorious.org/qt/qtwebsockets.git"
+        "url": "git://code.qt.io/qt/qtwebsockets.git"
     },
     "qt5/qtwebchannel": {
         "type": "git",
-        "url": "git://gitorious.org/qt/qtwebchannel.git"
+        "url": "git://code.qt.io/qt/qtwebchannel.git"
     },
     "qt5/qtwebengine": {
         "type": "git",
-        "url": "git://gitorious.org/qt/qtwebengine.git"
+        "url": "git://code.qt.io/qt/qtwebengine.git"
     }
 }

@@ -1,6 +1,6 @@
 {
     "qbs": {
         "type": "git",
-        "url": "git://gitorious.org/qt-labs/qbs.git"
+        "url": "git://code.qt.io/qt-labs/qbs.git"
     }
 }
