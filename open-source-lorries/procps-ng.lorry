@@ -1,6 +1,6 @@
 {
     "procps-ng": {
         "type": "git",
-        "url": "git://gitorious.org/procps/procps.git"
+        "url": "https://gitlab.com/procps-ng/procps.git"
     }
 }
