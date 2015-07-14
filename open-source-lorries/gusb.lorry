@@ -1,6 +1,6 @@
 {
     "gusb": {
         "type": "git",
-        "url": "git://gitorious.org/gusb/gusb.git"
+        "url": "git://github.com/hughsie/libgusb.git"
     }
 }
