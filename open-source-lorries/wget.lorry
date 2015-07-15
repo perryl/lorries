@@ -1,0 +1,6 @@
+{
+    "wget": {
+        "type": "git",
+        "url": "git://git.sv.gnu.org/wget.git"
+    }
+}
