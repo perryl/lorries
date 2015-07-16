@@ -494,7 +494,7 @@
     },
     "python-packages/ruamel.yaml": {
         "type": "hg",
-        "url": "https://bitbucket.org/ruamel.yaml/"
+        "url": "https://bitbucket.org/ruamel/yaml/"
     },
     "python-packages/semantic-version": {
         "type": "git",
