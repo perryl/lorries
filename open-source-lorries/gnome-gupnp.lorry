@@ -1,0 +1,26 @@
+{
+    "gnome/gupnp": {
+        "type": "git",
+        "url": "git://git.gnome.org/gupnp.git"
+    },
+    "gnome/gupnp-av": {
+        "type": "git",
+        "url": "git://git.gnome.org/gupnp-av.git"
+    },
+    "gnome/gupnp-dlna": {
+        "type": "git",
+        "url": "git://git.gnome.org/gupnp-dlna.git"
+    },
+    "gnome/gupnp-tools": {
+        "type": "git",
+        "url": "git://git.gnome.org/gupnp-tools.git"
+    },
+    "gnome/gupnp-vala": {
+        "type": "git",
+        "url": "git://git.gnome.org/gupnp-vala.git"
+    },
+    "gnome/gssdp": {
+        "type": "git",
+        "url": "git://git.gnome.org/gssdp.git"
+    }
+}

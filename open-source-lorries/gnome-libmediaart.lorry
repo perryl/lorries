@@ -1,0 +1,6 @@
+{
+    "gnome/libmediaart": {
+        "type": "git",
+        "url": "git://git.gnome.org/libmediaart.git"
+    }
+}
