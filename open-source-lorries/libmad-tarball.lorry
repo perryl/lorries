@@ -1,0 +1,6 @@
+{
+    "libmad-tarball": {
+        "type": "tarball",
+        "url": "ftp://ftp.mars.org/pub/mpeg/libmad-0.15.1b.tar.gz"
+    }
+}
