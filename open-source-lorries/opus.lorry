@@ -1,0 +1,6 @@
+{
+    "opus": {
+        "type": "git",
+        "url": "git://git.xiph.org/opus.git"
+    }
+}

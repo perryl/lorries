@@ -1,0 +1,6 @@
+{
+    "libvorbis-git": {
+        "type": "git",
+        "url": "git://git.xiph.org/vorbis.git"
+    }
+}

@@ -1,0 +1,6 @@
+{
+    "tremor": {
+        "type": "git",
+        "url": "git://git.xiph.org/tremor.git"
+    }
+}

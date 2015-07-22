@@ -1,0 +1,6 @@
+{
+    "flac": {
+        "type": "git",
+        "url": "git://git.xiph.org/flac.git"
+    }
+}
