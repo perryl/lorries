@@ -1,0 +1,6 @@
+{
+    "ybd": {
+        "type": "git",
+        "url": "git://github.com/devcurmudgeon/ybd.git"
+    }
+}
