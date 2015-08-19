@@ -1,0 +1,6 @@
+{
+    "carton": {
+        "type": "git",
+        "url": "git://github.com/perl-carton/carton"
+    }
+}
