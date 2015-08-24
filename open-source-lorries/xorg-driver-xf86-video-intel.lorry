@@ -1,0 +1,6 @@
+{
+    "xorg-driver-xf86-video-intel": {
+        "type": "git",
+        "url": "git://anongit.freedesktop.org/xorg/driver/xf86-video-intel"
+    }
+}
