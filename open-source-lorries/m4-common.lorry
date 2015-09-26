@@ -1,0 +1,6 @@
+{
+    "m4-common": {
+        "type": "git",
+        "url": "git://github.com/desrt/m4-common.git"
+    }
+}
