@@ -1,0 +1,6 @@
+{
+    "autoconf-archive": {
+        "type": "git",
+        "url": "git://git.savannah.gnu.org/autoconf-archive.git"
+    }
+}
