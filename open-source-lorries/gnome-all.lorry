@@ -51,6 +51,10 @@
         "type": "git",
         "url": "git://git.gnome.org/libgee"
     },
+    "gnome/libgnome-volume-control": {
+        "type": "git",
+        "url": "git://git.gnome.org/libgnome-volume-control"
+    },
     "gnome/libsecret": {
         "type": "git",
         "url": "git://git.gnome.org/libsecret"
