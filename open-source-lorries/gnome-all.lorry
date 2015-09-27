@@ -51,6 +51,10 @@
         "type": "git",
         "url": "git://git.gnome.org/gsettings-desktop-schemas"
     },
+    "gnome/libgd": {
+        "type": "git",
+        "url": "git://git.gnome.org/libgd"
+    },
     "gnome/libgee": {
         "type": "git",
         "url": "git://git.gnome.org/libgee"
