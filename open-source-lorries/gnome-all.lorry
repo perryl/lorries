@@ -43,6 +43,10 @@
         "type": "git",
         "url": "git://git.gnome.org/gnome-shell"
     },
+    "gnome/gnome-shell-sass": {
+        "type": "git",
+        "url": "git://git.gnome.org/gnome-shell-sass"
+    },
     "gnome/gsettings-desktop-schemas": {
         "type": "git",
         "url": "git://git.gnome.org/gsettings-desktop-schemas"
