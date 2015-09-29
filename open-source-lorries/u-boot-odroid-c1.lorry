@@ -1,0 +1,6 @@
+{
+    "u-boot-odroid-c1": {
+        "type": "git",
+        "url": "https://github.com/hardkernel/u-boot.git"
+    }
+}
