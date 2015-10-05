@@ -1,0 +1,6 @@
+{
+    "ragel-tarball": {
+        "type": "tarball",
+        "url": "http://www.colm.net/files/ragel/ragel-6.9.tar.gz"
+    }
+}

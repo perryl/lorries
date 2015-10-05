@@ -1,0 +1,6 @@
+{
+    "colm-tarball": {
+        "type": "tarball",
+        "url": "http://www.colm.net/files/colm/colm-0.12.0.tar.gz"
+    }
+}
