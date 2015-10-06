@@ -1,0 +1,6 @@
+{
+    "udisks": {
+        "type": "git",
+        "url": "git://anongit.freedesktop.org/udisks"
+    }
+}
