@@ -1,0 +1,6 @@
+{
+    "gpgme": {
+        "type": "git",
+        "url": "git://git.gnupg.org/gpgme.git"
+    }
+}
