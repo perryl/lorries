@@ -1,0 +1,6 @@
+{
+    "xdg-app": {
+        "type": "git",
+        "url": "git://anongit.freedesktop.org/xdg-app/xdg-app"
+    }
+}
