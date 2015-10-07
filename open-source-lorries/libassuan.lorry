@@ -1,0 +1,6 @@
+{
+    "libassuan": {
+        "type": "git",
+        "url": "git://git.gnupg.org/libassuan.git"
+    }
+}
