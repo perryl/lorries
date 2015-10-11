@@ -1,0 +1,6 @@
+{
+    "telepathy-logger": {
+        "type": "git",
+        "url": "git://anongit.freedesktop.org/telepathy/telepathy-logger.git"
+    }
+}
