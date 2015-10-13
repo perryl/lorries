@@ -43,6 +43,10 @@
         "type": "git",
         "url": "git://git.gnome.org/gnome-shell"
     },
+    "gnome/gnome-terminal": {
+        "type": "git",
+        "url": "git://git.gnome.org/gnome-terminal"
+    },
     "gnome/gnome-shell-sass": {
         "type": "git",
         "url": "git://git.gnome.org/gnome-shell-sass"
@@ -74,5 +78,9 @@
     "gnome/libnotify": {
         "type": "git",
         "url": "git://git.gnome.org/libnotify"
+    },
+    "gnome/vte": {
+        "type": "git",
+        "url": "git://git.gnome.org/vte"
     }
 }
