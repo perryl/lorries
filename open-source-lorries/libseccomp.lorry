@@ -1,0 +1,6 @@
+{
+    "libseccomp": {
+        "type": "git",
+        "url": "git://github.com/seccomp/libseccomp.git"
+    }
+}
