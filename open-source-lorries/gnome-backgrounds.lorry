@@ -1,6 +1,0 @@
-{
-    "gnome-backgrounds": {
-        "type": "git",
-        "url": "https://github.com/GNOME/gnome-backgrounds.git"
-    }
-}

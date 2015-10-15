@@ -1,4 +1,8 @@
 {
+    "gnome/adwaita-icon-theme": {
+        "type": "git",
+        "url": "git://git.gnome.org/adwaita-icon-theme"
+    },
     "gnome/clutter": {
         "type": "git",
         "url": "git://git.gnome.org/clutter"
@@ -26,6 +30,10 @@
     "gnome/glib-networking": {
         "type": "git",
         "url": "git://git.gnome.org/glib-networking"
+    },
+    "gnome/gnome-backgrounds": {
+        "type": "git",
+        "url": "https://github.com/GNOME/gnome-backgrounds.git"
     },
     "gnome/gnome-control-center": {
         "type": "git",
