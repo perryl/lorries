@@ -87,6 +87,10 @@
         "type": "git",
         "url": "git://git.gnome.org/libnotify"
     },
+    "gnome/network-manager-applet": {
+        "type": "git",
+        "url": "git://git.gnome.org/network-manager-applet"
+    },
     "gnome/vte": {
         "type": "git",
         "url": "git://git.gnome.org/vte"
