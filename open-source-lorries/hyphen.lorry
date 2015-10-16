@@ -1,0 +1,6 @@
+{
+    "hyphen": {
+        "type": "git",
+        "url": "https://github.com/hunspell/hyphen.git"
+    }
+}
