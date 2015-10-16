@@ -1,7 +1,6 @@
 {
     "enchant": {
-        "type": "svn",
-        "url": "http://svn.abisource.com/enchant/",
-        "layout": "standard"
+        "type": "git",
+        "url": "https://github.com/AbiWord/enchant.git"
     }
 }
