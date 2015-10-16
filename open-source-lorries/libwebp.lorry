@@ -1,0 +1,6 @@
+{
+    "libwebp": {
+        "type": "git",
+        "url": "https://chromium.googlesource.com/webm/libwebp"
+    }
+}
