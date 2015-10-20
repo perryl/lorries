@@ -1,0 +1,6 @@
+{
+    "libpwquality": {
+        "type": "hg",
+        "url": "http://hg.fedorahosted.org/hg/libpwquality"
+    }
+}
