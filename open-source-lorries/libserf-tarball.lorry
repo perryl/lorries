@@ -1,6 +1,6 @@
 {
     "libserf-tarball": {
         "type": "tarball",
-        "url": "http://serf.googlecode.com/files/serf-1.1.0.tar.bz2"
+        "url": "https://archive.apache.org/dist/serf/serf-1.2.1.tar.bz2"
     }
 }
